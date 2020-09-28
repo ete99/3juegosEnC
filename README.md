@@ -12,4 +12,4 @@ Los juegos son:
 
 El juego es el archivo proyecto.exe en la carpeta Ejecutable interfaz se puede abrir y jugar.
 
-y para recompilar... ni yo se como compilar el codigo de nuevo. se necesita la libreria sdl2 y los fonts como dependencia, pero solo eso me acuerdo. 
+y para recompilar... ni yo se como compilar el código de nuevo. se necesita la librería sdl2 y los fonts como dependencia, pero solo eso me acuerdo. 
