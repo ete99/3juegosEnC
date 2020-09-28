@@ -1,0 +1,114 @@
+void render(SDL_Renderer *renderer, Snk *snk, Cola *cola);
+void renderMenu(SDL_Renderer *rendermenu, TTF_Font* font, SDL_Surface *surface, SDL_Texture *texture/*, SDL_Texture *texture*/, int colorSet, SDL_Rect pos[]);
+void render(SDL_Renderer *renderer, Snk *snk, Cola *cola)
+{
+    //set the drawing color to blue
+    SDL_SetRenderDrawColor(renderer, 127, 0, 0, 255);
+
+    //Clear the screen (to blue)
+    SDL_RenderClear(renderer);
+
+    //hace un cuadro verde
+    SDL_SetRenderDrawColor(renderer, 0, 255, 0, 255);
+
+    SDL_Rect rect2 = { 16, 16, 608, 608 };
+    SDL_RenderFillRect(renderer, &rect2);
+
+	//imprime la cuadricula
+	SDL_Rect mrec;
+    for (int i=0; i<18; i++)
+    {
+    	for (int j=0; j<18; j++)
+		{
+			if((i+j)%2==0)
+				SDL_SetRenderDrawColor(renderer, 127, 127, 127, 255);
+			else
+				SDL_SetRenderDrawColor(renderer, 0, 0, 0, 255);
+
+			mrec.h=32; //32 es el snk->dim y el tamanho asignado aa cada cuadrado
+			mrec.w=32;
+			mrec.x=32+j*32;
+			mrec.y=32+i*32;
+			SDL_RenderFillRect(renderer, &mrec);
+		}
+    }
+    //dibuja la manzana
+	SDL_Rect manzrect = { snk->manz.x, snk->manz.y, snk->dim, snk->dim};
+	SDL_SetRenderDrawColor(renderer, 174, 0, 1, 255);
+	SDL_RenderFillRect(renderer, &manzrect);
+	//dibuja la serpiente
+
+	SDL_SetRenderDrawColor(renderer, 174, 0, 1, 255);
+    SDL_Rect rect = { snk->x, snk->y, snk->dim, snk->dim};
+    SDL_RenderFillRect(renderer, &rect);
+	SDL_SetRenderDrawColor(renderer, 255, 255, 255, 255);
+    for(int i=0; i < cola->longitud; i++)
+	{
+		rect.x=cola->pos[i].x;
+		rect.y=cola->pos[i].y;
+
+		SDL_RenderFillRect(renderer, &rect);
+	}
+	//printf("%d %d\n", snk->manz.x, snk->manz.y);
+
+
+	//dibuja el menu
+	SDL_SetRenderDrawColor(renderer, 127, 127, 127, 0);
+
+    SDL_Rect rect1 = { 640, 0, 320, 640 };
+    SDL_RenderFillRect(renderer, &rect1);
+
+    //We are done drawing, "present" or show to the screen what we've drawn
+    SDL_RenderPresent(renderer);
+}
+#if 1
+void renderMenu(SDL_Renderer *rendermenu, TTF_Font* font, SDL_Surface *surface, SDL_Texture *texture/*, SDL_Texture *texture*/, int colorSet, SDL_Rect pos[])
+{
+		//renderizado
+		//coloca el color base en gris
+		SDL_SetRenderDrawColor(rendermenu, 127, 127, 127, 255);
+
+		// limpia en color gris
+		SDL_RenderClear(rendermenu);
+		int marg;
+		const int NUMMENU = 5;
+        const char* labels[] = {"Sopa de letras","Snake", "Crucigrama", "Creditos", "Salir"};
+        SDL_Surface* menus[NUMMENU];
+        SDL_Color color[2] = {{174,0,1,255},{255, 0, 0, 255}};
+		SDL_Color colorletra[2] = {{10,10,10,255},{255, 255, 255, 255}};
+		//SDL_Rect pos[NUMMENU];
+        SDL_Rect cuadroTex;
+
+		for (int i = 0; i < 5; ++i)
+		{
+			if(colorSet == i)
+			{
+				SDL_SetRenderDrawColor(rendermenu, color[1].r, color[1].g, color[1].b,255);
+				marg=1;
+			}
+			else
+			{
+				SDL_SetRenderDrawColor(rendermenu, color[0].r, color[0].g, color[0].b,255);
+				marg=0;
+			}
+			menus[i] = TTF_RenderText_Solid(font,labels[i], colorletra[marg]); // crea la superficie del texto para renderizar
+			texture = SDL_CreateTextureFromSurface(rendermenu, menus[i]);// transforma la superficie a una textura
+
+			pos[i].x = 480 - menus[i]->clip_rect.w/2; // posiciona los cuadrados de las texturas
+			pos[i].y = 75 + 100 * i + menus[i]->clip_rect.h/2;
+				//SDL_QueryTexture(texture, NULL, NULL, &texW, &texH);// lee los anchos y largos de las texturas(no es necesario)
+			pos[i].h = menus[i]->clip_rect.h;// pone los anchos y largos de las texturas
+			pos[i].w = menus[i]->clip_rect.w;
+
+			cuadroTex.w = 480 - pos[0].w - marg * 50;
+			cuadroTex.x = 480 - cuadroTex.w/2;
+			cuadroTex.y = 70 + 100 * i + menus[i]->clip_rect.h/2;
+			cuadroTex.h = menus[0]->clip_rect.h + 10;
+
+			SDL_RenderFillRect(rendermenu, &cuadroTex);
+			SDL_RenderCopy(rendermenu, texture, NULL, &pos[i]);
+		}
+}
+#endif
+
+

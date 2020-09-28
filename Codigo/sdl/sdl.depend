@@ -1,0 +1,482 @@
+# depslib dependency file v1.0
+1541203499 source:c:\users\beast aorus\desktop\facu\2do semestre\lenguajes\competencia fabri y stefano\semifinals\sdl\main.c
+	<SDL2/SDL.h>
+	<stdio.h>
+
+1519925906 c:\users\beast aorus\desktop\sdl\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\beast aorus\desktop\sdl\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\beast aorus\desktop\sdl\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1519925906 c:\users\beast aorus\desktop\sdl\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1519925906 c:\users\beast aorus\desktop\sdl\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\beast aorus\desktop\sdl\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\begin_code.h
+
+1519925906 c:\users\beast aorus\desktop\sdl\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\close_code.h
+
+1519925906 c:\users\beast aorus\desktop\sdl\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1519925906 c:\users\beast aorus\desktop\sdl\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1519925906 c:\users\beast aorus\desktop\sdl\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\beast aorus\desktop\sdl\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\beast aorus\desktop\sdl\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\beast aorus\desktop\sdl\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\beast aorus\desktop\sdl\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1519925906 c:\users\beast aorus\desktop\sdl\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\beast aorus\desktop\sdl\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\beast aorus\desktop\sdl\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\beast aorus\desktop\sdl\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\beast aorus\desktop\sdl\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\beast aorus\desktop\sdl\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\beast aorus\desktop\sdl\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\beast aorus\desktop\sdl\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\beast aorus\desktop\sdl\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\beast aorus\desktop\sdl\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\beast aorus\desktop\sdl\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1519925906 c:\users\beast aorus\desktop\sdl\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1519925906 c:\users\beast aorus\desktop\sdl\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\beast aorus\desktop\sdl\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\beast aorus\desktop\sdl\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\beast aorus\desktop\sdl\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1519925906 c:\users\beast aorus\desktop\sdl\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\beast aorus\desktop\sdl\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\beast aorus\desktop\sdl\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\beast aorus\desktop\sdl\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\beast aorus\desktop\sdl\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\beast aorus\desktop\sdl\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\beast aorus\desktop\sdl\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\beast aorus\desktop\sdl\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\beast aorus\desktop\sdl\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\beast aorus\desktop\sdl\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\beast aorus\desktop\sdl\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\beast aorus\desktop\sdl\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\beast aorus\desktop\sdl\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\beast aorus\desktop\sdl\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1541717914 source:c:\users\beast aorus\desktop\menu2\menu\sdl s\menu main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	"renderMenu.h"
+	"../sopadeletras/sopadeletras.h"
+
+1541972565 c:\users\beast aorus\desktop\menu2\menu\sdl s\menu main\rendermenu.h
+
+1541705814 c:\users\beast aorus\desktop\menu2\menu\sdl s\sopadeletras\sopadeletras.h
+	"structSopa.h"
+	"logicaSopa.h"
+	"renderSopa.h"
+
+1541714074 c:\users\beast aorus\desktop\menu2\menu\sdl s\sopadeletras\structsopa.h
+
+1541715050 c:\users\beast aorus\desktop\menu2\menu\sdl s\sopadeletras\logicasopa.h
+	<string.h>
+	<locale.h>
+	<time.h>
+	"utilSopa.h"
+
+1541719474 c:\users\beast aorus\desktop\menu2\menu\sdl s\sopadeletras\utilsopa.h
+
+1541705976 c:\users\beast aorus\desktop\menu2\menu\sdl s\sopadeletras\rendersopa.h
+	<locale.h>
+
+1541973451 source:c:\users\beast aorus\desktop\menu2\menu main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	"renderMenu.h"
+	"../sopadeletras/sopadeletras.h"
+	"../crucigrama/crucigrama.h"
+	"../snake/snake.h"
+
+1541980481 c:\users\beast aorus\desktop\menu2\menu main\rendermenu.h
+
+1541974799 c:\users\beast aorus\desktop\menu2\sopadeletras\sopadeletras.h
+	"structSopa.h"
+	"logicaSopa.h"
+	"renderSopa.h"
+
+1541974335 c:\users\beast aorus\desktop\menu2\sopadeletras\structsopa.h
+
+1541979948 c:\users\beast aorus\desktop\menu2\sopadeletras\logicasopa.h
+	"utilSopa.h"
+
+1541974767 c:\users\beast aorus\desktop\menu2\sopadeletras\utilsopa.h
+
+1541974834 c:\users\beast aorus\desktop\menu2\sopadeletras\rendersopa.h
+
+1541978999 c:\users\beast aorus\desktop\menu2\crucigrama\crucigrama.h
+	"logicaCruci.h"
+	"renderCruci.h"
+
+1541978923 c:\users\beast aorus\desktop\menu2\crucigrama\logicacruci.h
+	<string.h>
+	<locale.h>
+	<time.h>
+	"utilCruci.h"
+
+1541978550 c:\users\beast aorus\desktop\menu2\crucigrama\utilcruci.h
+
+1541975260 c:\users\beast aorus\desktop\menu2\crucigrama\rendercruci.h
+
+1541931796 c:\users\beast aorus\desktop\menu2\snake\snake.h
+	"structdatos.h"
+	"logica.h"
+
+1541930602 c:\users\beast aorus\desktop\menu2\snake\structdatos.h
+
+1541979632 c:\users\beast aorus\desktop\menu2\snake\logica.h
+	"rend.h"
+	<math.h>
+
+1541980572 c:\users\beast aorus\desktop\menu2\snake\rend.h
+	<string.h>
+
+1541990382 source:c:\users\beast aorus\desktop\proyecto sdl\menu2\menu main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	<math.h>
+	"renderMenu.h"
+	"../sopadeletras/sopadeletras.h"
+	"../crucigrama/crucigrama.h"
+	"../snake/snake.h"
+
+1541990003 c:\users\beast aorus\desktop\proyecto sdl\menu2\menu main\rendermenu.h
+
+1541990754 c:\users\beast aorus\desktop\proyecto sdl\menu2\sopadeletras\sopadeletras.h
+	"structSopa.h"
+	"logicaSopa.h"
+	"renderSopa.h"
+
+1541994245 c:\users\beast aorus\desktop\proyecto sdl\menu2\sopadeletras\structsopa.h
+
+1541990754 c:\users\beast aorus\desktop\proyecto sdl\menu2\sopadeletras\logicasopa.h
+	"utilSopa.h"
+
+1541990754 c:\users\beast aorus\desktop\proyecto sdl\menu2\sopadeletras\utilsopa.h
+
+1541990754 c:\users\beast aorus\desktop\proyecto sdl\menu2\sopadeletras\rendersopa.h
+
+1541990754 c:\users\beast aorus\desktop\proyecto sdl\menu2\crucigrama\crucigrama.h
+	"logicaCruci.h"
+	"renderCruci.h"
+
+1541990754 c:\users\beast aorus\desktop\proyecto sdl\menu2\crucigrama\logicacruci.h
+	<string.h>
+	<locale.h>
+	<time.h>
+	"utilCruci.h"
+
+1541990754 c:\users\beast aorus\desktop\proyecto sdl\menu2\crucigrama\utilcruci.h
+
+1541990754 c:\users\beast aorus\desktop\proyecto sdl\menu2\crucigrama\rendercruci.h
+
+1541990754 c:\users\beast aorus\desktop\proyecto sdl\menu2\snake\snake.h
+	"structdatos.h"
+	"logica.h"
+
+1541930602 c:\users\beast aorus\desktop\proyecto sdl\menu2\snake\structdatos.h
+
+1541990754 c:\users\beast aorus\desktop\proyecto sdl\menu2\snake\logica.h
+	"rend.h"
+
+1541990252 c:\users\beast aorus\desktop\proyecto sdl\menu2\snake\rend.h
+	<string.h>
+

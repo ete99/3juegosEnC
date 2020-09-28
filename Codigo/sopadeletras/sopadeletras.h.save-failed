@@ -1,0 +1,107 @@
+#include "structSopa.h"
+#include "logicaSopa.h"
+#include "renderSopa.h"
+int sopaDeLetras();
+
+int sopaDeLetras()
+{
+    SDL_Window *window;
+    SDL_Renderer *renderer;
+    SDL_Init(SDL_INIT_VIDEO);
+
+    TTF_Init();
+	Uint32 delay, start, tiempo;
+    Palabra matriz[M][N];
+    Estado estado;
+    estado.win = 0;
+    estado.puntos = 0;
+    estado.tiempo = 0;
+    for(int i = 0; i < M; i++)
+	{
+		for(int j = 0; j < N; j++)
+		{
+			estado.matbin[i][j] = 0;
+			matriz[i][j].high = 0;
+		}
+	}
+    #if 0
+    PalSelec seleccionado;
+    seleccionado.longuitud = 0;
+	#endif
+	generarSopa(matriz);
+	delay = 60; // delay necesario par que no se queme la pc
+
+	//iniciarSopa(matriz);
+
+	int menu = 320; // tamanho del menu
+
+    //crea la ventana
+    window = SDL_CreateWindow("Sopa de letras",            		// titulo
+                            SDL_WINDOWPOS_UNDEFINED,            // pos inicial x
+                            SDL_WINDOWPOS_UNDEFINED,            // pos inicial y
+                            640+menu,                           // ancho
+                            640,                                // altura
+                            0                                   // min, 0, max 1
+                            );
+    renderer = SDL_CreateRenderer(window, -1, SDL_RENDERER_ACCELERATED);
+
+	TTF_Font *font = TTF_OpenFont("cambriab.ttf", 25);// trae el tipo de texto
+	SDL_Rect pos[5]; // posicion de los botones
+	SDL_Rect posc[M][N];
+
+    int done = 0, eleccion, pausa = 0;
+	tiempo = SDL_GetTicks();
+    while(done != -1 && done != 1 && tempo < 100000)
+    {
+		start=SDL_GetTicks();
+        //Check for events
+		#if 1
+
+		eleccion = processSopa(window, tempo, pos, posc, &pausa, matriz, &estado);
+		switch(eleccion)
+		{
+			case -1: // salir del programa
+				done = -1;
+				break;
+			case 0: // seguir corriendo
+				done = 0;
+				break;
+			case 1: //volver al menu
+				done = 1;
+				break;
+			case 2: //pausar
+				pausa = 1;
+				break;
+			case 3: // salir del programa
+				done = -1;
+				break;
+			case 4: //reiniciar
+				pausa = 1;
+				//iniciarJuego(&snk, &cola);
+				break;
+			case 5: //resumir
+				pausa = 0;
+				break;
+		}
+		#endif
+
+		renderSopa(renderer, font, pos, posc, &pausa, matriz, &estado); // renderizar lo sucedido
+
+		//system("pause");
+		tempo++; // aumenta el tempo
+		tempo = tempo%1001; // para que no se exceda
+		if(delay>SDL_GetTicks()-start){ //si tarda menos del delay dar delay de lo menos que tardo
+			SDL_Delay(delay-(SDL_GetTicks()-start));
+		}
+		//printf("%d\n", (start - tiempo)/60);
+    }
+
+    // cerrar la ventana
+    SDL_DestroyWindow(window);
+    SDL_DestroyRenderer(renderer);
+
+    // Clean up
+    TTF_Quit();
+    SDL_Quit();
+    return done;
+}

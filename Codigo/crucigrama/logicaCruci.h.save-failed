@@ -1,0 +1,408 @@
+#include <string.h>
+#include <locale.h>
+#include <time.h>
+#include "utilCruci.h"
+
+//char cruci[15][15];
+char paldelcruci[20];
+char matsign[20][200];
+Situada situadas[20];
+void generarCruci();
+void BuscarMatriz(Palabra matriz[][N]);
+int logicoCruci(char matriz[][N], const Uint8 *state, int* pausa, Estado *estado);
+int processCruci(SDL_Window *window, SDL_Rect pos[], SDL_Rect posc[][N], SDL_Rect pospalabras[], int *pausa,  char matriz[][N], Estado* estado,char matreal[][N]);//,TTF_Font* font, SDL_Renderer *renderer);
+void iniciarCruci(char matriz[][N], char prueba[][N], Estado *estado);
+
+int processCruci(SDL_Window *window, SDL_Rect pos[], SDL_Rect posc[][N], SDL_Rect pospalabras[], int *pausa,  char matriz[][N], Estado* estado,char matreal[][N])//,TTF_Font* font, SDL_Renderer *renderer)
+{
+	int eleccion = 0,w,h,seleccionado = 1, comprobar= 0;
+	char data = ' ';
+	//data[1]='\0';
+	//if(estado->tempo < 1200)
+	{
+		SDL_Event event;
+		int x, y, numBOT = 3, send = 0;
+		SDL_Rect textRect;
+		SDL_Color textColor = {0,0,0,255};
+		while(SDL_PollEvent(&event))
+		{
+			switch(event.type)
+			{
+				case SDL_WINDOWEVENT_CLOSE:
+				{
+					if(window)
+					{
+					SDL_DestroyWindow(window);
+					window = NULL;
+					return -1;
+					}
+					break;
+				}
+				case SDL_KEYDOWN:
+				{
+					if(seleccionado)
+					{
+						data =  event.key.keysym.sym;//SDL_GetScancodeName(event.key.keysym.scancode);
+						printf("%c\n", data);
+						send = 1;
+					}
+					switch(event.key.keysym.sym)
+					{
+						case SDLK_ESCAPE:
+						return -1;
+						break;
+						case SDLK_SPACE:
+							{
+								if(*pausa == 0)
+									*pausa=1;
+								else if(!estado->win)
+									*pausa=0;
+							}
+							break;/*
+						case SDLK_r:
+							{
+								iniciarCruci(matriz, estado);//reinicia el juego
+								*pausa=1;
+							}
+							break;*/
+						case SDLK_RETURN:
+							{
+								if(!(*pausa)) // si no esta pausado puede mandar la palabra
+									comprobar = 1;
+							}
+							break;
+						case SDLK_TAB:
+							return 4;
+					}
+					break;
+				}
+
+				case SDL_QUIT:
+				//sale del juego
+				return -1;
+				break;
+				case SDL_MOUSEBUTTONDOWN:
+				{
+					x = event.button.x;
+					y = event.button.y;
+					if(*pausa)
+						numBOT = 5;
+					else
+						numBOT = 3;
+					for(int i = 0; i < numBOT; i++)
+					{
+						if(x>=pos[i].x && x<=pos[i].x+pos[i].w && y>=pos[i].y && y<=pos[i].y+pos[i].h)
+						{
+							return (i+1);
+						}
+					}
+
+					if ( !(*pausa) ) //sie esta pausado, no deberia poder aceptar input
+					{
+						for(int i = 0; i < N; i++)
+						{
+							for(int j = 0; j < N; j++)
+							{
+								if(x >= posc[i][j].x && x <= posc[i][j].x + posc[i][j].w && y >= posc[i][j].y && y <= posc[i][j].y + posc[i][j].h)
+								{
+									if(estado->matbin[i][j] == 0 && matriz[i][j] != ' ')
+									{
+										for(int i = 0; i < N; i++)
+										{
+											for(int j = 0; j < N; j++)
+											{
+												estado->matbin[i][j] = 0;
+											}
+										}
+										estado->matbin[i][j] = 1;
+
+									}
+									else
+									{
+										estado->matbin[i][j] = 0;
+									}
+
+								}
+							}
+						}
+					}
+
+					for(int i = 0; i < 20; i++)//significados
+					{
+						if(x>=pospalabras[i].x && x<=pospalabras[i].x+pospalabras[i].w && y>=pospalabras[i].y && y<=pospalabras[i].y+pospalabras[i].h)
+						{
+							//abrir significado
+							printf("%s\n", situadas[i].palabra);
+							significado(matsign[i]);
+						}
+					}
+					break;
+				}
+			}
+		}
+		if(!(*pausa) && !estado->win && send && data != ' ')
+		{
+			send = 0;
+
+			#if 1
+
+			for(int i = 0; i < N; i++)
+			{
+				for(int j = 0; j < N; j++)
+				{
+					if(estado->matbin[i][j])
+					{
+						matriz[i][j] = data;
+					}
+				}
+			}
+
+
+			#endif // 0
+
+			//const Uint8 *state = SDL_GetKeyboardState(NULL); //lee es estado y pasa el estado al logico
+			//eleccion = logicoCruci(matriz, state, pausa, estado);//si logico verifica si supero los limites
+		}
+		if(comprobar)// si aprieta enter, para terminar
+		{
+			for(int i=0 ; i<15 ; i++)
+			{
+				for(int j=0 ; j<15 ; j++)
+				{
+					if(matreal[i][j] != matriz[i][j])
+						return 4;
+				}
+			}
+
+		}
+	}
+
+	return eleccion;
+}
+
+void generarCruci(char cruci[][15])
+{
+	srand(1);
+	int k,i,j;
+	char letra[2];
+	char *p;
+	char mat[20][20][16];
+
+	setlocale(LC_ALL, "spanish");// para usar la Ñ
+	//srand(time(NULL));
+
+	char matpal[20][16];
+	int uno= 0;
+	while(uno < 19)
+	{
+		//ceramos todo aca por si se tiene que repetir
+		for(i=0 ; i<20 ; i++){
+			for(j=0 ; j<20 ; j++){ //Se llena la matriz con espacios en blanco
+				mat[i][j][0] = ' ';
+				mat[i][j][1] = '\0';
+			}
+		}
+
+		for(i=0 ; i<15 ; i++){
+			for(j=0 ; j<15 ; j++){ //Se llena la matriz con espacios en blanco
+				cruci[i][j] = ' ';
+			}
+		}
+		uno = 0;
+
+		generarPalabras(matpal, matsign);//no ordenar por que o sino se pierde la posicion del significado
+		memset(&mat,0,sizeof(mat));
+		memset(&letra,0,sizeof(letra));
+		for (i=0; i<20; i++)
+		{
+			for (j=0; j<20; j++)
+			{
+				for (k=0; k<strlen(matpal[i]); k++){
+					append(letra,matpal[i][k]);
+					p=strstr(matpal[j],letra);
+					if(p!=NULL){
+						append(mat[i][j], matpal[i][k]);
+					}
+					memset(&letra,0,sizeof(letra));	//Vacia la variable "letra"
+				}
+			}
+		}
+
+		strcpy(situadas[0].palabra, matpal[0]);
+		situadas[0].used = 1;
+		situadas[0].i = 1;
+		situadas[0].j = 0;
+		situadas[0].direc = 0;
+		for (i=1; i<20; i++)
+		{
+			strcpy(situadas[i].palabra, matpal[i]);
+			situadas[i].used = 0;
+			situadas[i].i = -1;
+			situadas[i].j = -1;
+			situadas[i].direc = -1;
+		}
+
+		////////////////////////*chequear si se puede formar un crucigrama*/ ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+		#if 1
+		for (i = 0; i < 20; ++i)
+		{
+			printf("%s\n", matpal[i]);
+
+			printf("%s\n", matsign[i]);
+		}
+		//system("pause");
+		#endif
+
+		situarCruci(situadas[0], cruci); // pone la primera palabra del crucigrama
+
+		/*con matriz*/
+
+
+		int cpudo = 0;
+		int direc;
+		for (int pospalabra2=0; pospalabra2<20; pospalabra2++) //itera una vex mas por si puede encontrar mas palabras
+		{
+			for (int pospalabra=0; pospalabra<20; pospalabra++)
+			{
+				cpudo = 0;
+				if(situadas[pospalabra].used == 0)
+				{
+					for (k=0; k<15 && !cpudo; k++)
+					{
+						for (i=0; i<15 &&!cpudo; i++)
+						{
+							for (j=0; j<15 && !cpudo; j++)
+							{
+								if(cruci[i][j] == situadas[pospalabra].palabra[k] && k<strlen(situadas[pospalabra].palabra))
+								{
+									int izq, der;
+									int largo = strlen(situadas[pospalabra].palabra); //largo de la segunda palabra
+									izq = k; // cantidad de bloques a un lado
+									der = largo - 1 - izq;
+
+									#if 1
+									if(cruci[i][j+1] == ' ' && cruci[i][j-1] == ' ')
+									{
+										direc= 0;
+										if(entraSimple(i, j, 1, izq, der))
+										{
+											cpudo = nochoca(i,j,cruci,situadas[pospalabra].palabra, 1,izq,der);
+										}
+									}
+
+									#endif
+
+									#if 1
+									if(cruci[i-1][j] == ' ' && !cpudo && cruci[i+1][j]== ' ')
+									{
+										direc= 1;
+										if(entraSimple(i, j, 0, izq, der))
+										{
+											cpudo = nochoca(i,j,cruci,situadas[pospalabra].palabra, 0,izq,der);
+										}
+									}
+
+									#endif
+
+									if (cpudo)
+									{
+										//inter1.let = crucigrama[i][j];
+										//inter1.interpal1 = i - k;
+										//inter1.interpal2 = j;
+										situadas[pospalabra].direc= direc;
+										situadas[pospalabra].i = i;
+										situadas[pospalabra].j = j;
+										if(direc)
+										{
+											situadas[pospalabra].i -= k;
+										}
+										else
+										{
+											situadas[pospalabra].j -= k;
+										}
+
+										situadas[pospalabra].used = 1;
+
+										uno++;
+
+										situarCruci(situadas[pospalabra], cruci);
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+
+	printf("\nunoo:%d\n", uno);
+	#if 0
+	for (int k=0; k<20; k++)
+	{
+		if(situadas[k].used)
+		{
+			//printf("%20s %20d %d\n", situadas[k].palabra, situadas[k].i, situadas[k].j);
+			situarCruci(situadas[k], cruci);
+		}
+	}
+	//printf("%d %d\n");
+
+    #endif // 0
+
+	imprimirBien(cruci);
+	#if 0
+	printf("   ");
+	for (i=0; i<15; i++)
+		printf("%2d ", i);
+		printf("\n");
+	for (i=0; i<16; i++)
+	{
+		for (j=0; j<16; j++)
+		{
+			if(j == 0)
+			{
+				printf("%2d ", i-1);
+			}
+
+			if(i && j)
+				printf("%2c ", crucigrama[i-1][j-1]);
+		}
+		printf("\n");
+	}
+	printf("\n");
+	#endif
+}
+
+#if 1
+void iniciarCruci(char matriz[][N], char prueba[][N], Estado *estado)
+{
+    estado->win = 0;
+    estado->puntos = 0;
+    estado->nuevo = 0;
+    estado->tempo = 0;
+    generarCruci(matriz);
+    for(int i = 0; i < N; i++)
+	{
+		for(int j = 0; j < N; j++)
+		{
+			estado->matbin[i][j] = 0;
+
+			if(matriz[i][j] != ' ')
+				prueba[i][j] = '/';
+			else
+				prueba[i][j] = ' ';
+		}
+	}
+	for(int i=0 ; i<20 ; i++)
+	{
+		if(situadas[i].direc)
+			sprintf(palabras[i],"(%d, %d) vert.", situadas[i].i,situadas[i].j);
+		else
+			sprintf(palabras[i],"(%d, %d) hori.", situadas[i].i,situadas[i].j);
+		//strcpy(palabras[i], "hol");
+		//printf("%s\n", palabras[i]);
+	}
+}
+#endif
+

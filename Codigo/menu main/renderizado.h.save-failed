@@ -1,0 +1,114 @@
+
+void render(SDL_Renderer *renderer, Snk *snk)
+{
+    //set the drawing color to blue
+    SDL_SetRenderDrawColor(renderer, 0, 0, 255, 255);
+
+    //Clear the screen (to blue)
+    SDL_RenderClear(renderer);
+
+    //set the drawing color to white
+    SDL_SetRenderDrawColor(renderer, 255, 255, 255, 255);
+
+    SDL_Rect rect = { snk->x, snk->y, snk->dim, snk->dim };
+    SDL_RenderFillRect(renderer, &rect);
+
+	SDL_SetRenderDrawColor(renderer, 127, 127, 127, 0);
+
+    SDL_Rect rect1 = { 640, 0, 300, 640 };
+    SDL_RenderFillRect(renderer, &rect1);
+
+    //We are done drawing, "present" or show to the screen what we've drawn
+    SDL_RenderPresent(renderer);
+}
+
+
+
+int logico(Snk *snk, const Uint8 *state)
+{
+	int done=0;
+	static Uint8 *prev;
+	static int primero=0, logk;
+	logk=0;
+	if(state[SDL_SCANCODE_LEFT] || state[SDL_SCANCODE_UP] || state[SDL_SCANCODE_DOWN] || state[SDL_SCANCODE_RIGHT])
+	{
+		logk=1;
+	}
+
+	if(primero==0)
+	{
+		prev=state;
+		primero++;
+		printf("holwis\n");
+	}
+
+	if(state[SDL_SCANCODE_LEFT])
+    {
+		snk->x -= snk->vel*snk->dim;
+		snk->l=1;
+		snk->d=snk->r=snk->u=0;
+    }
+    else if(state[SDL_SCANCODE_UP])
+    {
+		snk->y -= snk->vel*snk->dim;
+		snk->u=1;
+		snk->d=snk->r=snk->l=0;
+    }
+    else if(state[SDL_SCANCODE_DOWN])
+    {
+		snk->y += snk->vel*snk->dim;
+		snk->d=1;
+		snk->l=snk->r=snk->u=0;
+    }
+	else if(state[SDL_SCANCODE_RIGHT])
+    {
+		snk->x += snk->vel*snk->dim;
+		snk->r=1;
+		snk->d=snk->l=snk->u=0;
+    }
+    else
+	{
+		if(snk->l)
+		{
+			snk->x -= snk->vel*snk->dim;
+		}
+		else if(snk->u)
+		{
+			snk->y -= snk->vel*snk->dim;
+		}
+		else if(snk->d)
+		{
+			snk->y += snk->vel*snk->dim;
+		}
+		else if(snk->r)
+		{
+			snk->x += snk->vel*snk->dim;
+		}
+	}
+
+    if((snk->x>640+300-snk->dim*2 || snk->x<0+snk->dim || snk->y<0+snk->dim || snk->y>640-snk->dim))
+		printf("holax");
+	return done;
+}
+/*
+void mover(Uint8 *state)
+{
+	if(state[SDL_SCANCODE_LEFT] && snk->x>0)
+    {
+		snk->x -= 10;
+    }
+    else if(state[SDL_SCANCODE_RIGHT])
+    {
+		snk->x += 10;
+    }
+    else if(state[SDL_SCANCODE_UP])
+    {
+		snk->y -= 10;
+    }
+    else
+    {
+		snk->y += 10;
+    }
+}
+*/
+

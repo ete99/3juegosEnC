@@ -1,0 +1,1227 @@
+1226
+1-abajo-adv. En un lugar o parte inferior Ejemplo: "tengo el coche abajo, en el garaje."
+2-abierta-adj. Que permite el paso Ejemplo: "con la ventana abierta entrarán moscas."
+3-abierto-adj. Que permite el paso Ejemplo: "con la ventana abierta entrarán moscas."
+4-abogado-s. DERECHO, OFICIOS Y PROFESIONES Licenciado en derecho que se dedica a defender en juicio los derechos e intereses de los litigantes y dar dictamen sobre cuestiones judiciales. 
+5-abre-v. tr. y prnl. Separar las partes de una cosa dejando su interior al descubierto 
+6-abril-s. m. Cuarto mes del año, entre marzo y mayo en el calendario occidental Ejemplo: "el 20 de abril es mi aniversario."
+7-abrir-v. tr. y prnl. Separar las partes de una cosa dejando su interior al descubierto 
+8-acaba-v. tr. y prnl. Concluir o dar fin a una cosa 
+9-acaso-adv. Tal vez Ejemplo: "acaso llegue a decirte alguna vez la verdad."
+10-acceso-s. m. Entrada o paso por el que se llega a un sitio. 
+11-aceite-s. m. COCINA Sustancia líquida, grasa, de color amarillo verdoso, obtenida de algunos frutos o semillas, como aceitunas, cacahuetes, soja, maíz, y usada para cocinar. 
+12-aceptar-v. tr. Recibir una persona una cosa voluntariamente Ejemplo: "aceptó ilusionada su regalo."
+13-actitud-s. f. Modo de ser y de comportarse 
+14-actividad-s. f. Facultad de moverse, obrar, trabajar o realizar una acción Ejemplo: "agotarse con la actividad de la mañana."
+15-acto-s. m. Manifestación concreta y externa del comportamiento, en una situación y con un fin determinados 
+16-actor-s. m. CINE, OFICIOS Y PROFESIONES, TEATRO Persona que interpreta un papel en una obra teatral, de cine o de televisión 
+17-actos-s. m. Manifestación concreta y externa del comportamiento, en una situación y con un fin determinados 
+18-actual-adj. Que pertenece al momento presente Ejemplo: "tendencias pictóricas actuales."
+19-actuales-adj. Que pertenece al momento presente Ejemplo: "tendencias pictóricas actuales."
+20-actualidad-s. f. Tiempo presente 
+21-acuerdo-s. m. Decisión que toma una persona o varias sobre un asunto, tras su ponderación 
+22-acuerdos-s. m. Decisión que toma una persona o varias sobre un asunto, tras su ponderación 
+23-afirma-v. tr. y prnl. Hacer que una cosa esté segura o firme Ejemplo: "afirmó la puerta con clavos y listones."
+24-afirmo-v. tr. y prnl. Hacer que una cosa esté segura o firme Ejemplo: "afirmó la puerta con clavos y listones."
+25-agentes-adj. Que obra o puede obrar. 
+26-agosto-s. m. Octavo mes del año, entre julio y setiembre, en el calendario occidental. 
+27-agrego-v. tr. y prnl. Unir una cosa a otra para formar un todo Ejemplo: "agregar condimentos al guiso."
+28-agua-s. f. Sustancia líquida, inodora, insípida y transparente, incolora en pequeña cantidad y verdosa o azulada en grandes masas, compuesta de una molécula de oxígeno y dos de hidrógeno. 
+29-aguas- reflejo en forma de onda 
+30-ahora-adv. En este momento Ejemplo: "ahora me doy cuenta de mi error."
+31-aire-s. m. QUÍMICA Envoltura gaseosa de la Tierra, formada principalmente por oxígeno, nitrógeno, argón y otros gases nobles, vapor de agua y dióxido de carbono. 
+32-alcalde-s. ADMINISTRACIÓN Cargo de presidente del ayuntamiento municipal y delegado del gobierno en el orden administrativo. 
+33-alcanzar-v. tr. Llegar a juntarse con una persona o una cosa que va delante o ponerse a su altura Ejemplo: "alcanzaron al fugitivo en mitad del parque."
+34-alegria-s. f. Sentimiento de satisfacción experimentado por un suceso favorable o la obtención de una cosa que se deseaba vivamente, que se manifiesta con sonrisas, carcajadas u otros gestos 
+35-aleman-adj. De Alemania, país europeo, o de su lengua. 
+36-algo-pron. indef. Indica acción, objeto o idea indeterminada 
+37-alguien-pron. indef. Denota a una persona indeterminada 
+38-alguno-adj./ pron. indef. Indica persona, animal o cosa indeterminada Ejemplo: "algunos pepinos amargan; algunos vendrán."
+39-algun-adj. indef. Apócope de alguno, siempre antepuesto al nombre masculino singular Ejemplo: "enséñeme algún perro."
+40-alianza-s. f. Reunión o relación de ayuda recíproca entre países, gobiernos y distintos colectivos humanos o personas. pacto, coalición 
+41-alla-adv. Indica un lugar alejado del que habla, pero con menos precisión que allí Ejemplo: "vive allá arriba; viene por allá."
+42-alma-s. f. TEOLOGÍA Parte inmaterial del ser humano y principio espiritual, aunque distinto del espíritu, que, según la tradición judeocristiana, sobrevive al cuerpo material de las personas. ánima 
+43-alrededor-adv. Denota la situación de personas o cosas entorno a otras, o la dirección en que se mueven para rodearlas Ejemplo: "se sentaron alrededor de la mesa."
+44-alta-s. f. MEDICINA Certificación médica que declara a un enfermo ya curado para poder abandonar un centro hospitalario o reincorporarse a su trabajo Ejemplo: "el médico ya le ha firmado el alta médica."
+45-alto-adj. Que está o llega, en sentido vertical, a una distancia relativamente elevada de la superficie que se toma como punto de referencia 
+46-altura-s. f. Distancia o elevación de un cuerpo respecto a una superficie de referencia determinada. altitud 
+47-alumnos-s. ENSEÑANZA Persona que recibe enseñanzas, con respecto del docente o el centro que las imparten, o de la materia de que se trata: los alumnos de química siempre llegan tarde. discípulo, estudiante 
+48-ambiente-s. m. Fluido que rodea los cuerpos o un lugar Ejemplo: "el ambiente de la ciudad era irrespirable."
+49-amigo-adj./ s. Se refiere a la persona que mantiene una relación de amistad con otra Ejemplo: "sus amigos le organizaron una fiesta sorpresa."
+50-amigos-adj./ s. Se refiere a la persona que mantiene una relación de amistad con otra Ejemplo: "sus amigos le organizaron una fiesta sorpresa."
+51-amor-s. m. Sentimiento de afecto y pasión experimentado por una persona hacia otra Ejemplo: "el amor que les une les da fuerza y esperanza."
+52-animal-s. m. ZOOLOGÍA Ser vivo sensible, que por lo general se nutre de alimentos sólidos y está dotado de movimiento. 
+53-animales-s. m. ZOOLOGÍA Ser vivo sensible, que por lo general se nutre de alimentos sólidos y está dotado de movimiento. 
+54-ante-s. m. Piel de algunos animales adobada y curtida Ejemplo: "lucía una americana de ante."
+55-anterior-adj. Que precede en el espacio o en el tiempo 
+56-anteriores-adj. Que precede en el espacio o en el tiempo 
+57-antes-adv. Hace rato, hace tiempo Ejemplo: "ya te lo dije antes."
+58-antiguo-adj. Que existe desde hace mucho tiempo 
+59-anuncio-s. m. Acción de anunciar Ejemplo: "hizo público el anuncio de la boda."
+60-aparecen-v. intr. Empezar a existir una cosa 
+61-aparicion-s. f. Acción y resultado de aparecer o aparecerse. 
+62-aparte-adj. Diferente o distinto Ejemplo: "el suyo es un caso aparte."
+63-apenas-adv. Casi no, escasamente Ejemplo: "tiene apenas la edad de escolarización."
+64-apoyo-s. m. Lo que apoya o sostiene una cosa Ejemplo: "el apoyo de la mesa es un bloque de granito."
+65-argentina-s. f. BOTÁNICA Planta rosácea vivaz, de flores amarillas. plateada 
+66-arriba-adv. En un lugar más alto o en una parte superior Ejemplo: "vive arriba con sus padres."
+67-arte-s. m. o f. ARTE Facultad de las personas para crear, imitar o expresar lo material o inmaterial, con fines estéticos, valiéndose de la materia, sonido, imagen, gesto o lenguaje. 
+68-artista-s. m. y f. ARTE, OFICIOS Y PROFESIONES Persona que practica o cultiva alguna de las bellas artes. 
+69-artistas-s. m. y f. ARTE, OFICIOS Y PROFESIONES Persona que practica o cultiva alguna de las bellas artes. 
+70-asamblea-s. f. Grupo de personas con un interés común, que se reúnen para algún fin Ejemplo: "asamblea de accionistas; asamblea de alumnos."
+71-asegura-v. tr. Dar firmeza y seguridad a una cosa Ejemplo: "aseguraron el balcón con un soporte de hierro."
+72-aseguro-v. tr. Dar firmeza y seguridad a una cosa Ejemplo: "aseguraron el balcón con un soporte de hierro."
+73-asimismo-adv. De la misma manera, igualmente. así mismo 
+74-aspecto-s. m. Modo de presentarse o de mostrarse una persona o una cosa Ejemplo: "fíjate qué aspecto más saludable tiene hoy."
+75-aspectos-s. m. Modo de presentarse o de mostrarse una persona o una cosa Ejemplo: "fíjate qué aspecto más saludable tiene hoy."
+76-asunto-s. m. Materia de la que se trata Ejemplo: "el asunto es que no te quiero ver más."
+77-ataque-s. m. MILITAR Ofensiva contra el enemigo para conseguir un objetivo o destruirlo Ejemplo: "el ataque les cogió desprevenidos."
+78-audiencia-s. f. POLÍTICA Acto en el que un soberano u otra autoridad recibe y escucha a personas que informan o exponen una solicitud o una demanda 
+79-aumento-s. m. Acrecentamiento de algo 
+80-aun-adv. Expresa concesión Ejemplo: "aun estando enferma va a trabajar a la oficina."
+81-aunque-conj. conces. Indica concesión o asentimiento ante una objeción real o posible Ejemplo: "iremos a la playa aunque llueva."
+82-ausencia-s. f. Circunstancia de ausentarse o estar ausente 
+83-autor-s. Causante de una cosa, hecho o acontecimiento Ejemplo: "el autor de la broma no ha sido él."
+84-autores-s. Causante de una cosa, hecho o acontecimiento Ejemplo: "el autor de la broma no ha sido él."
+85-autoridad-s. f. Facultad o poder para gobernar o mandar Ejemplo: "el colectivo ciudadano reconoció su autoridad."
+86-ayer-adv. En el día precedente, el día anterior a éste Ejemplo: "ayer comimos paella."
+87-ayuda-s. f. Acción y resultado de ayudar. 
+88-ayuntamiento-s. m. ADMINISTRACIÓN, POLÍTICA Corporación, compuesta por el alcalde y los concejales, que administra y dirige los intereses de un municipio Ejemplo: "presentarán la propuesta al ayuntamiento."
+89-azul-adj. Del color del cielo sin nubes, del mar o próximo a estos colores Ejemplo: "ojos azules; zona azul."
+90-aun-adv. Expresa concesión Ejemplo: "aun estando enferma va a trabajar a la oficina."
+91-baja-s. f. Descenso o disminución del precio, valor o estimación de una cosa Ejemplo: "la baja de los áridos."
+92-bajo-adj. Se refiere a la persona u objeto que tiene poca altura Ejemplo: "es el más bajo de todos los hermanos."
+93-banco-s. m. Asiento con respaldo o sin él para varias personas Ejemplo: "se dejó el paraguas en un banco del parque."
+94-banda-s. f. Tira de colores que se lleva atravesada desde un hombro al costado opuesto y que usan como distintivo ciertas órdenes civiles y militares o como insignia de alguna dignidad. 
+95-barrio-s. m. Cada una de las partes en que se dividen las grandes poblaciones o sus distritos 
+96-base-s. f. Parte de un objeto, o pieza independiente, que le sirve de apoyo o sobre la que se sostiene Ejemplo: "esa copa tiene muy poca base."
+97-bases-s. f. Parte de un objeto, o pieza independiente, que le sirve de apoyo o sobre la que se sostiene Ejemplo: "esa copa tiene muy poca base."
+98-bastante-adj./ pron. indef. Que basta, que resulta suficiente Ejemplo: "hay bastante dinero para la compra."
+99-belleza-s. f. Propiedad de los seres que produce admiración y deleite de los sentidos por su aspecto, forma y buenas cualidades Ejemplo: "la belleza de sus paisajes."
+100-bien-s. m. Cosa útil, beneficiosa o favorable Ejemplo: "el cambio de clima será un bien para su salud."
+101-blanca-s. f. MÚSICA Figura de nota musical que equivale a la mitad de una redonda. 
+102-blanco-adj. Del color de la leche, de la nieve reciente, o próximo a estos colores. albo, níveo 
+103-boca-s. f. ANATOMÍA Cavidad y orificio superior del tubo digestivo del hombre y de los animales, situados en la parte anterior del cuerpo, que puede cumplir otras funciones como las respiratorias o fonadoras. 
+104-bolsa-s. f. Recipiente hecho de plástico, papel, tela, cuero o cualquier material flexible, de diferentes formas y tamaños y a veces provisto de asas, que se usa para guardar y transportar objetos diversos 
+105-brasil-s. m. BOTÁNICA Árbol cesalpiniáceo que crece en Brasil y Paraguay, cuya madera se conoce como palo brasil. 
+106-brazo-s. m. ANATOMÍA Parte de la extremidad superior del cuerpo humano que va desde el hombro hasta el codo y, por extensión, toda ella. 
+107-breve-adj. De corta extensión o duración Ejemplo: "una breve bonanza; una pieza musical breve."
+108-buena-adj. Que reúne las condiciones propias de su género Ejemplo: "dentro de su gama es un ordenador muy bueno."
+109-buenas-adj. Que reúne las condiciones propias de su género Ejemplo: "dentro de su gama es un ordenador muy bueno."
+110-bueno-adj. Que reúne las condiciones propias de su género Ejemplo: "dentro de su gama es un ordenador muy bueno."
+111-buenos-adj. Que reúne las condiciones propias de su género Ejemplo: "dentro de su gama es un ordenador muy bueno."
+112-busca-s. f. Acción que se realiza al buscar. búsqueda 
+113-buscar-v. tr. Intentar encontrar, conseguir o descubrir a una persona o cosa Ejemplo: "buscaban un regalo original."
+114-caballo-s. m. ZOOLOGÍA Mamífero perisodáctilo de gran alzada y alimentación herbívora, que tiene las patas terminadas en un único dedo, y el cuello y la cola poblados con crines largas; es domesticado y usado por el hombre para diversas tareas. 
+115-cabe-prep. literario Junto a o muy cerca 
+116-cabeza-s. f. ANATOMÍA Parte superior del cuerpo humano y superior o anterior del de muchos animales, donde residen los principales centros nerviosos y los órganos de los sentidos. 
+117-cabo-s. m. Cualquiera de los extremos de las cosas. 
+118-cadena-s. f. Serie de eslabones u otras piezas, generalmente metálicas, enlazadas entre sí formando un conjunto articulado Ejemplo: "la cadena de la bicicleta se ha roto."
+119-caer-v. intr. y prnl. Moverse un cuerpo de arriba abajo por la acción de su propio peso Ejemplo: "la nieve caía pausadamente."
+120-caja-s. f. Recipiente de diferentes formas, tamaños y materiales, cubierto con una tapa, donde se guardan o transportan objetos diversos Ejemplo: "caja de cerillas; cajas de limones."
+121-calidad-s. f. Conjunto de características y propiedades de una persona o cosa que permiten definirla, calificarla y compararla con otras de su especie 
+122-calle-s. f. Vía pública, espacio entre dos filas de casas o fincas por el que transitan personas y vehículos 
+123-calles-s. f. Vía pública, espacio entre dos filas de casas o fincas por el que transitan personas y vehículos 
+124-calor-s. m. Sensación producida por un aumento de la temperatura corporal o ambiental Ejemplo: "una ola de calor arrasó las comarcas del sur."
+125-cama-s. f. Mueble formado por un armazón que sostiene el colchón y la ropa utilizada para abrigarse, donde las personas se acuestan para dormir o descansar. camastro, catre, lecho 
+126-cambiar-v. tr. y prnl. Reemplazar una cosa por otra Ejemplo: "se cambió de nombre al llegar al país."
+127-cambio-s. m. Acción y resultado de cambiar. permuta, trueque 
+128-cambios-s. m. Acción y resultado de cambiar. permuta, trueque 
+129-camino-s. m. Terreno compactado o preparado para transitar Ejemplo: "no recordaba que el camino fuera tan empinado."
+130-campo-s. m. GEOGRAFÍA Terreno extenso fuera de una población. 
+131-canal-s. m. y f. Cauce artificial para conducir agua 
+132-cantidad-s. f. Propiedad de las cosas o conjuntos de cosas por la que se pueden medir, contar y comparar si es mayor o menor que otras. 
+133-capacidad-s. f. Espacio disponible en una cosa capaz para contener otra Ejemplo: "no hay capacidad para ese coche."
+134-capaz-adj. Que tiene capacidad o aptitud suficiente para hacer una cosa 
+135-capital-adj. De la cabeza. 
+136-capitan-s. m. MILITAR Caudillo militar. 
+137-cara-s. f. ANATOMÍA Parte delantera de la cabeza de las personas y de ciertos animales Ejemplo: "tiene la cara ovalada."
+138-carga-s. f. Acción de poner cosas sobre un animal, a hombros de una persona o sobre un vehículo para transportarlas Ejemplo: "esta zona está destinada a carga y descarga."
+139-cargo-s. m. Función desempeñada habitualmente por una persona en una empresa o en una institución a cambio de un salario Ejemplo: "ocupa un cargo directivo en la empresa."
+140-carne-s. f. ANATOMÍA Parte blanda, formada principalmente por los músculos del cuerpo del hombre y de los animales Ejemplo: "la flecha se clavó en la carne del muslo."
+141-carrera-s. f. Acción de ir de un sitio a otro corriendo Ejemplo: "me pegué una carrera y lo alcancé."
+142-carretera-s. f. Vía o camino pavimentado que comunica distintas localidades y permite la circulación de vehículos. calzada, pista 
+143-carta-s. f. Escrito que una persona dirige a otra para comunicarse con ella Ejemplo: "ha recibido una carta de su novio."
+144-casa-s. f. ARQUITECTURA, CONSTRUCCIÓN Edificio o parte de él destinado a vivienda 
+145-casi-adv. Poco más o menos, aproximadamente, por poco, cerca de Ejemplo: "casi me caigo por las escaleras."
+146-caso-s. m. Hecho o situación que sucede o puede suceder 
+147-casos-s. m. Hecho o situación que sucede o puede suceder 
+148-castro-s. m. HISTORIA Antiguo asentamiento humano fortificado Ejemplo: "visitaron un castro celta."
+149-causa-s. f. Hecho, fenómeno, situación o actitud que produce o provoca una acción 
+150-causas-v. tr. Producir una causa su efecto Ejemplo: "el frío causa un tremendo entumecimiento."
+151-central-adj. Del centro Ejemplo: "el gobierno central."
+152-centro-s. m. GEOMETRÍA Punto equidistante de los demás de una circunferencia o esfera, y de intersección de las diagonales en los polígonos, poliedros, líneas y superficies curvas. 
+153-centros-s. m. GEOMETRÍA Punto equidistante de los demás de una circunferencia o esfera, y de intersección de las diagonales en los polígonos, poliedros, líneas y superficies curvas. 
+154-chile-s. m. BOTÁNICA Ají, pimiento o pimentón 
+155-cielo-s. m. ASTRONOMÍA Espacio que rodea la Tierra 
+156-cien-adj. num. Que resulta de la multiplicación de diez por diez Ejemplo: "cien artículos a precio especial."
+157-ciencia-s. f. Conjunto de conocimientos sobre las cosas, hechos o fenómenos, obtenidos mediante el estudio y la observación de sus principios y causas. 
+158-ciento-adj. num. Que resulta de la multiplicación de diez por diez. 
+159-cierta-adj. indef. Alguno, uno determinado pero desconocido o poco preciso Ejemplo: "cierto número de aves anidan aquí."
+160-ciertas-adj. indef. Alguno, uno determinado pero desconocido o poco preciso Ejemplo: "cierto número de aves anidan aquí."
+161-cierto-adj. indef. Alguno, uno determinado pero desconocido o poco preciso Ejemplo: "cierto número de aves anidan aquí."
+162-ciertos-adj. indef. Alguno, uno determinado pero desconocido o poco preciso Ejemplo: "cierto número de aves anidan aquí."
+163-cifra-s. f. Número, cantidad Ejemplo: "no sé la cifra exacta."
+164-cinco-adj. num. Que resulta de la suma de cuatro y uno 
+165-cincuenta-adj. num. Que resulta de la multiplicación de cinco y diez Ejemplo: "ya llevan cincuenta años de matrimonio."
+166-cine-s. m. CINE Local público donde se proyectan películas cinematográficas 
+167-circunstancias-s. f. Conjunto de todas las acciones, hechos y situaciones que rodean a una persona, influyendo en sus acciones y forma de ser Ejemplo: "fue víctima de las circunstancias, no la juzgues."
+168-ciudad-s. f. Aglomeración urbana, por lo general grande y de población densa, donde predominan las actividades industriales y de servicios. urbe 
+169-ciudades-s. f. Aglomeración urbana, por lo general grande y de población densa, donde predominan las actividades industriales y de servicios. urbe 
+170-civil-adj. De la ciudad o de los ciudadanos Ejemplo: "de estado civil, soltero."
+171-clara-s. f. ZOOLOGÍA Parte transparente, blanquecina y líquida, de naturaleza albuminoidea, que rodea la yema del huevo de las aves 
+172-claro-adj. Que tiene luz o mucha luz 
+173-clase-s. f. SOCIOLOGÍA Conjunto de personas que, por sus características o intereses comunes, constituyen una unidad homogénea dentro de una población 
+174-clases-s. f. SOCIOLOGÍA Conjunto de personas que, por sus características o intereses comunes, constituyen una unidad homogénea dentro de una población 
+175-clave-s. f. Código con el que se cifran mensajes Ejemplo: "ha recibido una nota en clave."
+176-club-s. m. Asociación cuyos miembros tienen afinidades políticas, profesionales, culturales, deportivas o de otro tipo Ejemplo: "han formado un club de poetas."
+177-coche-s. m. Automóvil, vehículo movido por un motor de explosión Ejemplo: "llegaron en el coche nuevo."
+178-cocina-s. f. COCINA Habitación de la vivienda donde se preparan y guisan las comidas Ejemplo: "he cambiado los muebles de la cocina."
+179-colaboracion-s. f. Acción y resultado de colaborar o cooperar en algo. cooperación 
+180-colegio-s. m. ENSEÑANZA Centro de enseñanza primaria o secundaria 
+181-color-s. m. FÍSICA Sensación que producen en la retina los rayos de luz reflejados en un objeto. 
+182-colores- combinación de colores que una nación adopta como símbolo de su identidad 
+183-comer-v. tr., intr. y prnl. Tomar un alimento por la boca Ejemplo: "comía fruta tres veces al día."
+184-comercial-adj. COMERCIO Del comercio Ejemplo: "horario comercial; puerto comercial."
+185-comercio-s. m. COMERCIO, ECONOMÍA Compra, venta e intercambio de mercancías o productos con fines lucrativos 
+186-comida-s. f. Alimento, conjunto de sustancias que sirven para nutrirse Ejemplo: "ayudó a servir la comida en el comedor popular."
+187-comienza-v. tr. Iniciar, dar principio a una cosa Ejemplo: "la carrera comenzó cuando sonó el disparo."
+188-comienzo-s. m. Principio u origen 
+189-comite-s. m. Grupo reducido de personas delegadas por una asamblea o por una autoridad, que constituye un órgano colegial de gestión, de consulta o de decisión Ejemplo: "se ha reunido el comité provincial del partido."
+190-como-adv. De la manera que se expresa Ejemplo: "vive como quieras."
+191-competencia-s. f. Rivalidad entre personas, empresas, instituciones o estados por lograr alguna cosa 
+192-completo-adj. Que tiene todos los elementos o partes que normalmente lo componen Ejemplo: "me han regalado una cubertería completa."
+193-comprender-v. tr. Percibir, entender una persona el significado de una cosa Ejemplo: "no comprendo tu pregunta."
+194-compromiso-s. m. Obligación contraída por una persona mediante una promesa, un contrato u otro acuerdo Ejemplo: "siempre cumple sus compromisos con los clientes."
+195-comunidad-s. f. SOCIOLOGÍA Agrupación de personas que tienen ciertos intereses en común Ejemplo: "comunidad de vecinos."
+196-comunidades-s. f. SOCIOLOGÍA Agrupación de personas que tienen ciertos intereses en común Ejemplo: "comunidad de vecinos."
+197-con-prep. Indica el modo, manera cómo se realiza una acción o el instrumento con que se ejecuta 
+198-concepto-s. m. FILOSOFÍA Representación mental de un objeto o pensamiento Ejemplo: "cada cultura tiene su concepto de la muerte."
+199-conciencia-s. f. SICOLOGÍA Conocimiento que una persona tiene de sí misma y del mundo que la rodea. yo, alma, personalidad, noción, idea, juicio 
+200-conde-s. Título nobiliario superior al de vizconde e inferior al de marqués. 
+201-conducta-s. f. SICOLOGÍA Manera de comportarse 
+202-conferencia-s. f. Disertación en público sobre un asunto científico, literario o cualquier otro de interés general Ejemplo: "dio una conferencia sobre poesía hebrea medieval."
+203-confianza-s. f. Esperanza de que una persona o cosa funcione o se comporte según está previsto Ejemplo: "tengo confianza en sus fuerzas."
+204-conflicto-s. m. Situación de lucha, desacuerdo, rivalidad u oposición entre personas o cosas 
+205-congreso-s. m. Reunión o asamblea de personas pertenecientes a una misma profesión, actividad o grupo, o de cualquier colectivo humano para tratar asuntos de interés común 
+206-conjunto-adj. Que está unido a otra cosa 
+207-conoce-v. tr. Tener idea o noción de una persona, animal o cosa por haberla visto, oído o tratado Ejemplo: "conozco a tus amigos."
+208-conocer-v. tr. Tener idea o noción de una persona, animal o cosa por haberla visto, oído o tratado Ejemplo: "conozco a tus amigos."
+209-conocido-adj. Que es sabido por muchos 
+210-conocimiento-s. m. Acción y resultado de conocer. 
+211-consecuencia-s. f. Hecho que resulta o se sigue de otro Ejemplo: "la crisis es consecuencia de la mala gestión."
+212-consejo-s. m. Parecer o juicio que se da o solicita para hacer o no hacer una cosa 
+213-considera-v. tr. Pensar una cosa atenta y reflexivamente Ejemplo: "considera lo que hemos hecho por ti."
+214-considerar-v. tr. Pensar una cosa atenta y reflexivamente Ejemplo: "considera lo que hemos hecho por ti."
+215-consiste-v. intr. Tener una cosa su causa o explicación en otra Ejemplo: "todo consiste en afilar bien el lápiz."
+216-constante-adj. Que tiene constancia Ejemplo: "consigue sus propósitos porque es constante."
+217-constitucional-adj. POLÍTICA De la constitución de un estado. 
+218-constituye-v. tr. Formar dos o más cosas o personas las partes o los elementos que configuran un todo Ejemplo: "tres socios constituyen la junta."
+219-consumo-s. m. Acción y resultado de consumir o gastar Ejemplo: "debes controlar el consumo de gas."
+220-contacto-s. m. Acción y resultado de tocarse dos cosas. 
+221-contar-v. tr. Dar un número a cada componente de un conjunto para saber cuántos hay Ejemplo: "contaba las horas que faltaban para su llegada."
+222-contenido-adj. Que se comporta con contención o templanza 
+223-contra-prep. Indica oposición, contrariedad o pugna entre personas o cosas 
+224-contrario-adj./ s. Que es opuesto o totalmente diferente a otra cosa Ejemplo: "la puerta se abre por el lado contrario."
+225-contrato-s. m. DERECHO Acuerdo establecido con ciertas formalidades entre dos o más personas, por el cual se obligan recíprocamente a ciertas cosas 
+226-control-s. m. Acción o resultado de comprobar o examinar una cosa 
+227-copa-s. f. Recipiente semejante a un vaso, de materiales y formas diversas, con un pie, que se usa para beber Ejemplo: "sirvió el cava en unas hermosas copas de cristal."
+228-corresponde-v. intr. y tr. Hacer o decir una cosa a cambio de otra que se ha recibido con anterioridad 
+229-corriente-adj. Se refiere al agua u otro líquido que corre. 
+230-corte-s. m. Acción y resultado de cortar o cortarse. 
+231-corto-adj. Que no tiene la extensión que le corresponde, de poca longitud 
+232-cosa-s. f. Palabra que se utiliza para referirse a algo concreto, abstracto, real o mental, cuyo significado se precisa por el contexto que la precede o la sigue. 
+233-costa-s. f. Cantidad que se da o se paga por una cosa. 
+234-crear-v. tr. Sacar o producir una cosa de la nada 
+235-crecimiento-s. m. Acción y resultado de crecer 
+236-cree-v. tr. y prnl. Considerar o aceptar una cosa como cierta sin tener pruebas irrefutables de ella Ejemplo: "se cree todo lo que le dicen."
+237-creo-v. tr. y prnl. Considerar o aceptar una cosa como cierta sin tener pruebas irrefutables de ella Ejemplo: "se cree todo lo que le dicen."
+238-crisis-s. f. Cambio considerable, para mejorar o para empeorar, en el curso de una enfermedad, o en el desarrollo de otros procesos Ejemplo: "crisis del noveno día en las neumonías."
+239-criterios-s. m. Norma para conocer la verdad o la adecuación de una cosa a lo requerido en una materia o una disciplina Ejemplo: "no sabe qué criterio emplearán en el examen."
+240-cruz-s. f. Figura formada por dos líneas que se cortan perpendicularmente Ejemplo: "el signo de la suma es una cruz."
+241-cuadro-s. m. ARTE, PINTURA Pintura, dibujo o grabado enmarcado que sirve para adornar una pared Ejemplo: "les regaló un cuadro de Gauguin."
+242-cual-pron. relat. Precedido del artículo el, la, los, las, equivale al relativo que en oraciones adjetivas explicativas 
+243-cualquiera-pron. indef. Persona o cosa indeterminada Ejemplo: "que lo haga cualquiera, pero pronto."
+244-cuando-adv. En el momento en que, en la época en que Ejemplo: "le reconocí cuando le vi; ocurrió cuando yo nací."
+245-cuanto-pron. relat. Todo lo que 
+246-cuarenta-adj.num./ s.m. Que resulta de la multiplicación de cuatro por diez. 
+247-cuarto-adj.num./ s. Que ocupa el lugar número cuatro en una serie Ejemplo: "por favor, el cuarto que se acerque al estrado."
+248-cuatro-adj.num./ s.m. Se aplica al número que equivale a tres más uno 
+249-cuba-s. f. Recipiente de madera o de metal con forma de barril, usado para contener líquidos Ejemplo: "estas cubas de vino no tienen el tamaño adecuado."
+250-cuello-s. m. ANATOMÍA Parte del cuerpo que une la cabeza al tronco 
+251-cuenta-s. f. MATEMÁTICAS Operación aritmética de sumar, restar, multiplicar o dividir 
+252-cuerpo-s. m. Cualquier materia sólida, líquida o gaseosa. masa 
+253-cuerpos-s. m. Cualquier materia sólida, líquida o gaseosa. masa 
+254-cuidado-s. m. Interés y atención que se pone en hacer una cosa Ejemplo: "ten cuidado con la porcelana."
+255-culpa-s. f. Responsabilidad de la persona que ha causado un daño a otra voluntaria o involuntariamente Ejemplo: "ya sé quién tiene la culpa."
+256-cultura-s. f. ANTROPOLOGÍA Conjunto de conocimientos y actividades científicas, industriales y artísticas de un pueblo, país o una época, considerados globalmente o en cada una de las materias Ejemplo: "es un especialista en la cultura maya."
+257-cumplir-v. tr. Hacer una cosa obligada o prometida Ejemplo: "has de cumplir con tus obligaciones."
+258-curso-s. m. Dirección, carrera o camino que sigue una cosa Ejemplo: "el asunto siguió su curso."
+259-cual-pron. relat. Precedido del artículo el, la, los, las, equivale al relativo que en oraciones adjetivas explicativas 
+260-camara-f. camera. an open space or cavity such as the ventricle; 
+261-como-adv. De la manera que se expresa Ejemplo: "vive como quieras."
+262-daba-v. tr. Entregar una cosa a una persona temporalmente o bien para que ésta sea el nuevo propietario Ejemplo: "le dio las llaves para que abriese la puerta."
+263-dado-s. m. JUEGOS Cubo con las caras numeradas del uno al seis que se usa en algunos juegos. 
+264-dando-v. tr. Entregar una cosa a una persona temporalmente o bien para que ésta sea el nuevo propietario Ejemplo: "le dio las llaves para que abriese la puerta."
+265-dar-v. tr. Entregar una cosa a una persona temporalmente o bien para que ésta sea el nuevo propietario Ejemplo: "le dio las llaves para que abriese la puerta."
+266-de-prep. Indica propiedad, posesión o pertenencia 
+267-debajo-adv. En lugar inferior, respecto de otro superior Ejemplo: "debajo vive un músico."
+268-debate-s. m. Discusión sobre un determinado tema entre dos o más personas que se reúnen públicamente para este fin 
+269-debe-s. m. ECONOMÍA Parte de una cuenta corriente donde se sitúan las cantidades que se cargan al titular de la misma. 
+270-debemos-s. m. Obligación de hacer una cosa por cualquier razón personal, profesional, civil o religiosa 
+271-debido-adj. Que es conveniente, justo, razonable o necesario 
+272-decidido-adj. Que se comporta con audacia y decisión 
+273-decir-s. m. Dicho, palabra o refrán. 
+274-decisiones-s. f. Acuerdo o determinación adoptada en una situación de duda Ejemplo: "tomó la decisión de no ir al viaje."
+275-declaraciones-s. f. Acción y resultado de declarar o declararse. 
+276-declaro-v. tr. Decir una cosa relativa a un asunto reservado a otras personas 
+277-defensa-s. f. Acción y resultado de defender o defenderse 
+278-definitiva-adj. Que ya no admite cambios Ejemplo: "su respuesta es definitiva."
+279-dejado-adj. Que se comporta con negligencia y descuido de su persona o de sus cosas 
+280-dejar-v. tr. Soltar una cosa que se tiene cogida y ponerla en algún sitio Ejemplo: "deja el bolso en el suelo."
+281-dejo-s. f. Modo particular de pronunciación y de inflexión de la voz que acusa un estado de ánimo del hablante 
+282-delante-adv. En primer término, en lugar anterior Ejemplo: "tú que eres el más bajo ponte delante."
+283-demanda-s. f. Petición, acción de solicitar o reclamar una cosa 
+284-demasiado-adj. En exceso, en demasía, en mayor número, cantidad, proporción, etc., de lo necesario 
+285-democracia-s. f. POLÍTICA Régimen político en el que el pueblo participa en el gobierno de un país, mediante la elección de sus representantes. 
+286-dentro-adv. En interior, en la parte interna 
+287-departamento-s. m. Cada una de las partes en que se divide un espacio cualquiera, como un edificio, un territorio, una caja, un almacén, una oficina 
+288-depende-v. intr. Hallarse sujeto a una autoridad o jurisdicción Ejemplo: "el gobierno de la isla depende del poder central."
+289-derecha-s. f. Mano o pierna del cuerpo humano situada en el lado opuesto al corazón 
+290-derecho-adj. Recto, igual, que sigue siempre la misma dirección sin torcerse a un lado o a otro 
+291-desarrollo-s. m. Acción y resultado de desarrollar o desarrollarse Ejemplo: "no entendí el desarrollo de la explicación."
+292-desde-prep. Indica el tiempo o el lugar a partir del cual se realiza una acción o se cuenta una distancia 
+293-deseo-s. m. Movimiento intenso de la voluntad hacia la consecución de una cosa. afán, anhelo, apetito, aspiración 
+294-destino-s. m. Futuro ya trazado e irreversible Ejemplo: "nunca se sabe lo que el destino te puede deparar."
+295-detras-adv. En último término, en lugar posterior 
+296-deuda-s. f. Obligación que alguien tiene de pagar, devolver o dar una cantidad de dinero u otra cosa a otra persona Ejemplo: "está lleno de deudas."
+297-diario-adj. Que se hace o sucede cada día Ejemplo: "el gasto diario cada vez es superior."
+298-dice-s. m. Dicho, palabra o refrán. 
+299-dicen-s. m. Dicho, palabra o refrán. 
+300-dicha-s. f. Felicidad, estado de ánimo favorable 
+301-dicho-adj. Sustituye a un adjetivo demostrativo Ejemplo: "dicho lugar, dichas personas."
+302-diego-s. m. BOTÁNICA Dondiego, planta herbácea. 
+303-diez-adj.num./ s.m. Que resulta de la suma de nueve y uno Ejemplo: "sacó el número diez en las oposiciones."
+304-diferencia-s. f. Circunstancia de ser distintas dos cosas o dos personas y rasgo, característica o cualidad que las distingue 
+305-diferente-adj. Que no es igual a otra cosa o persona con que se compara o tiene diferencias 
+306-digo-s. m. Dicho, palabra o refrán. 
+307-dije-s. m. INDUMENTARIA Y MODA Joya, adorno o relicario que se lleva colgando de una cadena, de una pulsera o de un imperdible. 
+308-dijo-s. m. Dicho, palabra o refrán. 
+309-dinero-s. m. ECONOMÍA Monedas y billetes corrientes que se utilizan como medio de pago. capital, cuartos, guita, parné, pasta, perras, plata 
+310-dios-s. m. RELIGIÓN Cada uno de los seres sobrenaturales a los cuales el hombre rinde culto o venera, en las religiones politeístas Ejemplo: "el dios de la guerra latino era Marte."
+311-diputados-v. tr. Designar a una persona para una comisión. 
+312-directa-s. f. MECÁNICA La mayor de las velocidades que permite el cambio de marchas de un vehículo automóvil. 
+313-director-adj./ s. Que dirige o guía. 
+314-dirigentes-adj./ s. m. y f. Que dirige 
+315-discurso-s. m. Exposición de cierta extensión sobre un tema pronunciado en público 
+316-dispuesto-adj. Que está preparado 
+317-distancia-s. f. Espacio o tiempo que media entre dos cosas o sucesos Ejemplo: "la distancia de Madrid a Bilbao es de 395 km."
+318-distintas-adj. Que es diferente o diverso, que no se parece a otra cosa 
+319-distintos-adj. Que es diferente o diverso, que no se parece a otra cosa 
+320-diversas-adj. Que es diferente, que no se parecen Ejemplo: "son gemelos, pero tienen gustos muy diversos."
+321-dialogo-s. m. Conversación entre dos o más personas Ejemplo: "hace tiempo que no tengo un diálogo con ella."
+322-doble-adj./ s. m. Cantidad que es dos veces la que se expresa Ejemplo: "gana el doble que su hermano."
+323-doce-adj.num./ s.m. Se refiere al número que equivale a diez más dos. 
+324-doctor-s. ENSEÑANZA Persona que ha obtenido el grado superior que concede una universidad, después de haber defendido la tesis doctoral Ejemplo: "ya es doctora en filosofía."
+325-documento-s. m. Escrito que sirve para justificar o acreditar una cosa o un hecho histórico o legal Ejemplo: "documentos jurídicos."
+326-dolor-s. m. MEDICINA Sensación de daño, sufrimiento o padecimiento de alguna parte del cuerpo 
+327-domingo-s. m. Día de la semana, entre sábado y lunes. 
+328-don-s. m. Disposición innata o habilidad para alguna actividad. 
+329-donde-adv. En el lugar en que Ejemplo: "lo encontrarás donde lo dejaste."
+330-dormir-v. intr., tr. y prnl. Estar, entrar en el estado del sueño Ejemplo: "dormir la siesta; dormir mal."
+331-dos-adj.num./ s.m. Que resulta de la suma de uno y uno. 
+332-duda-s. f. Estado de quien no está seguro de una cosa o no se decide entre dos juicios u opciones 
+333-duro-adj. Que ofrece resistencia a ser rayado, deformado o comprimido Ejemplo: "el cristal es duro."
+334-decada-s. f. Espacio de tiempo formado por diez años o días 
+335-donde-adv. En el lugar en que Ejemplo: "lo encontrarás donde lo dejaste."
+336-edad-s. f. Tiempo transcurrido desde el nacimiento de un ser vivo hasta un momento concreto Ejemplo: "tenía treinta años de edad."
+337-edicion-s. f. ARTES GRÁFICAS Impresión de una obra o escrito para su publicación Ejemplo: "la obra está preparada para su edición."
+338-edificio-s. m. CONSTRUCCIÓN Construcción de cierta altura y extensión, hecha con materiales resistentes, cuyo interior está dividido en pisos o dependencias Ejemplo: "tiene el despacho en un edificio antiguo."
+339-efecto-s. m. Resultado de una causa 
+340-ejecutivo-adj. Que debe ejecutarse de inmediato. 
+341-ejemplo-s. m. Cosa o caso que se cita como muestra clara de los de su misma clase, usado para explicar, comprobar una cosa o darle autoridad 
+342-ejercicio-s. m. Trabajo práctico que se hace para la adquisición, desarrollo o conservación de una facultad, de una aptitud o de una habilidad Ejemplo: "ejercicios matemáticos; ejercicios gimnásticos."
+343-ejercito-s. m. MILITAR Conjunto de todas las fuerzas militares de un estado Ejemplo: "el ejército desfiló ante el monarca."
+344-elecciones- mecanismos mediante los cuales los miembros de una comunidad eligen representantes 
+345-electoral-adj. POLÍTICA, SOCIOLOGÍA Que tiene relación con las elecciones o con los electores Ejemplo: "hoy empieza la campaña electoral."
+346-elemento-s. m. Cada uno de los componentes de un conjunto o de una cosa Ejemplo: "el mueble consta de varios elementos."
+347-elementos- fuerzas naturales, en especial las atmosféricas 
+348-ello-pron. pers. Indica las acciones, ideas o conjuntos de cosas a las que se refiere la persona que habla Ejemplo: "no pienses más en ello."
+349-ellos-pron. pers. Indica las personas, animales o cosas a las que se refiere la persona que habla 
+350-embargo-s. m. DERECHO Retención o secuestro de bienes por mandamiento judicial. 
+351-empleo-s. m. Acción y resultado de usar una cosa 
+352-empresa-s. f. Acción o cometido arduo y dificultoso, e intento de llevarlo a cabo Ejemplo: "me parece una empresa difícil."
+353-empresarios-s. ECONOMÍA Propietario o directivo de una industria, negocio o empresa. 
+354-empresas-s. f. Acción o cometido arduo y dificultoso, e intento de llevarlo a cabo Ejemplo: "me parece una empresa difícil."
+355-en-prep. Indica el lugar dentro del cual está u ocurre algo 
+356-encima-adv. En lugar superior, ya sea inmediato o no Ejemplo: "encima de mi piso viven dos hermanas."
+357-encontraba-v. tr. y prnl. Dar de manera casual con la persona o cosa que se busca 
+358-encontrar-v. tr. y prnl. Dar de manera casual con la persona o cosa que se busca 
+359-encuentra-v. tr. y prnl. Dar de manera casual con la persona o cosa que se busca 
+360-encuentran-v. tr. y prnl. Dar de manera casual con la persona o cosa que se busca 
+361-encuentro-s. m. Cruce o choque en un punto de dos o más cosas Ejemplo: "se citaron en el encuentro de las dos avenidas."
+362-enfermedad-s. f. MEDICINA Alteración del funcionamiento normal del cuerpo de los animales o de los organismos de los vegetales 
+363-enfermedades-s. f. MEDICINA Alteración del funcionamiento normal del cuerpo de los animales o de los organismos de los vegetales 
+364-enorme-adj. Que es muy grande o mayor de lo habitual Ejemplo: "tiene un cuadro enorme en la pared."
+365-entender-v. tr. y prnl. Captar el sentido o significado de una cosa Ejemplo: "no entiendo la respuesta."
+366-entidad-s. f. Circunstancia de ser o de existir. esencia, ser 
+367-entonces-adv. En aquel tiempo, momento u ocasión Ejemplo: "entonces entró ella y los descubrió."
+368-entorno-s. m. Conjunto de personas, cosas y circunstancias que rodean a alguien o algo e influyen en su desarrollo. ambiente 
+369-entrada-s. f. Acción y resultado de entrar en un sitio. salida  
+370-entrar-v. intr. Pasar adentro o al interior de un lugar Ejemplo: "entró en la tienda como un vendaval."
+371-entre-prep. Indica el tiempo o el espacio situado en medio de dos acciones, estados, personas o cosas 
+372-entrega-s. f. Acción y resultado de entregar. adjudicación, entregamiento 
+373-equilibrio-s. m. FÍSICA Situación de estabilidad de un cuerpo sometido a fuerzas opuestas. 
+374-equipo-s. m. Acción y resultado de equipar o equiparse. 
+375-equipos-s. m. Acción y resultado de equipar o equiparse. 
+376-era-s. f. Momento concreto en el tiempo que se calcula a partir de un hecho o fecha determinada. época 
+377-eran-s. m. Cualquier cosa, animada o inanimada, material o inmaterial Ejemplo: "ser vivo; seres fantásticos."
+378-error-s. m. Concepto, idea, opinión o juicio falso o equivocado. desacierto, falsedad verdad  
+379-esa-pron. dem. f. Equivale a un sustantivo cuyo sentido indica ocasión o situación 
+380-escena-s. f. ESPECTÁCULOS, TEATRO Parte del teatro donde se representa la obra o espectáculo teatral Ejemplo: "el actor ya está en escena."
+381-escenario-s. m. ESPECTÁCULOS, TEATRO Parte del teatro donde se representa la obra teatral o cualquier otro espectáculo 
+382-escribir-v. tr., intr. y prnl. Representar gráficamente una lengua mediante un alfabeto u otro tipo de signos convencionales 
+383-escrito-adj. Se aplica a lo que tiene manchas o rayas que parecen letras. 
+384-escritor-s. LITERATURA, OFICIOS Y PROFESIONES Persona que escribe obras de creación, especialmente literaria 
+385-escuela-s. f. ENSEÑANZA Centro docente de carácter público o privado donde se imparte la enseñanza primaria o cualquier otro tipo de enseñanza 
+386-ese-s. f. Denominación de la letra s del alfabeto español. 
+387-esfuerzo-s. m. Empleo enérgico de la fuerza física, la inteligencia, la voluntad o cualquier facultad espiritual, para la consecución de un fin 
+388-esfuerzos-s. m. Empleo enérgico de la fuerza física, la inteligencia, la voluntad o cualquier facultad espiritual, para la consecución de un fin 
+389-eso-pron. dem. Indica aquello que está cerca, en el espacio o en el tiempo, de la persona que escucha Ejemplo: "eso es lo que dicen."
+390-espacio-s. m. Extensión o superficie en que está contenida la materia. 
+391-espacios-s. m. Extensión o superficie en que está contenida la materia. 
+392-especial-adj. Que se diferencia de lo común o acostumbrado 
+393-especiales-adj. Que se diferencia de lo común o acostumbrado 
+394-especialmente-adv. En especial Ejemplo: "tú, especialmente, no deberías decir esto."
+395-especie-s. f. Conjunto de individuos o cosas que tienen ciertos caracteres comunes. clase, grupo 
+396-espectaculo-s. m. Función o diversión pública 
+397-espera-s. f. Acción y resultado de esperar 
+398-esperanza-s. f. Confianza en lograr una cosa o en que ocurra algo deseado Ejemplo: "tenía la esperanza de verlo."
+399-esperar-v. tr. Permanecer en un lugar al que se cree o se sabe que ha de llegar una persona o ha de ocurrir una cosa Ejemplo: "espero a Pedro para ir a comer."
+400-estaba-v. intr. y prnl. Encontrarse una persona o una cosa en un lugar, una situación o una condición 
+401-estaban-v. intr. y prnl. Encontrarse una persona o una cosa en un lugar, una situación o una condición 
+402-establece-v. tr. Crear o fundar una cosa Ejemplo: "el banco ha establecido nuevas sucursales."
+403-establecer-v. tr. Crear o fundar una cosa Ejemplo: "el banco ha establecido nuevas sucursales."
+404-estado-s. m. Situación en la que se encuentra una persona o cosa Ejemplo: "su estado de salud actual es bueno."
+405-estados-v. intr. y prnl. Encontrarse una persona o una cosa en un lugar, una situación o una condición 
+406-estamos-v. intr. y prnl. Encontrarse una persona o una cosa en un lugar, una situación o una condición 
+407-estar-v. intr. y prnl. Encontrarse una persona o una cosa en un lugar, una situación o una condición 
+408-este-s. m. Punto cardinal por donde sale el Sol Ejemplo: "la cordillera se divisaba al este."
+409-estilo-s. m. Conjunto de rasgos característicos de un artista, una obra, época, moda o cualquier actividad Ejemplo: "vimos varias iglesias de estilo románico."
+410-esto-pron. dem. Alude a una situación o a un objeto expresados con anterioridad en el discurso. 
+411-estrategia-s. f. MILITAR Técnica y arte de concebir, preparar y dirigir las operaciones militares. 
+412-estructura-s. f. Modo de estar distribuidas las partes de un todo y relación que puede establecerse entre ellas Ejemplo: "estudiar la estructura del cuerpo humano."
+413-estudio-s. m. Esfuerzo intelectual destinado a la adquisición de conocimientos Ejemplo: "has de dedicar más tiempo al estudio."
+414-estuvo-v. intr. y prnl. Encontrarse una persona o una cosa en un lugar, una situación o una condición 
+415-este-s. m. Punto cardinal por donde sale el Sol Ejemplo: "la cordillera se divisaba al este."
+416-etapa-s. f. Trayecto recorrido entre dos paradas Ejemplo: "hicimos el camino a la ermita en dos etapas."
+417-europeos-adj. De Europa. 
+418-evidente-adj. Que es tan claro que no admite duda Ejemplo: "es evidente que a estas horas ya no vendrá."
+419-evitar-v. tr. Impedir que suceda una cosa desagradable Ejemplo: "hemos de evitar la propagación de la epidemia."
+420-existe-v. intr. Tener una persona o una cosa realidad fuera de la mente Ejemplo: "mi hijo me preguntó si los duendes existían."
+421-existen-v. intr. Tener una persona o una cosa realidad fuera de la mente Ejemplo: "mi hijo me preguntó si los duendes existían."
+422-existencia-s. f. Circunstancia de existir o ser 
+423-experiencia-s. f. Conocimiento de las cosas adquirido con la práctica 
+424-explica-v. tr. y prnl. Expresar una persona lo que piensa o siente Ejemplo: "explícame tus intenciones."
+425-explicar-v. tr. y prnl. Expresar una persona lo que piensa o siente Ejemplo: "explícame tus intenciones."
+426-explico-v. tr. y prnl. Expresar una persona lo que piensa o siente Ejemplo: "explícame tus intenciones."
+427-exterior-adj. Que está en la parte de fuera de una cosa Ejemplo: "la cocina tiene una ventana exterior."
+428-extremo-adj. Que está al final Ejemplo: "la suya es la habitación extrema del pasillo."
+429-factor-s. COMERCIO Apoderado de un comerciante para obrar por cuenta de él en las compras y ventas. representante 
+430-factores-s. COMERCIO Apoderado de un comerciante para obrar por cuenta de él en las compras y ventas. representante 
+431-falta-s. f. Ausencia o carencia de una cosa necesaria Ejemplo: "la falta de agua empieza a ser grave."
+432-familia-s. f. SOCIOLOGÍA Grupo de personas emparentadas entre sí Ejemplo: "se lleva muy bien con su familia."
+433-familiar-adj. De la familia Ejemplo: "hoy tienen una cena familiar."
+434-familias-s. f. SOCIOLOGÍA Grupo de personas emparentadas entre sí Ejemplo: "se lleva muy bien con su familia."
+435-fase-s. f. Cada uno de los diversos estados, cambios o aspectos sucesivos de un fenómeno natural, de una idea o una cosa 
+436-favor-s. m. Ayuda o servicio que se solicita o se presta gratuitamente a una persona Ejemplo: "nunca te he pedido un favor."
+437-fe-s. f. TEOLOGÍA Virtud teologal que consiste en creer en Dios y lo que la Iglesia católica enseña sin poderlo garantizar empíricamente ni con procedimientos racionales. 
+438-fecha-s. f. Indicación escrita del día y el lugar en que se hace u ocurre una cosa Ejemplo: "se te ha olvidado poner la fecha en tu carta."
+439-federal-adj. De la federación Ejemplo: "vive en un estado federal."
+440-feliz-adj. Que tiene o siente felicidad Ejemplo: "era un matrimonio feliz."
+441-fiesta-s. f. Reunión de gente con intención de divertirse o celebrar alguna cosa Ejemplo: "le preparamos una fiesta sorpresa."
+442-fig-s. f. Forma o aspecto externo de un cuerpo material Ejemplo: "le regalaron un joyero en figura de corazón."
+443-figura-s. f. Forma o aspecto externo de un cuerpo material Ejemplo: "le regalaron un joyero en figura de corazón."
+444-figuras-v. tr. Trazar la figura de una persona o una cosa. delinear 
+445-filosofia-s. f. FILOSOFÍA Conjunto de razonamientos y reflexiones encaminados a explicar las causas, relaciones y finalidades últimas del hombre y el universo. 
+446-fin-s. m. Punto o momento en que termina una cosa Ejemplo: "la obra llega a su fin."
+447-final-adj. Que pone fin o es la última parte Ejemplo: "me encantó la escena final de la película."
+448-fines-v. intr. culto Morir una persona. fenecer 
+449-firma-s. f. Nombre y apellido de una persona, que ésta pone al pie de un escrito para darle autenticidad o para comprometerse a cumplir lo que en él se expresa Ejemplo: "esta firma ha sido falsificada."
+450-fiscal-adj. ECONOMÍA Del fisco o hacienda pública Ejemplo: "debemos pagar los impuestos fiscales."
+451-fondo-s. m. Parte inferior de un objeto hueco Ejemplo: "el cubo no llega al fondo del pozo."
+452-forma-s. f. Aspecto externo de los cuerpos Ejemplo: "la mesa tiene forma ovalada."
+453-franco-adj. Que es sincero y leal 
+454-frase-s. f. LINGÜÍSTICA Unidad lingüística, formada por una o más palabras, que presenta un enunciado completo, que se basta así mismo. cláusula 
+455-frecuencia-s. f. Repetición más o menos periódica de una cosa 
+456-frente-s. f. ANATOMÍA Parte superior de la cara, comprendida entre una y otra sien y entre las cejas y el borde del cuero cabelludo Ejemplo: "en su familia todos tienen la frente muy ancha."
+457-fuego-s. m. Combustión de una materia que produce desprendimiento de luz y calor. 
+458-fuente-s. f. Lugar donde brota agua procedente de una corriente subterránea. manantial 
+459-fuentes-s. f. Lugar donde brota agua procedente de una corriente subterránea. manantial 
+460-fuera-adv. En o a la parte exterior de cualquier espacio, real o imaginario. dentro  
+461-fueron-s. m. Cualquier cosa, animada o inanimada, material o inmaterial Ejemplo: "ser vivo; seres fantásticos."
+462-fuerte-adj. Que no se rompe o no se desgasta con facilidad 
+463-fuertes-adj. Que no se rompe o no se desgasta con facilidad 
+464-fuerza-s. f. Vigor y capacidad para mover una cosa que tenga peso o haga resistencia 
+465-fundacion-s. f. Acción y resultado de fundar 
+466-fundamental-adj. Que sirve de fundamento o es lo más importante de una cosa o un asunto Ejemplo: "el tema fundamental es la venta de acciones."
+467-futuro-adj. Que está por suceder o por venir Ejemplo: "se preocupa por las generaciones futuras."
+468-ganar-v. tr. Conseguir dinero u otro beneficio Ejemplo: "con la tienda gana una fortuna."
+469-general-adj. Que es común a todos los elementos o individuos que componen un todo Ejemplo: "el tratado aborda un problema de interés general."
+470-generales-adj. Que es común a todos los elementos o individuos que componen un todo Ejemplo: "el tratado aborda un problema de interés general."
+471-generalmente- haciendo referencia al conjunto de una cosa, y no a excepciones o casos particulares 
+472-gente-s. f. Conjunto de personas 
+473-gestion-s. f. Cualquier acción que se realiza para conseguir una cosa 
+474-gesto-s. m. Movimiento de las facciones de la cara o de las manos que ayuda en la expresión, o que expresa por sí mismo un estado de ánimo o una acción 
+475-gobernador-adj./ s. Que gobierna. dirigente 
+476-gobierno-s. m. Acción y resultado de gobernar, administrar o dirigir según unas normas a una familia, colectividad o estado 
+477-golpe-s. m. Acción y resultado de golpear Ejemplo: "se dio un fuerte golpe en la cabeza."
+478-grado-s. m. Situación, valor, calidad o medida de una cosa 
+479-gran-adj. Grande, usado en singular y antepuesto al sustantivo Ejemplo: "es un gran perro."
+480-grande-adj. Que ocupa mucho espacio o mucha superficie Ejemplo: "los pisos antiguos suelen ser grandes."
+481-grandes-adj. Que ocupa mucho espacio o mucha superficie Ejemplo: "los pisos antiguos suelen ser grandes."
+482-grave-adj. Que es peligroso o puede tener malas consecuencias Ejemplo: "padece una enfermedad grave."
+483-graves-adj. Que es peligroso o puede tener malas consecuencias Ejemplo: "padece una enfermedad grave."
+484-grupo-s. m. Conjunto de personas, animales o cosas que forman un todo Ejemplo: "baila en un grupo de coros y danzas."
+485-grupos-s. m. Conjunto de personas, animales o cosas que forman un todo Ejemplo: "baila en un grupo de coros y danzas."
+486-guardia-s. f. Acción de guardar o vigilar 
+487-guerra-s. f. Lucha armada entre naciones o sociedades 
+488-gusta-v. tr. e intr. Ser del agrado de una persona 
+489-gusto-s. m. Sentido con que se percibe el sabor de las cosas. 
+490-haber-s. m. ECONOMÍA Conjunto de bienes y derechos de una persona o entidad 
+491-habitantes-adj./ s. m. Que habita o reside en un lugar determinado Ejemplo: "no sé cuántos habitantes tiene Venecia."
+492-habitual-adj. Que se hace con frecuencia o por costumbre Ejemplo: "esta caravana ya es habitual."
+493-habla-s. f. Facultad de hablar Ejemplo: "la enfermedad le hizo perder el habla."
+494-hablando-v. intr. Emitir una persona sonidos que forman palabras Ejemplo: "el niño ya habla."
+495-hablar-v. intr. Emitir una persona sonidos que forman palabras Ejemplo: "el niño ya habla."
+496-hacen-v. tr. Producir de la nada Ejemplo: "Dios hizo al hombre a su imagen y semejanza."
+497-hacer-v. tr. Producir de la nada Ejemplo: "Dios hizo al hombre a su imagen y semejanza."
+498-hacerse- transformarse una cosa en algo distinto 
+499-hacia-prep. Indica la dirección del movimiento en relación a su término Ejemplo: "voy hacia mi casa; marchó hacia su país en marzo."
+500-hacienda-s. f. AGRICULTURA, GANADERÍA Finca de gran extensión, dedicada a la agricultura o a la ganadería. finca, heredad, propiedad 
+501-haciendo-v. tr. Producir de la nada Ejemplo: "Dios hizo al hombre a su imagen y semejanza."
+502-hacia-prep. Indica la dirección del movimiento en relación a su término Ejemplo: "voy hacia mi casa; marchó hacia su país en marzo."
+503-hasta-prep. Indica el espacio de tiempo, término de una cosa o acción, así como el límite de una medida o cantidad 
+504-haya-s. f. BOTÁNICA Árbol de la familia de las fagáceas, de tronco grueso, liso, corteza gris, copa redonda y espesa y hojas pecioladas, que crece en los bosques templados. 
+505-hayan-s. m. ECONOMÍA Conjunto de bienes y derechos de una persona o entidad 
+506-he-adv. Partícula que sirve para señalar o mostrar una persona o cosa Ejemplo: "he aquí tu regalo."
+507-hecho-adj. Que ha alcanzado la madurez o desarrollo completo Ejemplo: "un árbol hecho."
+508-hechos-adj. Que ha alcanzado la madurez o desarrollo completo Ejemplo: "un árbol hecho."
+509-hermano-s. Persona que tiene los mismos padres con respecto a otro, o por lo menos uno de ellos 
+510-hicieron-v. tr. Producir de la nada Ejemplo: "Dios hizo al hombre a su imagen y semejanza."
+511-hijo-s. Persona o animal respecto de su padre o de su madre Ejemplo: "ella es la hija menor de la familia."
+512-historia-s. f. HISTORIA Ciencia que estudia los acontecimientos del pasado relativos a la humanidad y a sus diferentes sociedades. 
+513-historico-adj. HISTORIA De la historia 
+514-hombre-s. m. ZOOLOGÍA, ANTROPOLOGÍA Denominación genérica y arbitraria, sin distinción de sexo, de cada uno de los individuos de la especie humana, clasificados como mamíferos primates, que se caracterizan por estar dotados de lenguaje articulado, cuerpo erguido y manos prensiles con los dedos pulgar e índice oponibles. persona, mortal, semejante 
+515-hombres-s. m. ZOOLOGÍA, ANTROPOLOGÍA Denominación genérica y arbitraria, sin distinción de sexo, de cada uno de los individuos de la especie humana, clasificados como mamíferos primates, que se caracterizan por estar dotados de lenguaje articulado, cuerpo erguido y manos prensiles con los dedos pulgar e índice oponibles. persona, mortal, semejante 
+516-hora-s. f. Cada una de las veinticuatro partes en que se divide el día solar. 
+517-horas-s. f. Cada una de las veinticuatro partes en que se divide el día solar. 
+518-hospital-s. m. MEDICINA Establecimiento donde se asiste a los enfermos Ejemplo: "es el mejor hospital en traumatología."
+519-hotel-s. m. Establecimiento donde se alojan personas que, generalmente, están de paso. parador, hospedaje, hostería, residencia 
+520-hoy-adv. En este día, en el día presente Ejemplo: "hoy empieza el curso."
+521-hubiera-s. m. ECONOMÍA Conjunto de bienes y derechos de una persona o entidad 
+522-hubiese-s. m. ECONOMÍA Conjunto de bienes y derechos de una persona o entidad 
+523-hubo-s. m. ECONOMÍA Conjunto de bienes y derechos de una persona o entidad 
+524-huelga-s. f. Suspensión colectiva del trabajo, acordada por los trabajadores de una empresa o un sector, como medida de presión para conseguir determinados objetivos. paro, plante 
+525-humana-adj. Que tiene relación con la persona o con la humanidad Ejemplo: "los seres humanos."
+526-humano-adj. Que tiene relación con la persona o con la humanidad Ejemplo: "los seres humanos."
+527-humanos-adj. Que tiene relación con la persona o con la humanidad Ejemplo: "los seres humanos."
+528-iban-v. intr. y prnl. Moverse en el espacio hacia el lugar que se expresa 
+529-idea-s. f. FILOSOFÍA Representación mental sobre alguien o algo real o imaginario Ejemplo: "con esto ya me hago una idea, gracias."
+530-identidad-s. f. Circunstancia de ser una cosa o persona muy parecida o igual a otra con la que se compara. equivalencia, igualdad, paralelismo, semejanza 
+531-ido-adj. Que está distraído Ejemplo: "no entiendes lo que te digo porque estás ido."
+532-iglesia-s. f. RELIGIÓN Conjunto de las personas que profesan el catolicismo Ejemplo: "el concilio afectó a toda la Iglesia."
+533-igual-adj. Que tiene la misma naturaleza, forma, calidad o aspecto que otra cosa 
+534-igualmente-adv. También, de la misma manera 
+535-imagen-s. f. FILOSOFÍA Idea o representación mental de lo que se percibe por los sentidos Ejemplo: "se le quedó grabada la imagen del accidente."
+536-importa-v. intr. Tener una cosa o persona interés para otra 
+537-importancia-s. f. Valor o interés que para una persona presenta una situación, una cosa u otra persona Ejemplo: "creo que se trata de un cambio de importancia."
+538-importante-adj. Que tiene importancia, que es de interés o valor 
+539-importantes-adj. Que tiene importancia, que es de interés o valor 
+540-imposible-adj. Que no puede ser, suceder o realizarse 
+541-impresion-f. surface track; 
+542-incluso-adj. Que está incluido en otra cosa 
+543-incluye-v. tr. Poner una cosa dentro de otra Ejemplo: "incluyo una carta en el paquete."
+544-incremento-s. m. Acción y resultado de incrementar o incrementarse. crecimiento 
+545-independencia-s. f. Falta de dependencia Ejemplo: "vive solo y goza de una total independencia."
+546-indica-v. tr. Dar a entender una cosa con indicios y señales Ejemplo: "esta luz indica que le falta agua al coche."
+547-individuo-s. despectivo Persona cuyo nombre y condición se ignoran o no se quieren decir Ejemplo: "un individuo sospechoso pasea por la calle."
+548-industria-s. f. ECONOMÍA, INDUSTRIA Conjunto de las actividades económicas desarrolladas para la obtención de un producto a partir de materias primas. producción 
+549-industrial-adj. INDUSTRIA De la industria Ejemplo: "productos sometidos a proceso industrial."
+550-influencia-s. f. Acción y resultado de influir 
+551-informe-s. m. Acción y resultado de informar. información 
+552-informo-v. tr. Dar noticias o datos de una cosa a una persona 
+553-iniciativa-s. f. Idea o acción a la que después se suman otras ajenas, favorables o contrarias, para decidir o hacer una cosa. proposición, sugerencia 
+554-inmediatamente-adv. Sin demora, al instante Ejemplo: "ven inmediatamente."
+555-inmediato-adj. Se aplica al lugar que es contiguo o muy cercano a otro Ejemplo: "está en la habitación inmediata a la tuya."
+556-instante-s. m. Porción muy breve de tiempo Ejemplo: "dame un instante y te lo acabaré."
+557-instituciones-s. f. Acción y resultado de instituir 
+558-instituto-s. m. Corporación científica, literaria o artística. 
+559-inteligencia-s. f. Facultad para comprender o entender las cosas. intelecto 
+560-intento-s. m. Acción y resultado de intentar Ejemplo: "lo logró en el tercer intento."
+561-interesante-adj./ s. m. y f. Que interesa o es digno de interés 
+562-intereses- conjunto de bienes y propiedades de una persona 
+563-interior-adj. Que está, ocurre, se hace o se lleva dentro 
+564-internacional-adj. Que tiene relación con varias naciones o con el conjunto de todas ellas 
+565-internacionales-adj. Que tiene relación con varias naciones o con el conjunto de todas ellas 
+566-investigaciones-s. f. Acción y resultado de investigar 
+567-ir-v. intr. y prnl. Moverse en el espacio hacia el lugar que se expresa 
+568-isla-s. f. GEOGRAFÍA Porción de tierra rodeada de agua por todas partes 
+569-izquierda-s. f. ANATOMÍA Extremidad del cuerpo situada en el lado del corazón Ejemplo: "sabe escribir con la izquierda y con la derecha."
+570-jefe-s. Persona que ocupa el cargo superior de un cuerpo u oficio Ejemplo: "es el jefe del equipo de arquitectos."
+571-jornada-s. f. Duración del trabajo diario 
+572-joven-adj./ s. m. y f. Se aplica a la persona que está en la juventud 
+573-juan-s. m. coloquial En la expresión don juan, se usa para designar al hombre audaz y mujeriego. tenorio 
+574-juego-s. m. Acción y resultado de jugar. 
+575-juegos-s. m. Acción y resultado de jugar. 
+576-jueves-s. m. Día de la semana, entre el miércoles y el viernes. 
+577-juez-s. DERECHO Persona que tiene autoridad y potestad para juzgar y sentenciar en los tribunales de justicia Ejemplo: "la sentencia del juez les es muy favorable."
+578-jugador-adj./ s. JUEGOS Que participa en un juego 
+579-jugadores-adj./ s. JUEGOS Que participa en un juego 
+580-jugar-v. intr. JUEGOS, DEPORTES Hacer una persona cosas con la finalidad de divertirse o entretenerse Ejemplo: "juega con las piedras."
+581-juicio-s. m. Facultad para distinguir lo verdadero de lo falso y el bien del mal 
+582-junta-s. f. Reunión de personas para tratar un asunto de su incumbencia, sobre el que tienen capacidad de decisión o que afecta a la entidad u organismo al que pertenecen 
+583-junto-adj. Que está reunido Ejemplo: "le dio toda la ropa junta."
+584-justicia-s. f. Virtud que consiste en actuar de manera justa, dando a cada persona lo que le pertenece o corresponde. equidad 
+585-justo-adj. Que actúa con justicia, siguiendo la ley o la moral Ejemplo: "no aceptará un soborno porque es un hombre justo."
+586-juventud-s. f. Edad o etapa de la vida entre la pubertad y la madurez 
+587-la-art. GRAMÁTICA Indica el género femenino y el número singular de la palabra a la que acompaña 
+588-labios-s. m. ANATOMÍA Cada uno de los dos bordes carnosos que forman la abertura de la boca Ejemplo: "se pinta los labios con carmín."
+589-labor-s. f. Acción y resultado de trabajar Ejemplo: "labores agrícolas; labores domésticas."
+590-lado-s. m. Parte de un todo que se contrapone a la otra Ejemplo: "siéntate en el lado derecho del sofá."
+591-larga-s. f. Pedazo de suela o fieltro que ponen los zapateros en la parte posterior de la horma para que salga más largo el zapato. 
+592-largo-adj. Que tiene mucha longitud 
+593-leche-s. f. FISIOLOGÍA Líquido blanco producido y segregado por los pechos de las hembras de los mamíferos para alimentar a sus crías, que se emplea también como alimento corriente. 
+594-lectura-s. f. Acción y resultado de leer Ejemplo: "es un gran aficionado a la lectura."
+595-leer-v. tr. e intr. Dar una interpretación a los caracteres de un texto escrito, pronunciándose o no las palabras representadas por estos caracteres Ejemplo: "mi hijo lee muy bien; leo el periódico cada día."
+596-legal-adj. Que está regulado por la ley y se realiza conforme a ella Ejemplo: "en nuestra empresa todo es legal."
+597-lejos-adv. En lugar distante 
+598-lengua-s. f. ANATOMÍA Órgano muscular movible situado en la cavidad de la boca y que sirve para percibir los sabores, deglutir y articular sonidos Ejemplo: "me quemé toda la lengua al comer la sopa."
+599-lenguaje-s. m. LINGÜÍSTICA Conjunto de sonidos articulados con que el hombre manifiesta lo que piensa o siente. 
+600-ley-s. f. FÍSICA Regla natural, constante e invariable a la que están sometidos los fenómenos de la naturaleza 
+601-libertad-s. f. Facultad humana de obrar y expresarse según la propia voluntad y bajo la responsabilidad de uno mismo 
+602-libre-adj. Que puede decidir lo que hace y el modo de hacerlo Ejemplo: "es libre de no venir si no quiere."
+603-libro-s. m. ARTES GRÁFICAS Conjunto de hojas escritas unidas o cosidas por uno de sus lados y cubiertas por tapas de cartón u otro material. volumen 
+604-libros-s. m. ARTES GRÁFICAS Conjunto de hojas escritas unidas o cosidas por uno de sus lados y cubiertas por tapas de cartón u otro material. volumen 
+605-liga-s. f. INDUMENTARIA Y MODA Tira de tela elástica usada para sujetar las medias o los calcetines. 
+606-lista-s. f. Trozo largo, estrecho y delgado de cualquier material Ejemplo: "hizo unas guirnaldas con listas de papel."
+607-literatura-s. f. LITERATURA Arte que utiliza la palabra como medio de expresión, ajustándose a códigos estéticos que varían en los distintos períodos históricos, movimientos artísticos o autores individuales 
+608-llama-s. f. FÍSICA Masa gaseosa en combustión que despide luz y calor y se manifiesta sobre un cuerpo que arde Ejemplo: "la llama del encendedor está muy alta ."
+609-llamada-s. f. Acción y resultado de llamar 
+610-llamar-v. tr. Decir el nombre de una persona en voz alta para que venga o para advertirle de alguna cosa Ejemplo: "llama al niño para que venga a cenar ya ."
+611-llega-v. intr. Alcanzar un lugar al que se va desde otro 
+612-llegada-s. f. Acción y resultado de llegar Ejemplo: "hicimos una fiesta para celebrar su llegada."
+613-llegar-v. intr. Alcanzar un lugar al que se va desde otro 
+614-llegaron-v. intr. Alcanzar un lugar al que se va desde otro 
+615-llego-v. intr. Alcanzar un lugar al que se va desde otro 
+616-llevaba-v. tr. Tomar una persona una cosa consigo y hacerla llegar a un destino Ejemplo: "yo te llevaré los papeles a la oficina."
+617-llevado-v. tr. Tomar una persona una cosa consigo y hacerla llegar a un destino Ejemplo: "yo te llevaré los papeles a la oficina."
+618-llevar-v. tr. Tomar una persona una cosa consigo y hacerla llegar a un destino Ejemplo: "yo te llevaré los papeles a la oficina."
+619-llevo-v. tr. Tomar una persona una cosa consigo y hacerla llegar a un destino Ejemplo: "yo te llevaré los papeles a la oficina."
+620-lo-art. Indica el género neutro de la palabra que acompaña 
+621-lograr-v. tr. Obtener aquello que se busca o desea Ejemplo: "logró dar a su novela un aire victoriano."
+622-logro-s. m. Consecución o cumplimiento de un objetivo 
+623-lucha-s. f. DEPORTES Pelea cuerpo a cuerpo entre dos o más personas en la que cada uno forcejea con su adversario e intenta derribarlo Ejemplo: "lucha grecorromana."
+624-luego-adv. Después de este tiempo o momento Ejemplo: "vendrán luego."
+625-lugar-s. m. Porción de espacio que puede ocupar o que ocupa un cuerpo Ejemplo: "he dejado las gafas en su lugar."
+626-lugares-s. m. Porción de espacio que puede ocupar o que ocupa un cuerpo Ejemplo: "he dejado las gafas en su lugar."
+627-luna-s. f. ASTRONOMÍA Satélite de la Tierra visible por la noche debido a la luz que recibe del Sol. 
+628-lunes-s. m. Día de la semana, entre el domingo y el martes. 
+629-luz-s. f. FÍSICA Radiación que emitida por un cuerpo incide en la retina provocando la sensación de visión. 
+630-lider-s. m. y f. Persona que dirige, en especial un partido político o una asociación 
+631-limites-v. tr. Señalar los límites de una cosa Ejemplo: "limitó el jardín con una valla."
+632-lineas-adj. BOTÁNICA, ZOOLOGÍA Se aplica al organismo vegetal o animal con forma larga y estrecha Ejemplo: "hoja linear."
+633-madera-s. f. BOTÁNICA Parte sólida de los árboles situada debajo de la corteza Ejemplo: "la madera del roble se usa en carpintería."
+634-madre-s. f. Mujer o hembra que ha parido 
+635-maestro-adj. Que tiene mucho mérito o valor entre los de su clase Ejemplo: "es una obra maestra."
+636-mal-adj. Se usa sólo ante sustantivo masculino Ejemplo: "mal tiempo; mal humor ."
+637-mama-s. f. familiar Denominación que se le da a la madre Ejemplo: "el bebé sabe quién en su mama."
+638-manera-s. f. Modo en que se hace o sucede una cosa 
+639-mano-s. f. ANATOMÍA Parte del cuerpo humano que va desde la muñeca hasta la punta de los dedos Ejemplo: "agárralo bien con las dos manos."
+640-manos- propiedad que se tiene sobre una cosa 
+641-mantener-v. tr. y prnl. Cubrir las necesidades económicas de una persona, en especial las alimenticias Ejemplo: "se mantiene con un subsidio de paro."
+642-mantiene-v. tr. y prnl. Cubrir las necesidades económicas de una persona, en especial las alimenticias Ejemplo: "se mantiene con un subsidio de paro."
+643-mar-s. m. o f. GEOGRAFÍA Masa de agua salada que cubre la mayor parte del planeta terrestre. piélago 
+644-marca-s. f. HISTORIA Circunscripción territorial y administrativa situada en las fronteras del imperio carolingio y que desempeñaba el papel de defensa militar Ejemplo: "la Marca Hispánica."
+645-marcha-s. f. Acción de marchar o marcharse. partida 
+646-marco-s. m. ECONOMÍA Unidad monetaria de Alemania y Finlandia, sustituida en 2002 por el euro. 
+647-margen-s. m. o f. Orilla de una cosa, en especial de un río o de un camino 
+648-martes-s. m. Día de la semana, entre el lunes y el miércoles. 
+649-mas-conj. advers. Pero, aunque 
+650-masa-s. f. Mezcla espesa, blanda y consistente formada al deshacer en un líquido una sustancia sólida o pulverizada 
+651-materia-s. f. FÍSICA Realidad física constituyente de los cuerpos, susceptible de tomar una forma determinada y constituida por moléculas que, a su vez, están formadas por grupos de átomos Ejemplo: "la materia se transforma."
+652-material-adj. De la materia Ejemplo: "la masa es una cualidad material."
+653-materiales-adj. De la materia Ejemplo: "la masa es una cualidad material."
+654-matrimonio-s. m. Unión entre dos personas realizada por medio de determinados ritos o formalidades legales Ejemplo: "el matrimonio se celebró según el rito ortodoxo."
+655-mayo-s. m. Quinto mes del año, entre abril y junio, en el calendario occidental, de treinta y un días. 
+656-mayor-adj. Que tiene más tamaño o cantidad que otra cosa 
+657-media-s. f. Mitad de algunas cosas, en especial de unidades de medida Ejemplo: "la media de una fanega de trigo."
+658-medicina-s. f. MEDICINA Ciencia que estudia la prevención, diagnóstico y tratamiento de enfermedades del ser humano. 
+659-medida-s. f. Acción y resultado de medir 
+660-medio-adj. Que es igual a la mitad de un todo o de un entero 
+661-mejor-adj. Que es superior o más bueno 
+662-mejorar-v. tr. Hacer que una cosa sea mejor de lo que era Ejemplo: "con la nueva máquina mejorará la productividad."
+663-mejores-v. tr. Hacer que una cosa sea mejor de lo que era Ejemplo: "con la nueva máquina mejorará la productividad."
+664-memoria-s. f. SICOLOGÍA Capacidad para evocar hechos o experiencias del pasado Ejemplo: "a raíz del accidente ha perdido la memoria."
+665-menor-adj. Que tiene menos tamaño o cantidad que otra cosa Ejemplo: "tu sueldo es menor que el mío."
+666-menores-adj. Que tiene menos tamaño o cantidad que otra cosa Ejemplo: "tu sueldo es menor que el mío."
+667-menos-adv. Indica menor cantidad numérica o menor intensidad 
+668-mensaje-s. m. Noticia o comunicación de palabra, por escrito o por otro medio, que se hace llegar a una persona 
+669-mente-s. f. Conjunto de las facultades y capacidades intelectuales del hombre. intelecto 
+670-mercado-s. m. COMERCIO Reunión o asistencia de gente a un lugar determinado, y en días señalados, para comprar y vender mercancías 
+671-mes-s. m. Cada una de las doce partes en que se divide el año 
+672-mesa-s. f. Mueble formado por un tablero horizontal y uno o más pies, destinado a usos domésticos, profesionales o de recreo 
+673-miedo-s. m. Perturbación angustiosa del ánimo debido a un peligro o un riesgo real o imaginario Ejemplo: "sintió miedo al lanzarse en paracaídas."
+674-miembro-s. m. ANATOMÍA Cada una de las extremidades del cuerpo humano o animal. extremidad 
+675-miembros-s. m. ANATOMÍA Cada una de las extremidades del cuerpo humano o animal. extremidad 
+676-mientras-conj. Durante el tiempo en que, en el transcurso de 
+677-mil-adj.num./ s.m. Que resulta de la multiplicación de diez y cien. 
+678-militar-adj. MILITAR De la milicia o de la guerra 
+679-militares-adj. MILITAR De la milicia o de la guerra 
+680-millones-s. m. Mil millares 
+681-ministerio-s. m. POLÍTICA Gobierno de un estado, considerado en el conjunto de departamentos en que se divide. gabinete 
+682-ministro-s. POLÍTICA Jefe de cada uno de los departamentos o ministerios en que se divide la gobernación del estado Ejemplo: "ministro de economía; ministro de cultura."
+683-ministros-s. POLÍTICA Jefe de cada uno de los departamentos o ministerios en que se divide la gobernación del estado Ejemplo: "ministro de economía; ministro de cultura."
+684-minutos-s. m. GEOMETRÍA Parte que resulta de dividir un grado de círculo en sesenta partes iguales Ejemplo: "el ángulo mide treinta grados y veinte minutos."
+685-mira-s. f. TECNOLOGÍA Pieza de algunos instrumentos que sirve para dirigir la vista Ejemplo: "la mira de los prismáticos se ha empañado."
+686-mirada-s. f. Acción y resultado de mirar Ejemplo: "me convenció por la sinceridad de su mirada."
+687-miro-v. tr., intr. y prnl. Fijar o dirigir la vista con atención 
+688-mismas-adj. Que es una sola persona o cosa en distintos casos Ejemplo: "he vuelto a ver al mismo hombre merodeando."
+689-mismo-adj. Que es una sola persona o cosa en distintos casos Ejemplo: "he vuelto a ver al mismo hombre merodeando."
+690-mismos-adj. Que es una sola persona o cosa en distintos casos Ejemplo: "he vuelto a ver al mismo hombre merodeando."
+691-mitad-s. f. Cada una de las dos partes iguales en que se divide un todo 
+692-miercoles-s. m. Día de la semana, entre el martes y el jueves. 
+693-modelo-s. m. Cosa que ha de servir de objeto de imitación Ejemplo: "modelo de escritura; modelo de factura."
+694-modo-s. m. Forma de ser, de hacer o de manifestarse una cosa Ejemplo: "creo que el mejor modo de viajar es en tren."
+695-momento-s. m. Espacio breve de tiempo Ejemplo: "entraré un momento para saludarle."
+696-momentos-s. m. Espacio breve de tiempo Ejemplo: "entraré un momento para saludarle."
+697-moral-adj. De las costumbres o de las reglas de conducta humanas 
+698-morir-v. intr. y prnl. Dejar de vivir o perder la vida una persona o un animal 
+699-motivo-adj. Que mueve o sirve para mover. 
+700-movimiento-s. m. Acción y resultado de mover, moverse o ser movido Ejemplo: "hacía movimientos circulares con los brazos."
+701-movimientos-s. m. Acción y resultado de mover, moverse o ser movido Ejemplo: "hacía movimientos circulares con los brazos."
+702-mucha-adj. indef. Que es abundante o sobrepasa la medida de lo normal o lo ordinario Ejemplo: "tiene mucho dinero; hace mucho calor."
+703-mucho-adj. indef. Que es abundante o sobrepasa la medida de lo normal o lo ordinario Ejemplo: "tiene mucho dinero; hace mucho calor."
+704-muerte-s. f. Finalización de la vida Ejemplo: "le llegó la muerte cuando más feliz era."
+705-muerto-adj./ s. Se refiere a la persona que ha dejado de vivir Ejemplo: "no tiene abuelo porque está muerto."
+706-muertos-adj./ s. Se refiere a la persona que ha dejado de vivir Ejemplo: "no tiene abuelo porque está muerto."
+707-muestra-s. f. Pedazo o porción de un producto que da a conocer las cualidades del mismo. ejemplar 
+708-mujer-s. f. Persona del sexo femenino Ejemplo: "en la universidad hay más mujeres que hombres."
+709-mujeres-s. f. Persona del sexo femenino Ejemplo: "en la universidad hay más mujeres que hombres."
+710-mundial-adj. Que afecta al mundo Ejemplo: "sería terrible que hubiera otra guerra mundial."
+711-mundo-s. m. Conjunto de todo lo que existe Ejemplo: "de todo hay en este mundo."
+712-municipal-adj. ADMINISTRACIÓN Que tiene relación con los municipios en general o uno determinado Ejemplo: "tengo que pagar los impuestos municipales."
+713-museo-s. m. ARTE Edificio o local donde se guardan y exponen obras de arte o colecciones de objetos de interés 
+714-muy-adv. En gran medida, mucho 
+715-mas-conj. advers. Pero, aunque 
+716-mio-adj./ pron. pos. Que pertenece a la persona que habla Ejemplo: "es un libro mío; la mía es más bonita."
+717-musica-adj. De la música. musical 
+718-nacional-adj. De la nación 
+719-nacionales-adj. De la nación 
+720-naciones-s. f. POLÍTICA Conjunto de habitantes de un país regido por el mismo gobierno. pueblo 
+721-nacion-s. f. POLÍTICA Conjunto de habitantes de un país regido por el mismo gobierno. pueblo 
+722-nada-pron. indef. Ninguna cosa, ninguna cantidad ni medida 
+723-nadie-pron. indef. Ninguna persona Ejemplo: "no veo a nadie; no había nadie en la sala."
+724-natural-adj. De la naturaleza o que ha sido producido por ella 
+725-naturales-adj. De la naturaleza o que ha sido producido por ella 
+726-naturaleza-s. f. Conjunto de la realidad material existente, entendida como unidad o sistema dotado de leyes propias, al margen de la intervención humana. 
+727-necesario-adj. Que es indispensable para que suceda una cosa o para un fin 
+728-necesidad-s. f. Cualquier cosa que resulta indispensable para que algo suceda, exista o para un fin 
+729-necesita-v. tr. e intr. Tener una persona un animal o una cosa necesidad de lo que se expresa 
+730-negocio-s. m. COMERCIO Operación o transacción comercial con la que se espera obtener un beneficio 
+731-negro-adj./ s. m. Se aplica al color acromático que se atribuye a objetos opacos absorbentes, que resulta de la ausencia de los colores del espectro solar 
+732-ni-conj. cop. Indica unión o agrupación de palabras u oraciones negativas 
+733-ninguno-adj. indef. Ni uno 
+734-nivel-s. m. TECNOLOGÍA Instrumento que se usa para comprobar la horizontalidad o la verticalidad de un plano y para determinar la diferencia de altura entre dos puntos 
+735-niveles-v. tr. Comprobar la horizontalidad de una cosa con el nivel 
+736-no-adv. Se usa respondiendo a una pregunta negándola Ejemplo: "¿recuerdas el texto?, no."
+737-noche-s. f. Tiempo en el que falta la luz solar, comprendido entre la puesta y la salida del sol Ejemplo: "en invierno se hace de noche muy pronto."
+738-noches-s. f. Tiempo en el que falta la luz solar, comprendido entre la puesta y la salida del sol Ejemplo: "en invierno se hace de noche muy pronto."
+739-nombre-s. m. Palabra que designa los objetos físicos, síquicos o ideales Ejemplo: "la esperanza es el nombre de una virtud teologal."
+740-nombres-s. m. Palabra que designa los objetos físicos, síquicos o ideales Ejemplo: "la esperanza es el nombre de una virtud teologal."
+741-normal-adj. Que no se sale de lo que es habitual 
+742-normas-s. f. Regla, criterio o manera para hacer una cosa o para comportarse de una forma determinada 
+743-norte-s. m. Punto cardinal del horizonte, situado frente a un observador a cuya derecha está el este Ejemplo: "la brújula indica el norte ."
+744-norteamericano-adj. De América del Norte. 
+745-nos-pron. pers. A nosotros, para nosotros 
+746-nosotros-pron. pers. Forma del pronombre personal de primera persona del plural Ejemplo: "lo haremos nosotros."
+747-nota-s. f. Escrito breve hecho para recordar una cosa o como resumen para un desarrollo posterior Ejemplo: "tomó notas en tu conferencia ."
+748-noticia-s. f. Comunicación de un acontecimiento, por lo general reciente 
+749-novela-s. f. LITERATURA Obra literaria en prosa, en general extensa, en la que se narra una historia, por completo o en parte ficticia, y se describen los sucesos y vicisitudes que rodean a unos personajes. 
+750-nuestra-adj./ pron. pos. De nosotros 
+751-nuestras-adj./ pron. pos. De nosotros 
+752-nuestro-adj./ pron. pos. De nosotros 
+753-nueva-s. f. Noticia o información que no se conocía antes 
+754-nueve-adj.num./ s.m. Que resulta de la suma de ocho más uno. 
+755-nuevo-adj. Que se acaba de hacer, producir o conocer 
+756-nuevos-adj. Que se acaba de hacer, producir o conocer 
+757-nunca-adv. En ningún tiempo, momento u ocasión 
+758-objetivo-adj. Que expresa la realidad de manera imparcial Ejemplo: "un historiador objetivo; un juicio objetivo."
+759-objetivos-adj. Que expresa la realidad de manera imparcial Ejemplo: "un historiador objetivo; un juicio objetivo."
+760-objeto-s. m. Cosa material y concreta, por lo general de dimensiones reducidas Ejemplo: "había cuatro objetos encima de la mesa."
+761-objetos-s. m. Cosa material y concreta, por lo general de dimensiones reducidas Ejemplo: "había cuatro objetos encima de la mesa."
+762-obra-s. f. Cosa hecha o producida por una persona Ejemplo: "ese muro es obra de tu padre."
+763-obstante-loc. conj. Indica sin embargo en la expresión no obstante Ejemplo: "no le gustaba, no obstante, lo aceptó."
+764-obtener-v. tr. Conseguir una cosa que se merece o solicita Ejemplo: "ha obtenido la beca."
+765-ocasiones-v. tr. Ser causa o motivo de una cosa Ejemplo: "el cáncer le ocasionó la muerte."
+766-ocho-adj.num./ s.m. Que resulta de la suma de siete más uno Ejemplo: "el niño tiene ocho años."
+767-ocurre-v. intr. Producirse un hecho 
+768-oferta-s. f. COMERCIO Situación ocasional en la que se ofrece un producto en unas condiciones ventajosas o a un precio inferior al habitual 
+769-oficial-adj. Del gobierno o que proviene de él Ejemplo: "noticia oficial; recibimiento oficial."
+770-oficiales-adj. Del gobierno o que proviene de él Ejemplo: "noticia oficial; recibimiento oficial."
+771-oficina-s. f. Lugar donde se realizan trabajos de administración y gestión 
+772-ofrece-v. tr. y prnl. Presentar y dar de forma voluntaria una cosa a una persona 
+773-ojo-s. m. ANATOMÍA Órgano de la vista en los hombres y los animales, que permite captar la luz y las formas de las imágenes. 
+774-operaciones-s. f. Acción y resultado de operar. 
+775-oportunidad-s. f. Carácter de aquello que es oportuno. 
+776-oposicion-s. f. Acción y resultado de oponer u oponerse. 
+777-orden-s. m. Colocación cuidadosa de un conjunto de cosas, asignando a cada una un lugar o posición determinada Ejemplo: "quiero que todo esté en orden."
+778-organismo-s. m. BIOLOGÍA Conjunto de órganos y funciones del cuerpo animal o vegetal 
+779-organismos-s. m. BIOLOGÍA Conjunto de órganos y funciones del cuerpo animal o vegetal 
+780-organizaciones-s. f. Acción y resultado de organizar u organizarse. 
+781-origen-s. m. Causa o motivo que está en el principio de una cosa 
+782-original-adj. Del origen. 
+783-oro-s. m. MINERALOGÍA, QUÍMICA Metal precioso, amarillo, dúctil y maleable, muy pesado, que se usa en joyería y en la fabricación de monedas Ejemplo: "lleva un collar de oro."
+784-os-pron. pers. A vosotros, para vosotros 
+785-otra-adj. Se aplica a la persona o cosa distinta de la que se habla 
+786-otras-adj. Se aplica a la persona o cosa distinta de la que se habla 
+787-otro-adj. Se aplica a la persona o cosa distinta de la que se habla 
+788-paciente-adj. Que tiene paciencia 
+789-pacientes-adj. Que tiene paciencia 
+790-padre-s. m. Hombre o animal que ha tenido descendencia 
+791-pagar-v. tr. COMERCIO Dar a una persona dinero u otra cosa que se le debe Ejemplo: "has de pagar las deudas."
+792-pago-s. m. COMERCIO Entrega de dinero u otra cosa equivalente que se debe por haber recibido con antelación algún servicio, trabajo, objeto o por cualquier otra causa Ejemplo: "cobro el trabajo en tres pagos mensuales ."
+793-palabra-s. f. LINGÜÍSTICA Sonido o conjunto de sonidos que forman una unidad de significado o expresan una idea. 
+794-palacio-s. m. Casa grande y lujosa, propia de monarcas y nobles. 
+795-pan-s. m. COCINA Masa de harina, si no se especifica otro grano, de trigo, levadura y agua, cocida al horno después de fermentar, que sirve de alimento 
+796-papel-s. m. Hoja delgada y flexible hecha con fibra de madera, trapos o paja que se blanquea, seca y endurece y que sirve para escribir o envolver, entre otros muchos usos Ejemplo: "el libro está hecho con papel de baja calidad."
+797-par-adj. Igual o semejante a otro en cantidad, calidad u otra característica Ejemplo: "es un producto par en precio al otro."
+798-para-prep. Indica el término justo de una acción Ejemplo: "lo tendrás para el dos de agosto."
+799-parece-s. m. Opinión o idea que una persona se forma sobre un asunto o sobre otra persona 
+800-parecen-s. m. Opinión o idea que una persona se forma sobre un asunto o sobre otra persona 
+801-parecer-s. m. Opinión o idea que una persona se forma sobre un asunto o sobre otra persona 
+802-pareja-s. f. Conjunto de dos personas o animales, en especial el formado por macho y hembra 
+803-parlamento-s. m. POLÍTICA Institución política constituida por una asamblea encargada de aprobar las leyes y controlar la actividad del gobierno Ejemplo: "hoy se debate en el parlamento el proyecto ley."
+804-parque-s. m. Lugar de recreo público o privado, con arbolado y plantas ornamentales Ejemplo: "se fue al parque a pasear."
+805-parte-s. f. Porción indeterminada de un todo 
+806-partes-v. tr. Dividir una cosa en dos o más partes 
+807-particular-adj. Que pertenece a una determinada persona 
+808-partido-adj. Que reparte con otros lo que tiene Ejemplo: "es muy partido con los necesitados."
+809-partidos-v. tr. Dividir una cosa en dos o más partes 
+810-partir-v. tr. Dividir una cosa en dos o más partes 
+811-pasa-s. f. COCINA Uva seca elaborada por diferentes procedimientos, que se consume como golosina o para acompañar o condimentar algunos guisos o postres Ejemplo: "el helado está hecho con turrón y pasas."
+812-pasada-s. f. Cada capa de una sustancia que se aplica a una superficie 
+813-pasado-adj. Que pertenece a un tiempo anterior al presente 
+814-pasar-v. tr. Llevar una cosa de un lugar a otro Ejemplo: "pasa el hilo por el ojal."
+815-paso-adj. Se aplica a la fruta desecada al sol Ejemplo: "le encantan las uvas pasas."
+816-pasos-adj. Se aplica a la fruta desecada al sol Ejemplo: "le encantan las uvas pasas."
+817-paso-adj. Se aplica a la fruta desecada al sol Ejemplo: "le encantan las uvas pasas."
+818-paz-s. f. Estado de calma y tranquilidad, sin molestias, disputas u otras circunstancias que causen malestar Ejemplo: "en el campo se respira paz; paz interior."
+819-pais-s. m. ADMINISTRACIÓN, GEOGRAFÍA, POLÍTICA Territorio limitado de forma natural o artificial, que constituye una unidad geográfica, política o histórica 
+820-peligro-s. m. Riesgo de que suceda algún mal de forma inminente 
+821-pelo-s. m. ANATOMÍA Filamento de naturaleza córnea que nace y crece entre los poros de la piel de los mamíferos. 
+822-pelicula-f. film, movie; 
+823-pena-s. f. Tristeza o aflicreción profunda Ejemplo: "su ausencia me produce mucha pena."
+824-pensamiento-s. m. Facultad de pensar Ejemplo: "el golpe le afectó el pensamiento."
+825-pensar-v. tr. e intr. Representarse en la mente la imagen de una cosa Ejemplo: "para relajarte piensa un mar azul."
+826-peor-adj. Que es de mala condición o de inferior calidad respecto de otra cosa con que se compara Ejemplo: "esta tela es peor que aquélla."
+827-perder-v. tr. Dejar de tener una persona una cosa Ejemplo: "ha perdido el cargo que tenía."
+828-perdido-adj. Que no tiene o no lleva destino determinado Ejemplo: "el perro iba perdido y asustado."
+829-permanente-adj. Que permanece Ejemplo: "color permanente."
+830-permite-v. tr. y prnl. Dejar que una persona haga una cosa o no oponerse a que la haga 
+831-pero-s. m. BOTÁNICA Variedad de manzano de fruto alargado. 
+832-persona-s. f. Individuo de la especie humana Ejemplo: "como persona que es, a veces se equivoca."
+833-personaje-s. m. Persona importante o destacada 
+834-personajes-s. m. Persona importante o destacada 
+835-personal-adj. De la persona o propio de ella. 
+836-personalidad-s. f. Modo de ser o de comportarse una persona que se distingue de las demás y que constituyen su individualidad 
+837-perspectiva-s. f. ARTE Técnica de representar en un plano los objetos tal como aparecen a la vista dando sensación de profundidad. 
+838-periodo-s. m. Espacio de tiempo 
+839-pesar-s. m. Sentimiento de dolor que abate el ánimo 
+840-pesetas-s. f. ECONOMÍA Unidad monetaria de España y de Andorra, sustituida en 2002 por el euro. 
+841-peso-s. m. FÍSICA Fuerza que resulta de la acción de la gravedad sobre un cuerpo. 
+842-pesos-s. m. FÍSICA Fuerza que resulta de la acción de la gravedad sobre un cuerpo. 
+843-pie-s. m. ANATOMÍA Parte inferior articulada del extremo de la pierna del hombre que se apoya en el suelo y le permite caminar y mantenerse derecho Ejemplo: "el zapato le hace daño en el pie derecho."
+844-piedra-s. f. GEOLOGÍA Mineral duro y compacto, que no tiene aspecto terroso ni métalico. 
+845-piel-s. f. ANATOMÍA Capa de tejido resistente y flexible que recubre el cuerpo de los hombres y de los animales Ejemplo: "tiene la piel morena por el sol."
+846-piensa-v. tr. e intr. Representarse en la mente la imagen de una cosa Ejemplo: "para relajarte piensa un mar azul."
+847-piezas-s. f. Pedazo o parte de una cosa, en especial las diferentes partes que componen una máquina o un conjunto 
+848-pintura-s. f. PINTURA Arte de plasmar imágenes por medio del color y el dibujo según diferentes técnicas. 
+849-piso-s. m. Superficie natural o artificial de un terreno Ejemplo: "el piso estaba mojado por la lluvia."
+850-plan-s. m. Conjunto de actividades con el que se lleva o se pretende llevar a cabo alguna acción 
+851-planes-s. m. Conjunto de actividades con el que se lleva o se pretende llevar a cabo alguna acción 
+852-plano-s. m. Representación gráfica de la superficie de un terreno, de un edificio o de una máquina Ejemplo: "dibujar un plano; trazar un plano."
+853-planta-s. f. ANATOMÍA Parte inferior del pie, con que se pisa y sobre la que se sostiene el cuerpo. 
+854-plata-s. f. QUÍMICA Metal precioso, blanco, brillante, dúctil y maleable, usado en orfebrería y joyería. 
+855-plaza-s. f. Espacio amplio de una población en el que suelen confluir varias calles Ejemplo: "vive en una plaza en el centro de la ciudad ."
+856-plazo-s. m. Tiempo señalado para que en él se realice una cosa Ejemplo: "el plazo para matricularse es de una semana."
+857-pleno-adj. Que es total o completo Ejemplo: "tu triunfo le produjo plena satisfacción."
+858-pobre-adj./ s. m. y f. Que no tiene lo necesario para vivir 
+859-pobres-adj./ s. m. y f. Que no tiene lo necesario para vivir 
+860-pocas-adj. indef. Que es escaso en cantidad o número 
+861-poco-adj. indef. Que es escaso en cantidad o número 
+862-podemos-s. m. Facultad o capacidad para hacer una cosa Ejemplo: "tiene poder para tranquilizar a la gente."
+863-poder-s. m. Facultad o capacidad para hacer una cosa Ejemplo: "tiene poder para tranquilizar a la gente."
+864-podido-s. m. Facultad o capacidad para hacer una cosa Ejemplo: "tiene poder para tranquilizar a la gente."
+865-podra-v. tr. y prnl. Hacer una cosa que una sustancia orgánica se altere o se descomponga 
+866-poesia-s. f. LITERATURA, POESÍA Arte de expresar la belleza o los sentimientos por medio de la palabra, por lo general en verso, siguiendo procedimientos como el ritmo, la cadencia, la medida y figuras literarias. 
+867-poeta-s. m. y f. LITERATURA, POESÍA Persona que compone obras poéticas 
+868-policia-s. f. ADMINISTRACIÓN Fuerza pública encargada de velar por el orden público y la seguridad ciudadana y conjunto de los agentes que la integran Ejemplo: "la policía vigiló la manifestación."
+869-politica-s. f. POLÍTICA Actividad o arte de gobernar un estado u otra comunidad. 
+870-politico-adj. POLÍTICA De la política Ejemplo: "no me interesan las cuestiones políticas ."
+871-poner-v. tr. y prnl. Colocar en un lugar a una persona o una cosa 
+872-popular-adj. Del pueblo Ejemplo: "el antropólogo analiza las costumbres populares."
+873-por-prep. Indica causa, finalidad u objetivo, así como el agente en las oraciones pasivas 
+874-porque-conj. Indica causa, fundamento o motivo 
+875-portavoz-s. m. y f. Persona que por tener autoridad en una escuela, secta u otro grupo, lo representa y habla en nombre del mismo 
+876-posibilidad-s. f. Circunstancia de ser una cosa posible, que puede existir, ocurrir o que se puede realizar 
+877-posible-adj. Que puede suceder 
+878-precio-s. m. Cantidad de dinero en que se estima una cosa Ejemplo: "me parece un precio muy elevado."
+879-precios-s. m. Cantidad de dinero en que se estima una cosa Ejemplo: "me parece un precio muy elevado."
+880-precisamente-adv. Con exactitud o precisión Ejemplo: "llegó precisamente cuando cerrábamos."
+881-preciso-adj. Que se necesita para un fin 
+882-pregunta-s. f. Expresión con que se pide a otro que diga lo que sabe o piensa sobre una cosa Ejemplo: "no sé qué responder a tu pregunta."
+883-preguntas-v. tr. Pedir una persona a otra que le resuelva una duda o le diga lo que sabe sobre un asunto 
+884-premio-s. m. Recompensa, galardón o remuneración que se concede a una persona por algún mérito o servicio Ejemplo: "le han dado el premio Nobel de física ."
+885-prensa-s. f. TECNOLOGÍA Máquina de forma variable según su uso, capaz de ejercer una fuerte presión sobre lo que se coloca entre sus piezas para comprimirlo, exprimirlo o estampar o imprimir una cosa. 
+886-presencia-s. f. Asistencia o estado de la persona o cosa que se halla delante de otra u otras o en el mismo sitio que ellas 
+887-presenta-v. tr. y prnl. Poner una cosa en presencia de una o varias personas Ejemplo: "presentó su tesis ante el tribunal."
+888-presentan-v. tr. y prnl. Poner una cosa en presencia de una o varias personas Ejemplo: "presentó su tesis ante el tribunal."
+889-presentar-v. tr. y prnl. Poner una cosa en presencia de una o varias personas Ejemplo: "presentó su tesis ante el tribunal."
+890-presente-adj. Que está en el mismo sitio del que habla o del que se habla 
+891-presento-v. tr. y prnl. Poner una cosa en presencia de una o varias personas Ejemplo: "presentó su tesis ante el tribunal."
+892-presidencia-s. f. Dignidad, empleo o cargo de presidente o presidenta Ejemplo: "está en la presidencia desde hace dos años."
+893-presidente-adj./ s. Que preside Ejemplo: "consejero presidente."
+894-presupuesto-s. m. Cómputo anticipado del coste de una obra o de los gastos de una institución 
+895-pretende-v. tr. Desear hacer o conseguir una cosa Ejemplo: "pretende comprarse ese abrigo tan caro."
+896-primera-s. f. JUEGOS Juego de naipes en que las cartas tienen otros valores que no son los suyos, se reparten cuatro a cada jugador y se gana con el flux. 
+897-primeras-adj.num./ s. Que precede en orden a todos los demás 
+898-primero-adj.num./ s. Que precede en orden a todos los demás 
+899-primeros-adj.num./ s. Que precede en orden a todos los demás 
+900-principal-adj. Que ocupa el primer lugar en estimación o importancia y destaca sobre el resto 
+901-principales-adj. Que ocupa el primer lugar en estimación o importancia y destaca sobre el resto 
+902-principio-s. m. Primer instante del ser de una persona o cosa 
+903-principios-s. m. Primer instante del ser de una persona o cosa 
+904-privada-s. f. Retrete o excusado donde se efectúan las necesidades fisiológicas. 
+905-privado-adj. Que carece de alguna cosa Ejemplo: "a raíz del accidente, quedó privado de la vista."
+906-problema-s. m. Cuestión que se trata de aclarar o resolver Ejemplo: "hemos de encontrar una solución al problema."
+907-procedimiento-s. m. Acción de proceder 
+908-proceso-s. m. Desarrollo o curso que sigue una cosa en su realización 
+909-produce-v. tr. BIOLOGÍA Generar un ser vivo otro a partir de sí mismo. 
+910-producir-v. tr. BIOLOGÍA Generar un ser vivo otro a partir de sí mismo. 
+911-producto-s. m. Cosa o conjunto de cosas producidas 
+912-produjo-v. tr. BIOLOGÍA Generar un ser vivo otro a partir de sí mismo. 
+913-profesional-adj. OFICIOS Y PROFESIONES De la profesión 
+914-profesionales-adj. OFICIOS Y PROFESIONES De la profesión 
+915-profesor-s. ENSEÑANZA, OFICIOS Y PROFESIONES Persona que ejerce o enseña una ciencia o arte 
+916-programa-s. m. Exposición ordenada de las partes de que se compone una actividad 
+917-programas-v. tr. Exponer las partes que componen una actividad 
+918-pronto-adj. Que es rápido o veloz Ejemplo: "le deseo una pronta mejoría de sus dolencias."
+919-propia-adj. Que es propiedad de una persona 
+920-propias-adj. Que es propiedad de una persona 
+921-propiedad-s. f. Derecho de poseer una cosa y poder disponer de ella según la legalidad y la propia voluntad. posesión 
+922-propio-adj. Que es propiedad de una persona 
+923-propios-adj. Que es propiedad de una persona 
+924-propuesta-s. f. Idea que se propone a otros para que sea puesta en práctica si se considera acertada Ejemplo: "acepto tu propuesta de ir a cenar ."
+925-provincia-s. f. ADMINISTRACIÓN, POLÍTICA Cada una de las grandes divisiones de un territorio o estado, sujeta por lo común a una autoridad administrativa. departamento 
+926-proyecto-adj. GEOMETRÍA Que está representado en perspectiva. 
+927-proyectos-adj. GEOMETRÍA Que está representado en perspectiva. 
+928-prueba-s. f. Acción y resultado de probar 
+929-pruebas-s. f. Acción y resultado de probar 
+930-practicamente-adv. Casi, en realidad 
+931-proxima-adj. Que está cerca, respecto al punto espacial o temporal, desde donde se considera Ejemplo: "su casa está próxima a la mía ."
+932-publicidad-s. f. Circunstancia de ser una cosa pública, conocida por todos o casi todos, u ofrecida al conocimiento de la gente 
+933-pudiera-s. m. Facultad o capacidad para hacer una cosa Ejemplo: "tiene poder para tranquilizar a la gente."
+934-pueblo-s. m. ADMINISTRACIÓN Población pequeña 
+935-pueda-s. m. Facultad o capacidad para hacer una cosa Ejemplo: "tiene poder para tranquilizar a la gente."
+936-puedan-s. m. Facultad o capacidad para hacer una cosa Ejemplo: "tiene poder para tranquilizar a la gente."
+937-pueden-s. m. Facultad o capacidad para hacer una cosa Ejemplo: "tiene poder para tranquilizar a la gente."
+938-puerta-s. f. CONSTRUCCIÓN Abertura en una pared, valla o en otro lugar para pasar de un lado a otro de ella Ejemplo: "el camión no pasa por la puerta de la cerca."
+939-puerto-s. m. NÁUTICA Lugar en la costa protegido de los vientos y preparado para que los barcos amarren, carguen y descarguen sus mercancías 
+940-pues-conj. Indica causa, motivo o razón Ejemplo: "vendrá, pues yo se lo pedí ."
+941-puesto-adj. Que está vestido o arreglado de determinada manera Ejemplo: "entró una señora muy bien puesta."
+942-puestos-adj. Que está vestido o arreglado de determinada manera Ejemplo: "entró una señora muy bien puesta."
+943-punto-s. m. Señal o dibujo redondeado y pequeño, perceptible en una superficie Ejemplo: "la línea de puntos divide ambos párrafos."
+944-puntos-s. m. Señal o dibujo redondeado y pequeño, perceptible en una superficie Ejemplo: "la línea de puntos divide ambos párrafos."
+945-puso-v. tr. y prnl. Colocar en un lugar a una persona o una cosa 
+946-publica-adj. Que es conocido por todos 
+947-publicas-v. tr. Hacer una cosa pública Ejemplo: "mañana publicarán los resultados de la reunión."
+948-que-pron. relat. El cual, lo cual, los cuales, las cuales Ejemplo: "el perro que me regalaron se escapó."
+949-queda-s. f. Hora establecida de la tarde o de la noche para que los habitantes de una población se retiren a sus casas, como se hace en tiempos de guerra o de situaciones anormales 
+950-quedan-v. intr. y prnl. Permanecer en un lugar de modo forzoso o voluntario 
+951-quedo-adj. Silencioso, sin hacer ruido Ejemplo: "salió con pasos quedos."
+952-querido-s. Persona que mantiene relaciones amorosas con otra cuando una o ambas hacen vida de pareja con otra persona. amado, amante, querendón 
+953-quien-pron. relat. La persona que 
+954-quiere-s. m. Cariño, amor que se siente hacia una persona. 
+955-quieren-s. m. Cariño, amor que se siente hacia una persona. 
+956-quieres-s. m. Cariño, amor que se siente hacia una persona. 
+957-quiero-s. m. Cariño, amor que se siente hacia una persona. 
+958-quince-adj.num./ s.m. Se aplica al número que resulta de la suma de diez más cinco. 
+959-quiso-s. m. Cariño, amor que se siente hacia una persona. 
+960-quien-pron. relat. La persona que 
+961-que-pron. relat. El cual, lo cual, los cuales, las cuales Ejemplo: "el perro que me regalaron se escapó."
+962-radio-s. m. GEOMETRÍA Distancia o línea recta que une un punto de una circunferencia o de la superficie de una esfera con su centro. 
+963-real-adj. Del rey, de la reina o de la realeza Ejemplo: "la ciudad espera la visita de la familia real."
+964-realidad-s. f. Existencia real y objetiva de las cosas. 
+965-realiza-v. tr. y prnl. Hacer o llevar a cabo una cosa Ejemplo: "la excursión se realizó a pesar de la lluvia."
+966-realizacion-s. f. Acción y resultado de realizar una cosa. 
+967-realizar-v. tr. y prnl. Hacer o llevar a cabo una cosa Ejemplo: "la excursión se realizó a pesar de la lluvia."
+968-realizo-v. tr. y prnl. Hacer o llevar a cabo una cosa Ejemplo: "la excursión se realizó a pesar de la lluvia."
+969-recibido-adj. Amér. ENSEÑANZA Que ha terminado un ciclo de estudios. 
+970-recibir-v. tr. Llegar a una persona una cosa que le dan o envían 
+971-reciente-adj. Que ha sucedido hace poco tiempo 
+972-reconocimiento-s. m. Acción y resultado de reconocer 
+973-recordar-v. tr. e intr. Tener en la memoria o retener una cosa en la mente 
+974-recuerda-v. tr. e intr. Tener en la memoria o retener una cosa en la mente 
+975-recuerdo-s. m. Acción y resultado de recordar. 
+976-recursos-escasez riquezas o bienes 
+977-red-s. f. CAZA, PESCA Especie de tejido hecho con hilo, cuerda o alambres entrelazados, usado para pescar, cazar, envolver u otras cosas 
+978-referencia-s. f. Acción y resultado de referir o referirse Ejemplo: "hizo una referencia a lo que había sucedido."
+979-refiere-v. tr. Dar a conocer de palabra o por escrito un hecho 
+980-reforma-s. f. Acción y resultado de reformar o reformarse. 
+981-regiones-s. f. GEOGRAFÍA Territorio determinado por unas mismas condiciones físicas o humanas Ejemplo: "es una región rica en yacimientos de oro."
+982-reina-s. f. HISTORIA, POLÍTICA, SOCIOLOGÍA Mujer que ejerce la potestad real por derecho propio 
+983-reino-s. m. HISTORIA, POLÍTICA, SOCIOLOGÍA Territorio o estado bajo la autoridad de un rey o de una reina. 
+984-representa-v. tr. y prnl. Hacer ver o conocer una cosa a una persona con palabras o gestos Ejemplo: "se levantó y me representó la situación."
+985-representacion-s. f. Acción y resultado de representar o representarse. 
+986-representantes-adj. Que representa. 
+987-republica-s. f. HISTORIA, POLÍTICA, SOCIOLOGÍA Forma de gobierno en la que los poderes del jefe del estado o presidente provienen de la voluntad popular expresada a través de su elección 
+988-requiere-v. tr. DERECHO Pedir una cosa la autoridad 
+989-resistencia-s. f. Acción y resultado de resistir o resistirse. aguante 
+990-resolver-v. tr. Encontrar la solución a una duda o un problema Ejemplo: "no consigo resolver esta ecuación."
+991-respecto-s. m. Relación o proporción de una cosa en relación a otra. 
+992-respeto-s. m. Actitud considerada hacia las personas o las cosas 
+993-responsabilidad-s. f. Circunstancia de ser una persona responsable de otra o de alguna cosa 
+994-responsable-adj./ s. m. y f. Que tiene a su cargo a una persona o una cosa 
+995-responsables-adj./ s. m. y f. Que tiene a su cargo a una persona o una cosa 
+996-respuesta-s. f. Acción y resultado de responder Ejemplo: "todos esperaban su respuesta."
+997-resto-s. m. Parte que queda de un todo Ejemplo: "tú limpias la cocina y yo el resto de la casa."
+998-resulta-s. f. Resultado de una acción o un suceso. consecuencia 
+999-resultado-s. m. Efecto y consecuencia de una cosa 
+1000-revista-s. f. PERIODISMO Publicación periódica con artículos que tratan o informan de una o varias materias 
+1001-revolucion-s. f. Acción y resultado de revolver o revolverse. 
+1002-rey-s. m. Monarca o príncipe soberano de un reino o estado 
+1003-reyes-s. m. Monarca o príncipe soberano de un reino o estado 
+1004-rico-adj./ s. Que tiene dinero o riquezas 
+1005-riesgo-s. m. Posibilidad de un daño, perjuicio o inconveniente 
+1006-ritmo-s. m. MÚSICA Manera más o menos armoniosa de combinarse los tiempos entre un movimiento y otro, en música. compás 
+1007-rojo-adj. Del color de la sangre o del tomate maduro. 
+1008-ropa-s. f. INDUMENTARIA Y MODA Prenda de vestir o conjunto de ellas 
+1009-rosa-s. f. BOTÁNICA Flor del rosal con muchos pétalos y aromática Ejemplo: "le regaló un ramo de rosas rojas."
+1010-rostro-s. m. Parte anterior de la cabeza de una persona Ejemplo: "en su rostro se reflejaba el cansancio que tenía."
+1011-rio-s. m. GEOGRAFÍA Corriente continua de agua que va a desembocar a otra, a un lago o al mar 
+1012-sabe-s. m. Conocimiento profundo de una o más materias Ejemplo: "tiene un amplio saber histórico."
+1013-sabemos-s. m. Conocimiento profundo de una o más materias Ejemplo: "tiene un amplio saber histórico."
+1014-saben-s. m. Conocimiento profundo de una o más materias Ejemplo: "tiene un amplio saber histórico."
+1015-saber-s. m. Conocimiento profundo de una o más materias Ejemplo: "tiene un amplio saber histórico."
+1016-sabes-s. m. Conocimiento profundo de una o más materias Ejemplo: "tiene un amplio saber histórico."
+1017-sabia-adj./ s. Se aplica a la persona que tiene conocimientos extensos y profundos 
+1018-sacar-v. tr. Poner una cosa fuera del lugar donde estaba metida u oculta 
+1019-sal-s. f. COCINA Sustancia blanca, cristalina y de sabor característico, compuesta de cloro y sodio, usada como condimento Ejemplo: "la sopa está sosa, échale más sal."
+1020-sala-s. f. Habitación principal de una vivienda, donde se reciben las visitas Ejemplo: "la sala estaba llena de amigos."
+1021-salida-s. f. Acción y resultado de salir o salirse. 
+1022-salir-v. intr. y prnl. Pasar de dentro a fuera Ejemplo: "salgo a tomar el aire; sal de la habitación."
+1023-salio-adj. HISTORIA De un antiguo pueblo franco que habitaba en las tierras germánicas inferiores, antes de la unificación. 
+1024-salud-s. f. Estado en que se encuentra el organismo de un ser vivo en relación al cumplimiento de sus funciones vitales 
+1025-salvador-adj./ s. Que salva 
+1026-salvo-adj. Que ha salido ileso de un peligro 
+1027-salon-s. m. Sala grande para celebrar fiestas, reuniones públicas o actos institucionales 
+1028-san-adj. RELIGIÓN Se aplica a la persona que ha sido canonizada por la iglesia, antepuesto a nombres propios de varón a excepción de Tomás, Tomé, Domingo y Toribio. 
+1029-sangre-s. f. FISIOLOGÍA Líquido de color rojo que circula por las venas, arterias, capilares y corazón de los animales vertebrados y que transporta oxígeno y elementos nutritivos a los tejidos y los residuos de las células del organismo. 
+1030-santo-adj. Que es perfecto y libre de toda culpa Ejemplo: "Dios es santo."
+1031-se-pron. pers. A o para él mismo 
+1032-sean-s. m. Cualquier cosa, animada o inanimada, material o inmaterial Ejemplo: "ser vivo; seres fantásticos."
+1033-secretario-s. OFICIOS Y PROFESIONES Persona que se ocupa de realizar tareas administrativas en una empresa, organismo o para una sola persona Ejemplo: "mi secretaria te dará hora para visitarme."
+1034-secreto-adj. Que se oculta para que sólo lo conozcan o sepan pocas personas 
+1035-sector-s. m. ADMINISTRACIÓN Parte de una ciudad, local grande u otro lugar 
+1036-sectores-s. m. ADMINISTRACIÓN Parte de una ciudad, local grande u otro lugar 
+1037-sede-s. f. ADMINISTRACIÓN Domicilio principal de un organismo público o privado 
+1038-seguir-v. tr. e intr. Ir una persona o una cosa después o detrás de otra Ejemplo: "el coche seguía a la ambulancia."
+1039-segunda-s. f. Vuelta doble que se da en las cerraduras. 
+1040-segundo-adj.num./ s. Que ocupa el lugar número dos en una serie Ejemplo: "ocupa el segundo lugar de la clasificación."
+1041-seguridad-s. f. Cualidad de seguro. 
+1042-seguro-adj. Que no corre ningún peligro o riesgo Ejemplo: "el dinero está seguro; me siento seguro."
+1043-seis-adj.num./ s.m. Que resulta de la suma de cinco y uno. 
+1044-semana-s. f. Serie de siete días naturales consecutivos, empezando por el domingo y acabando por el sábado Ejemplo: "me pasaré toda la semana fuera ."
+1045-semanas-s. f. Serie de siete días naturales consecutivos, empezando por el domingo y acabando por el sábado Ejemplo: "me pasaré toda la semana fuera ."
+1046-sentido-adj. Que incluye o demuestra un sentimiento sincero Ejemplo: "mi más sentido pésame."
+1047-sentir-s. m. Opinión o parecer de alguien. 
+1048-ser-s. m. Cualquier cosa, animada o inanimada, material o inmaterial Ejemplo: "ser vivo; seres fantásticos."
+1049-seres-s. m. Cualquier cosa, animada o inanimada, material o inmaterial Ejemplo: "ser vivo; seres fantásticos."
+1050-serie-s. f. Conjunto de cosas relacionadas entre sí y que se suceden unas a otras Ejemplo: "los números forman una serie infinita."
+1051-serio-adj. Se refiere a la persona que es poco propensa a reírse y a manifestar alegría. alegre  
+1052-servicio-s. m. Acción y resultado de servir Ejemplo: "está a su servicio desde hace diez años."
+1053-seria-adj. Se refiere a la persona que es poco propensa a reírse y a manifestar alegría. alegre  
+1054-sexo-s. m. BIOLOGÍA Condición orgánica que distingue al macho de la hembra dentro de una misma especie. 
+1055-sexual-adj. BIOLOGÍA Del sexo Ejemplo: "deseo sexual."
+1056-si-conj. cond. Indica condición o suposición 
+1057-sido-s. m. Cualquier cosa, animada o inanimada, material o inmaterial Ejemplo: "ser vivo; seres fantásticos."
+1058-siempre-adv. En todo tiempo 
+1059-siendo-s. m. Cualquier cosa, animada o inanimada, material o inmaterial Ejemplo: "ser vivo; seres fantásticos."
+1060-siente-s. m. Opinión o parecer de alguien. 
+1061-siete-adj.num./ s.m. Que resulta de la suma de seis y uno. 
+1062-siglo-s. m. Período de cien años 
+1063-significa-v. tr. Ser una cosa signo o referencia de otra 
+1064-sigue-v. tr. e intr. Ir una persona o una cosa después o detrás de otra Ejemplo: "el coche seguía a la ambulancia."
+1065-siguen-v. tr. e intr. Ir una persona o una cosa después o detrás de otra Ejemplo: "el coche seguía a la ambulancia."
+1066-siguiente-adj./ s. m. y f. Que sigue en orden, espacio o tiempo Ejemplo: "el día siguiente; puede pasar el siguiente."
+1067-siguientes-adj./ s. m. y f. Que sigue en orden, espacio o tiempo Ejemplo: "el día siguiente; puede pasar el siguiente."
+1068-silencio-s. m. Abstención de hablar Ejemplo: "el profesor nos pidió silencio."
+1069-simple-adj. Que es sencillo o poco complicado Ejemplo: "es una máquina moderna pero muy simple."
+1070-simplemente-adv. Con simpleza o sencillez Ejemplo: "suele vestir simplemente."
+1071-sin-prep. Indica privación o carencia Ejemplo: "estoy sin un duro."
+1072-siquiera-conj. conces. Aunque Ejemplo: "mírame, siquiera sea para despedirte de mí."
+1073-sirve-v. intr. y tr. Trabajar una persona para otra que le manda o paga 
+1074-sistema-s. m. Conjunto ordenado de normas o procedimientos que contribuyen a un fin o con que funciona o se hace funcionar una cosa Ejemplo: "sistema político; sistema educativo."
+1075-sistemas-s. m. Conjunto ordenado de normas o procedimientos que contribuyen a un fin o con que funciona o se hace funcionar una cosa Ejemplo: "sistema político; sistema educativo."
+1076-sitio-s. m. Espacio que es ocupado o puede serlo por una persona, un animal o una cosa 
+1077-situaciones-s. f. Acción y resultado de situar o situarse. 
+1078-sobre-prep. Encima de Ejemplo: "ponlo sobre la mesa."
+1079-social-adj. SOCIOLOGÍA De la sociedad humana y de las relaciones entre sus miembros Ejemplo: "se produjo una revolución social."
+1080-sociales-adj. SOCIOLOGÍA De la sociedad humana y de las relaciones entre sus miembros Ejemplo: "se produjo una revolución social."
+1081-socialista-adj./ s. m. y f. POLÍTICA Que es partidario del socialismo. 
+1082-socialistas-adj./ s. m. y f. POLÍTICA Que es partidario del socialismo. 
+1083-sociedad-s. f. SOCIOLOGÍA El conjunto de seres humanos como individuos que conviven y se relacionan unos con otros. humanidad 
+1084-sol-s. m. ASTRONOMÍA Estrella que ilumina y da calor al planeta Tierra, situada en el centro del sistema planetario en el que ésta se encuentra. 
+1085-sola-adj. Que es único en su especie. 
+1086-solamente-adv. Sólo, con exclusión de otras situaciones, personas o cosas Ejemplo: "solamente una vez se entrega el alma."
+1087-soldados-v. tr. y prnl. Unir dos cosas o partes de una cosa de forma sólida con alguna sustancia igual o parecida a ellas Ejemplo: "hay que soldar la barandilla ."
+1088-solo-adj. Que es único en su especie. 
+1089-sombra-s. f. Falta de claridad debida a la intercepción de los rayos de luz por un cuerpo opaco 
+1090-son-s. m. Sonido agradable al oído, en especial el que se hace con arte. 
+1091-sonido-s. m. Sensación producida en el oído por el movimiento vibratorio de los cuerpos en el aire. ruido 
+1092-sorpresa-s. f. Efecto producido por algo inesperado en el ánimo de una persona Ejemplo: "¡qué sorpresa!, no te esperábamos."
+1093-suelo-s. m. GEOLOGÍA Parte superficial de la corteza terrestre sometida a la acción de la erosión y de los seres vivos Ejemplo: "el suelo de esta zona es rico en minerales."
+1094-suerte-s. m. Casualidad, relación desconocida que se supone que hay entre los sucesos y las circunstancias, no intencionada ni previsible 
+1095-suficiente-adj. Que basta para un fin determinado 
+1096-sujeto-adj. Que ha sido bien sujetado o atado 
+1097-suma-s. f. Acción y resultado de sumar 
+1098-superficie-s. f. Límite exterior de un cuerpo, que delimita el espacio que ocupa y lo separa y distingue del espacio circundante Ejemplo: "toda la superficie de su propiedad está cercada."
+1099-superior-adj. Que está situado en la parte más alta de una cosa 
+1100-supone-v. tr. Acción y resultado de considerar cierta o posible una cosa Ejemplo: "es un suponer, pero no lo sé seguro."
+1101-supuesto-adj. Que es admitido por hipótesis o se supone Ejemplo: "el supuesto cómplice declarará ante el tribunal."
+1102-sur-s. m. Punto cardinal del horizonte, diametralmente opuesto al norte Ejemplo: "el barco navega hacia el sur."
+1103-suyo-adj./ pron. pos. De él, de ella, de ellos, de ellas, de ello 
+1104-sabado-s. m. Día de la semana entre el viernes y el domingo. 
+1105-se-pron. pers. A o para él mismo 
+1106-si-conj. cond. Indica condición o suposición 
+1107-solo-adj. Que es único en su especie. 
+1108-tal-adj./ pron. dem. Igual, semejante 
+1109-tales-adj./ pron. dem. Igual, semejante 
+1110-tantas-adj./ pron. indef. Indica cantidad o número indeterminado Ejemplo: "debe tener treinta y tantos años."
+1111-tanto-adj./ pron. indef. Indica cantidad o número indeterminado Ejemplo: "debe tener treinta y tantos años."
+1112-tantos-adj./ pron. indef. Indica cantidad o número indeterminado Ejemplo: "debe tener treinta y tantos años."
+1113-tarde-s. f. Parte del día comprendida entre el mediodía y el anochecer Ejemplo: "les gusta salir a pasear por la tarde."
+1114-tarea-s. f. Cualquier trabajo o actividad Ejemplo: "las tareas de la casa las hacen entre los dos."
+1115-te-s. f. LINGÜÍSTICA Nombre de la letra t. 
+1116-teatro-s. m. ARQUITECTURA, TEATRO Edificio o lugar destinado a la representación de obras dramáticas y otro tipo de espectáculos Ejemplo: "la platea del teatro estaba casi llena ."
+1117-tema-s. m. Asunto o materia que se trata en una conversación, discurso o escrito 
+1118-temas-v. tr. e intr. Tener miedo o temor de una persona o una cosa Ejemplo: "temo su violenta reacción."
+1119-temperatura-s. f. FÍSICA Magnitud física que mide de forma objetiva la sensación subjetiva de frío o calor que produce el contacto con un cuerpo. 
+1120-temporada-s. f. Conjunto de días, meses o años que se considera unidad de tiempo Ejemplo: "creo que vivo la mejor temporada de mi vida."
+1121-tendencia-s. f. Inclinación de las personas o las cosas hacia una cosa o un fin Ejemplo: "siempre ha tenido tendencia a estar sola."
+1122-tenemos-v. tr. Ser propietario de una cosa Ejemplo: "tiene una casa en el campo; tenemos tres perros."
+1123-tener-v. tr. Ser propietario de una cosa Ejemplo: "tiene una casa en el campo; tenemos tres perros."
+1124-tengo-v. tr. Ser propietario de una cosa Ejemplo: "tiene una casa en el campo; tenemos tres perros."
+1125-tenido-v. tr. Ser propietario de una cosa Ejemplo: "tiene una casa en el campo; tenemos tres perros."
+1126-tercera-s. f. MÚSICA Cuerda de algunos instrumentos musicales que ocupa el tercer lugar a partir de la primera. 
+1127-terminar-v. tr. Poner fin o término a una cosa Ejemplo: "siempre termino yo las peleas."
+1128-terreno-adj. De la tierra Ejemplo: "estudia las distintas capas terrenas."
+1129-territorio-s. m. Extensión de tierra sometida a una misma jurisdicción o que tiene unos límites geográficos 
+1130-texto-s. m. Conjunto de palabras que componen un escrito Ejemplo: "el texto ocupa tres páginas."
+1131-tiempo-s. m. Sucesión de instantes en los que se desarrollan los cambios de las cosas Ejemplo: "he perdido la noción del tiempo."
+1132-tiene-v. tr. Ser propietario de una cosa Ejemplo: "tiene una casa en el campo; tenemos tres perros."
+1133-tienen-v. tr. Ser propietario de una cosa Ejemplo: "tiene una casa en el campo; tenemos tres perros."
+1134-tierra-s. f. ASTRONOMÍA Planeta del sistema solar habitado por las personas y los seres vivos. 
+1135-tipo-s. Cualquier persona sin especificar 
+1136-tipos-s. Cualquier persona sin especificar 
+1137-titular-adj./ s. m. y f. Que tiene el título correspondiente al cargo que desempeña Ejemplo: "médico titular."
+1138-todas-adj./ pron. indef. Que se toma entero, sin excluir nada 
+1139-todo-adj./ pron. indef. Que se toma entero, sin excluir nada 
+1140-toma-s. f. Acción de tomar o recibir una cosa. 
+1141-tomar-v. tr. Coger una persona con cuidado a otra o a una cosa ayudada de las manos, una parte del cuerpo o un instrumento 
+1142-tomo-s. m. Cada una de las partes con paginación y encuadernación independiente en que se divide una publicación muy extensa Ejemplo: "la enciclopedia tiene veinte tomos."
+1143-tono-s. m. Intensidad o grado de mayor o menor elevación de un sonido o de la voz humana. 
+1144-torno-s. m. MECÁNICA Máquina provista de un cilindro que, al girar, va enrollando una cuerda a cuyo extremo se encuentra la carga o resistencia. 
+1145-total-adj. Que abarca una cosa en todos sus aspectos o elementos 
+1146-trabajadores-adj. OFICIOS Y PROFESIONES Que trabaja. trabajante 
+1147-trabajar-v. intr. Realizar un esfuerzo físico o mental en una actividad 
+1148-trabajo-s. m. Acción y resultado de trabajar. 
+1149-trabajos-s. m. Acción y resultado de trabajar. 
+1150-tradicional-adj. De la tradición. 
+1151-transporte-s. m. Acción y resultado de transportar Ejemplo: "realiza el transporte de ganado."
+1152-tras-prep. Indica posterioridad en el tiempo o en el espacio 
+1153-trata-s. f. COMERCIO Tráfico o comercio con seres humanos Ejemplo: "la trata de esclavos."
+1154-trataba-v. tr., intr. y prnl. Tener una persona relación con otra 
+1155-tratado-s. m. POLÍTICA Acuerdo o convenio, en especial entre gobiernos Ejemplo: "están negociando un nuevo tratado de paz."
+1156-tratamiento-s. m. Manera de relacionarse o comportarse con otras personas Ejemplo: "en su casa nos dieron un tratamiento magnífico."
+1157-tratar-v. tr., intr. y prnl. Tener una persona relación con otra 
+1158-traves-s. m. Inclinación de una cosa con respecto a otra. torcimiento 
+1159-treinta-adj.num./ s.m. Que resulta de la multiplicación de tres por diez. 
+1160-tres-adj.num./ s.m. Que resulta de la suma de dos y uno Ejemplo: "tres más uno son cuatro."
+1161-tribunal-s. m. DERECHO Órgano del estado formado por uno o más magistrados que juzgan conjuntamente Ejemplo: "llevaron el caso a los tribunales."
+1162-triunfo-s. m. Acción y resultado de quedar una persona o un grupo de ellas victoriosas Ejemplo: "el equipo celebró el triunfo de la competición ."
+1163-trafico-s. m. COMERCIO Acción de traficar o comerciar Ejemplo: "se dedica al tráfico de armas."
+1164-tus-s. m. Voz que, repetida, se usa para llamar a los perros. 
+1165-tuvieron-v. tr. Ser propietario de una cosa Ejemplo: "tiene una casa en el campo; tenemos tres perros."
+1166-tuvo-v. tr. Ser propietario de una cosa Ejemplo: "tiene una casa en el campo; tenemos tres perros."
+1167-terminos- punto de vista desde el que se plantea un asunto 
+1168-unidad-s. f. Propiedad de lo que no puede dividirse 
+1169-unidades-s. f. Propiedad de lo que no puede dividirse 
+1170-unidos-v. tr. Juntar dos o más cosas para formar un todo Ejemplo: "tardó meses en unir todas las piezas del puzle."
+1171-universal-adj. ASTRONOMÍA Del universo o espacio celeste Ejemplo: "ley de gravitación universal."
+1172-universidad-s. f. ENSEÑANZA Institución dedicada a la enseñanza superior y a la investigación Ejemplo: "hace años que es profesora de universidad."
+1173-uno-adj. Que no está dividido en sí mismo. 
+1174-uso-s. m. Acción y resultado de usar. 
+1175-valencia-s. f. QUÍMICA Valor de combinación o reacción de un elemento, representado por el número de átomos de hidrógeno que cada átomo de dicho elemento puede retener. 
+1176-valor-s. m. Característica o conjunto de características que hacen apreciable a una persona o cosa Ejemplo: "las ilustraciones son el mejor valor del libro ."
+1177-vasco-adj./ s. Del País Vasco o de su lengua. 
+1178-vecinos-adj./ s. Que vive en la misma calle o en el mismo edificio que otra u otras personas Ejemplo: "se lleva muy bien con los vecinos del primero."
+1179-veinte-adj.num./ s.m. Que resulta de la multiplicación de dos y diez. 
+1180-velocidad-s. f. Ligereza o prontitud con que se realiza una acción Ejemplo: "salió de casa a toda velocidad."
+1181-venido-v. intr. Moverse una persona o una cosa hacia el lugar donde está la que habla Ejemplo: "puedes venir a casa si quieres."
+1182-venta-s. f. Acción y resultado de vender. 
+1183-ventana-s. f. CONSTRUCCIÓN Abertura que se deja en la pared de un edificio para dar luz y ventilación. 
+1184-venia-s. f. Permiso o licencia dada por una autoridad Ejemplo: "con la venia del tribunal."
+1185-ver-v. tr. e intr. Percibir una persona o un animal una cosa por la vista Ejemplo: "lo vio todo; creía que no podría volver a ver."
+1186-verano-s. m. Época más calurosa del año que, en el hemisferio septentrional, corresponde a los meses de junio, julio y agosto, y en el austral a diciembre, enero y febrero. estío 
+1187-verdad-s. f. Correspondencia o adecuación de la realidad con lo que se dice, piensa o siente de ella Ejemplo: "lo que dices no es verdad, yo lo vi y no fue así."
+1188-verdadera-adj. Que es conforme a la verdad Ejemplo: "la respuesta verdadera es ésta y no otra."
+1189-verdadero-adj. Que es conforme a la verdad Ejemplo: "la respuesta verdadera es ésta y no otra."
+1190-verde-adj. Del color de la hierba fresca o de la esmeralda. 
+1191-vez-s. f. Cada realización de un suceso o de una acción en momentos y circunstancias diferentes Ejemplo: "la primera vez que hablé en público fue terrible."
+1192-vi-v. tr. e intr. Percibir una persona o un animal una cosa por la vista Ejemplo: "lo vio todo; creía que no podría volver a ver."
+1193-viaje-s. m. Acción y resultado de viajar. 
+1194-victoria-s. f. Superioridad o ventaja que obtienen una o varias personas sobre otra u otras a las que se oponen en una lucha o en una competición Ejemplo: "el equipo celebró la victoria."
+1195-vida-s. f. Facultad y actividad de vivir que caracteriza a los seres orgánicos Ejemplo: "vida animal; vida vegetal."
+1196-vieja-s. f. ZOOLOGÍA Pez gregario escárido de carne muy apreciada, que vive en bancos y frecuenta escollos y arrecifes. 
+1197-viejo-adj./ s. Se refiere a la persona que tiene mucha edad Ejemplo: "su padre ya es viejo."
+1198-viento-s. m. Corriente de aire producida por causas naturales en la atmósfera Ejemplo: "se levantó un fuerte viento."
+1199-viernes-s. m. Día de la semana, entre el jueves y el sábado. 
+1200-vino-s. m. ENOLOGÍA Bebida alcohólica hecha con zumo de uva fermentado. caldo 
+1201-vio-v. tr. e intr. Percibir una persona o un animal una cosa por la vista Ejemplo: "lo vio todo; creía que no podría volver a ver."
+1202-violencia-s. f. Cualidad de violento Ejemplo: "la violencia del golpe le sorprendió ."
+1203-visita-s. f. Acción y resultado de visitar Ejemplo: "fuimos de visita a casa de unos familiares."
+1204-vista-s. f. Sentido corporal localizado en los ojos que permite percibir los objetos mediante la acción de la luz Ejemplo: "perdió la vista en un accidente ."
+1205-visto-adj. Que es conocido o sabido por todos Ejemplo: "ese chiste ya está muy visto."
+1206-vive-s. m. Conjunto de los medios o recursos necesarios para la vida Ejemplo: "tengo un modesto vivir."
+1207-vivir-s. m. Conjunto de los medios o recursos necesarios para la vida Ejemplo: "tengo un modesto vivir."
+1208-vivo-adj./ s. Que tiene vida Ejemplo: "las plantas son seres vivos."
+1209-volumen-s. m. Espacio físico que ocupa un cuerpo 
+1210-voluntad-s. f. SICOLOGÍA Facultad humana para elegir o rechazar las cosas, tomar decisiones o actuar de determinada manera Ejemplo: "decidió marcharse por propia voluntad ."
+1211-volver-v. intr. y prnl. Andar una persona en sentido inverso por un camino que se acaba de recorrer 
+1212-votos-s. m. Manifestación de la voluntad o el parecer de cada uno acerca de determinado punto o tema que se somete a consulta o elección 
+1213-voz-s. f. Sonido producido al vibrar las cuerdas vocales cuando se expulsa al aire de los pulmones y produce resonancia en determinada cavidad, en el hombre y en algunos animales. 
+1214-vuelta-s. f. Acción y resultado de regresar o volver al lugar de donde se ha salido Ejemplo: "la vuelta a su país natal fue muy emotiva."
+1215-vuelto-adj. ARTES GRÁFICAS Se aplica al lado de una hoja que no está escrito ni numerado. 
+1216-vuelve-v. intr. y prnl. Andar una persona en sentido inverso por un camino que se acaba de recorrer 
+1217-ya-adv. Antes, en el pasado Ejemplo: "ya he visto esta película."
+1218-yo-pron. pers. Indica la persona que habla cuando ésta se refiere a sí misma Ejemplo: "vamos tú y yo; yo lo vi todo."
+1219-zona-s. f. Parte o extensión de un terreno o superficie, limitada de forma más o menos precisa Ejemplo: "viajo a la zona sur del país."
+1220-zonas-s. f. Parte o extensión de un terreno o superficie, limitada de forma más o menos precisa Ejemplo: "viajo a la zona sur del país."
+1221-ambito-s. m. Contorno o perímetro de un recinto. 
+1222-area-s. f. Momento concreto en el tiempo que se calcula a partir de un hecho o fecha determinada. época 
+1223-este-s. m. Punto cardinal por donde sale el Sol Ejemplo: "la cordillera se divisaba al este."
+1224-ultima-adj. Que no tiene otro después en una serie 
+1225-ultimas-v. tr. Concluir una cosa, darla por finalizada 
+1226-unica-adj. Solo y sin otro de su especie 

@@ -1,0 +1,237 @@
+#include <SDL.h>
+#include <SDL_ttf.h>
+#include <stdio.h>
+#include "structdatos.h"
+#include "rend.h"
+#include "logica.h"
+#include "snake.h" // el juego de snake
+
+
+#if 1
+int processMenu(SDL_Window *window, int * eleccion,SDL_Renderer *rendermenu, TTF_Font* font, SDL_Surface *surface, SDL_Texture *texture)//(SDL_Renderer *rendermenu, TTF_Font* font, SDL_Surface *surface, SDL_Texture *texture/*, SDL_Texture *texture*/)
+{
+	SDL_Event event;
+	int done = 0, x,y;
+	//renderizado
+	 //coloca el color base en gris
+    SDL_SetRenderDrawColor(rendermenu, 127, 127, 127, 255);
+
+    // limpia en color gris
+    SDL_RenderClear(rendermenu);
+
+		const int NUMMENU = 5;
+        const char* labels[] = {"Sopa de letras","Snake", "Crucigrama", "Creditos", "Exit"};
+        SDL_Surface* menus[NUMMENU];
+        int selected[5] = {0};
+        SDL_Color color[2] = {{255,255,255,255},{255,0,0,255}};
+
+
+        for (int i = 0; i < 5; ++i)
+		{
+			menus[i] = TTF_RenderText_Solid(font,labels[i],color[0]);
+		}
+
+        SDL_Rect pos[NUMMENU];
+        SDL_Rect cuadroTex;
+#if 0
+        for (int i = 0; i < 5; ++i)
+		{
+			pos[i].x = 480 /*- menus[0]->clip_rect.w/2*/;
+			pos[i].y = 100 + i*100/*menus[0]->clip_rect.h*/;
+		}
+#endif
+		//surface=menus[0];
+		SDL_SetRenderDrawColor(rendermenu, 174, 0, 1, 255);
+		for (int i = 0; i < 5; ++i)
+		{
+			menus[i] = TTF_RenderText_Solid(font,labels[i],color[0]); // crea la superficie del texto para renderizar
+			texture = SDL_CreateTextureFromSurface(rendermenu, menus[i]);// transforma la superficie a una textura
+			int texW = 0;
+			int texH = 0;
+			pos[i].x = 480 - menus[i]->clip_rect.w/2; // posiciona los cuadrados de las texturas
+			pos[i].y = 70 + 100 * i;
+			SDL_QueryTexture(texture, NULL, NULL, &texW, &texH);// lee los anchos y largos de las texturas
+			pos[i].h = texH;
+			pos[i].w = texW;
+			cuadroTex = pos[0];
+			cuadroTex.y = pos[i].y = 70 + 100 * i;
+			SDL_RenderFillRect(rendermenu, &cuadroTex);
+			SDL_RenderCopy(rendermenu, texture, NULL, &pos[i]);
+		}
+
+/*
+	SDL_SetRenderDrawColor(rendermenu, 127, 127, 127, 255);
+	//SDL_Rect rect2 = { 16, 16, 608, 608 };
+
+
+	SDL_Color color1 = { 174, 0, 1,255};
+	surface = TTF_RenderText_Solid(font,"menuxz", color1);
+	texture = SDL_CreateTextureFromSurface(rendermenu, surface);
+	//int texW = 0;
+	//int texH = 0;
+	SDL_QueryTexture(texture, NULL, NULL, &texW, &texH);
+
+
+	SDL_Rect dstrect = { 470-(texW)/2, 200, texW, texH };
+
+	SDL_RenderFillRect(rendermenu, &dstrect);
+
+	SDL_RenderCopy(rendermenu, texture, NULL, &dstrect);
+
+	SDL_RenderPresent(rendermenu);
+*/
+
+	while(SDL_PollEvent(&event))
+	{
+		switch(event.type)
+		{
+			case SDL_WINDOWEVENT_CLOSE:
+			{
+				if(window)
+					{
+					SDL_DestroyWindow(window);
+					window = NULL;
+					done = 1;
+					}
+			}
+			break;
+			case SDL_KEYDOWN:
+			{
+				switch(event.key.keysym.sym)
+				{
+					case SDLK_ESCAPE:
+					done = 1;
+					break;
+				}
+			}
+			break;
+			case SDL_QUIT:
+			//quit out of the game
+			done = 1;
+			break;/*
+			case SDL_MOUSEMOTION:
+				{
+					x = event.motion.x;
+					y = event.motion.y;
+					for(int i = 0; i < NUMMENU; i += 1)
+					{
+						if(x>=pos[i].x && x<=pos[i].x+pos[i].w && y>=pos[i].y && y<=pos[i].y+pos[i].h)
+						{
+							if(!selected[i])
+							{
+								selected[i] = 1;
+								SDL_FreeSurface(menus[i]);
+								menus[i] = TTF_RenderText_Solid(font,labels[i],color[1]);
+							}
+						}
+						else
+						{
+							if(selected[i])
+							{
+								selected[i] = 0;
+								SDL_FreeSurface(menus[i]);
+								menus[i] = TTF_RenderText_Solid(font,labels[i],color[0]);
+							}
+						}
+					}
+					break;
+				}
+
+
+			/*
+			case SDL_MOUSEBUTTONDOWN:
+			{
+				x = event.button.x;
+				y = event.button.y;
+				for(int i = 0; i < NUMMENU; i += 1)
+				{
+					if(x>=pos[i].x && x<=pos[i].x+pos[i].w && y>=pos[i].y && y<=pos[i].y+pos[i].h)
+					{
+					SDL_FreeSurface(menus[0]);
+					SDL_FreeSurface(menus[1]);
+					}
+				}
+			}*/
+		}
+	}
+	/*
+	case SDL_MOUSEBUTTONDOWN:
+
+	x1=event.button.x;
+	y1=event.button.y;
+	if (x1>man->x && x1<man->x+200 && y1>man->y && y1<man->y+200)
+	{
+	man->x=man->y=0;
+
+	}
+	break;
+	*/
+
+
+	//const Uint8 *state = SDL_GetKeyboardState(NULL);
+	//done=logico(snk, state, tempo, cola) || done;//si logico verifica si supero los limites
+	SDL_RenderPresent(rendermenu);
+	return done;
+}
+#endif
+int main(int argc, char *argv[])
+{
+	#if 1
+    SDL_Window *menus;
+    SDL_Renderer *rendermenu;
+    SDL_Init(SDL_INIT_VIDEO);
+    TTF_Init();
+
+	Uint32 delay, start;
+
+	delay = 60;
+
+	int menu = 320;
+
+	menus = SDL_CreateWindow("El menu",                     		// titulo
+                            SDL_WINDOWPOS_UNDEFINED,            // pos inicial x
+                            SDL_WINDOWPOS_UNDEFINED,            // pos inicial y
+                            640+menu,                           // ancho
+                            640,                                // altura
+                            0                                   // min, 0, max 1
+                            );
+    rendermenu = SDL_CreateRenderer(menus, -1, SDL_RENDERER_ACCELERATED);
+
+	TTF_Font *font = TTF_OpenFont("Lato-Regular.ttf", 25);// trae el tipo de texto
+
+	SDL_Surface *surface;
+	SDL_Texture *texture;
+
+
+    int done = 0,eleccion;
+
+	//procesa los eventos
+    while(!done)
+    {
+		start=SDL_GetTicks();
+        //Check for events
+
+		done = processMenu(menus, &eleccion,rendermenu, font, surface, texture);
+
+        //Render display
+		//renderMenu(rendermenu, font, surface, texture/*, texture*/);
+
+		if(delay>SDL_GetTicks()-start){ //si tarda menos del delay dar delay de lo menos que tardo, para que no se queme la pc
+			SDL_Delay(delay-(SDL_GetTicks()-start));
+		}
+    }
+    #endif
+    //snakeGame(); //llama al juego snake
+
+
+    // cerrar la ventana
+    SDL_DestroyWindow(menus);
+    SDL_DestroyRenderer(rendermenu);
+	SDL_DestroyTexture(texture);
+	SDL_FreeSurface(surface);
+
+    // Clean up
+    TTF_Quit();
+    SDL_Quit();
+    return 0;
+}

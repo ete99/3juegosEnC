@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="sdl" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/sdl" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/sdl" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="C:/Users/Beast Aorus/Desktop/sdl/SDL2-devel-2.0.8-mingw/SDL2-2.0.8/x86_64-w64-mingw32/include/SDL2" />
+		</Compiler>
+		<Linker>
+			<Add option="-lmingw32 -lSDL2main -lSDL2" />
+			<Add directory="C:/Users/Beast Aorus/Desktop/sdl/SDL2-devel-2.0.8-mingw/SDL2-2.0.8/x86_64-w64-mingw32/lib" />
+		</Linker>
+		<Unit filename="../crucigrama/crucigrama.h" />
+		<Unit filename="../crucigrama/logicaCruci.h" />
+		<Unit filename="../crucigrama/renderCruci.h" />
+		<Unit filename="../crucigrama/structCruci.h" />
+		<Unit filename="../crucigrama/utilCruci.h" />
+		<Unit filename="../menu main/main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../menu main/renderMenu.h" />
+		<Unit filename="../snake/logica.h" />
+		<Unit filename="../snake/rend.h" />
+		<Unit filename="../snake/snake.h" />
+		<Unit filename="../snake/structdatos.h" />
+		<Unit filename="../sopadeletras/UTILSOPA.H" />
+		<Unit filename="../sopadeletras/logicaSopa.h" />
+		<Unit filename="../sopadeletras/renderSopa.h" />
+		<Unit filename="../sopadeletras/sopadeletras.h" />
+		<Unit filename="../sopadeletras/structSopa.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

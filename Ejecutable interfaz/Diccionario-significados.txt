@@ -1,0 +1,1241 @@
+1240
+1-abajo-adv. en un lugar o parte inferior 
+2-abierta-adj. que permite el paso 
+3-abierto-adj. que permite el paso 
+4-abogado-s. derecho, oficios y profesiones licenciado en derecho que se dedica a defender en juicio los derechos e intereses de los litigantes y dar dictamen sobre cuestiones judiciales. 
+5-abre-v. tr. y prnl. separar las partes de una cosa dejando su interior al descubierto 
+6-abril-s. m. cuarto mes del anho, entre marzo y mayo en el calendario occidental 
+7-abrir-v. tr. y prnl. separar las partes de una cosa dejando su interior al descubierto 
+8-acaba-v. tr. y prnl. concluir o dar fin a una cosa 
+9-acceso-s. m. entrada o paso por el que se llega a un sitio. 
+10-aceite-s. m. cocina sustancia liquida, grasa, de color amarillo verdoso, obtenida de algunos frutos o semillas, como aceitunas, cacahuetes, soja, maiz, y usada para cocinar. 
+11-aceptar-v. tr. recibir una persona una cosa voluntariamente 
+12-actitud-s. f. modo de ser y de comportarse 
+13-actividad-s. f. facultad de moverse, obrar, trabajar o realizar una accion 
+14-acto-s. m. manifestacion concreta y externa del comportamiento, en una situacion y con un fin determinados 
+15-actor-s. m. cine, oficios y profesiones, teatro persona que interpreta un papel en una obra teatral, de cine o de television 
+16-actos-s. m. manifestacion concreta y externa del comportamiento, en una situacion y con un fin determinados 
+17-actual-adj. que pertenece al momento presente 
+18-actuales-adj. que pertenece al momento presente 
+19-actualidad-s. f. tiempo presente 
+20-acuerdo-s. m. decision que toma una persona o varias sobre un asunto, tras su ponderacion 
+21-acuerdos-s. m. decision que toma una persona o varias sobre un asunto, tras su ponderacion 
+22-afirma-v. tr. y prnl. hacer que una cosa este segura o firme 
+23-afirmo-v. tr. y prnl. hacer que una cosa este segura o firme 
+24-agentes-adj. que obra o puede obrar. 
+25-agosto-s. m. octavo mes del anho, entre julio y setiembre, en el calendario occidental. 
+26-agrego-v. tr. y prnl. unir una cosa a otra para formar un todo 
+27-agua-s. f. sustancia liquida, inodora, insipida y transparente, incolora en pequenha cantidad y verdosa o azulada en grandes masas, compuesta de una molecula de oxigeno y dos de hidrogeno. 
+28-aguas- reflejo en forma de onda 
+29-ahora-adv. en este momento 
+30-aire-s. m. quimica envoltura gaseosa de la tierra, formada principalmente por oxigeno, nitrogeno, argon y otros gases nobles, vapor de agua y dioxido de carbono. 
+31-alcalde-s. administracion cargo de presidente del ayuntamiento municipal y delegado del gobierno en el orden administrativo. 
+32-alcanzar-v. tr. llegar a juntarse con una persona o una cosa que va delante o ponerse a su altura 
+33-alegria-s. f. sentimiento de satisfaccion experimentado por un suceso favorable o la obtencion de una cosa que se deseaba vivamente, que se manifiesta con sonrisas, carcajadas u otros gestos 
+34-aleman-adj. de alemania, pais europeo, o de su lengua. 
+35-algo-pron. indef. indica accion, objeto o idea indeterminada 
+36-alguien-pron. indef. denota a una persona indeterminada 
+37-algun-adj. indef. apocope de alguno, siempre antepuesto al nombre masculino singular 
+38-alguno-adj./ pron. indef. indica persona, animal o cosa indeterminada 
+39-alianza-s. f. reunion o relacion de ayuda reciproca entre paises, gobiernos y distintos colectivos humanos o personas. pacto, coalicion 
+40-alla-adv. indica un lugar alejado del que habla, pero con menos precision que alli 
+41-alma-s. f. teologia parte inmaterial del ser humano y principio espiritual, aunque distinto del espiritu, que, segun la tradicion judeocristiana, sobrevive al cuerpo material de las personas. anima 
+42-alrededor-adv. denota la situacion de personas o cosas entorno a otras, o la direccion en que se mueven para rodearlas 
+43-alta-s. f. medicina certificacion medica que declara a un enfermo ya curado para poder abandonar un centro hospitalario o reincorporarse a su trabajo 
+44-alto-adj. que esta o llega, en sentido vertical, a una distancia relativamente elevada de la superficie que se toma como punto de referencia 
+45-altura-s. f. distancia o elevacion de un cuerpo respecto a una superficie de referencia determinada. altitud 
+46-alumnos-s. ensenhanza persona que recibe ensenhanzas, con respecto del docente o el centro que las imparten, o de la materia de que se trata: los alumnos de quimica siempre llegan tarde. discipulo, estudiante 
+47-ambiente-s. m. fluido que rodea los cuerpos o un lugar 
+48-ambito-s. m. contorno o perimetro de un recinto. 
+49-amigo-adj./ s. se refiere a la persona que mantiene una relacion de amistad con otra 
+50-amigos-adj./ s. se refiere a la persona que mantiene una relacion de amistad con otra 
+51-amor-s. m. sentimiento de afecto y pasion experimentado por una persona hacia otra 
+52-animal-s. m. zoologia ser vivo sensible, que por lo general se nutre de alimentos solidos y esta dotado de movimiento. 
+53-animales-s. m. zoologia ser vivo sensible, que por lo general se nutre de alimentos solidos y esta dotado de movimiento. 
+54-ante-s. m. piel de algunos animales adobada y curtida 
+55-anterior-adj. que precede en el espacio o en el tiempo 
+56-anteriores-adj. que precede en el espacio o en el tiempo 
+57-antes-adv. hace rato, hace tiempo 
+58-antiguo-adj. que existe desde hace mucho tiempo 
+59-anuncio-s. m. accion de anunciar 
+60-aparecen-v. intr. empezar a existir una cosa 
+61-aparicion-s. f. accion y resultado de aparecer o aparecerse. 
+62-aparte-adj. diferente o distinto 
+63-apenas-adv. casi no, escasamente 
+64-apoyo-s. m. lo que apoya o sostiene una cosa 
+65-area-s. f. momento concreto en el tiempo que se calcula a partir de un hecho o fecha determinada. epoca 
+66-argentina-s. f. botanica planta rosacea vivaz, de flores amarillas. plateada 
+67-arriba-adv. en un lugar mas alto o en una parte superior 
+68-arte-s. m. o f. arte facultad de las personas para crear, imitar o expresar lo material o inmaterial, con fines esteticos, valiendose de la materia, sonido, imagen, gesto o lenguaje. 
+69-artista-s. m. y f. arte, oficios y profesiones persona que practica o cultiva alguna de las bellas artes. 
+70-artistas-s. m. y f. arte, oficios y profesiones persona que practica o cultiva alguna de las bellas artes. 
+71-asamblea-s. f. grupo de personas con un interes comun, que se reunen para algun fin 
+72-asegura-v. tr. dar firmeza y seguridad a una cosa 
+73-aseguro-v. tr. dar firmeza y seguridad a una cosa 
+74-asimismo-adv. de la misma manera, igualmente. asi mismo 
+75-aspecto-s. m. modo de presentarse o de mostrarse una persona o una cosa 
+76-aspectos-s. m. modo de presentarse o de mostrarse una persona o una cosa 
+77-asunto-s. m. materia de la que se trata 
+78-ataque-s. m. militar ofensiva contra el enemigo para conseguir un objetivo o destruirlo 
+79-audiencia-s. f. politica acto en el que un soberano u otra autoridad recibe y escucha a personas que informan o exponen una solicitud o una demanda 
+80-aumento-s. m. acrecentamiento de algo 
+81-aun-adv. expresa concesion 
+82-aunque-conj. conces. indica concesion o asentimiento ante una objecion real o posible 
+83-ausencia-s. f. circunstancia de ausentarse o estar ausente 
+84-autor-s. causante de una cosa, hecho o acontecimiento 
+85-autores-s. causante de una cosa, hecho o acontecimiento 
+86-autoridad-s. f. facultad o poder para gobernar o mandar 
+87-ayer-adv. en el dia precedente, el dia anterior a este 
+88-ayuda-s. f. accion y resultado de ayudar. 
+89-ayuntamiento-s. m. administracion, politica corporacion, compuesta por el alcalde y los concejales, que administra y dirige los intereses de un municipio 
+90-azul-adj. del color del cielo sin nubes, del mar o proximo a estos colores 
+91-añadio-sumar o unir una cosa a otra de manera que forme un todo homogeneo o que aumente en algun sentido.
+92-año-tiempo que emplea la tierra en dar una vuelta alrededor del sol.
+93-años-tiempo que emplea la tierra en dar una vuelta alrededor del sol.
+94-baja-s. f. descenso o disminucion del precio, valor o estimacion de una cosa 
+95-bajo-adj. se refiere a la persona u objeto que tiene poca altura 
+96-banco-s. m. asiento con respaldo o sin el para varias personas 
+97-banda-s. f. tira de colores que se lleva atravesada desde un hombro al costado opuesto y que usan como distintivo ciertas ordenes civiles y militares o como insignia de alguna dignidad. 
+98-barrio-s. m. cada una de las partes en que se dividen las grandes poblaciones o sus distritos 
+99-base-s. f. parte de un objeto, o pieza independiente, que le sirve de apoyo o sobre la que se sostiene 
+100-bases-s. f. parte de un objeto, o pieza independiente, que le sirve de apoyo o sobre la que se sostiene 
+101-bastante-adj./ pron. indef. que basta, que resulta suficiente 
+102-belleza-s. f. propiedad de los seres que produce admiracion y deleite de los sentidos por su aspecto, forma y buenas cualidades 
+103-bien-s. m. cosa util, beneficiosa o favorable 
+104-blanca-s. f. musica figura de nota musical que equivale a la mitad de una redonda. 
+105-blanco-adj. del color de la leche, de la nieve reciente, o proximo a estos colores. albo, niveo 
+106-boca-s. f. anatomia cavidad y orificio superior del tubo digestivo del hombre y de los animales, situados en la parte anterior del cuerpo, que puede cumplir otras funciones como las respiratorias o fonadoras. 
+107-bolsa-s. f. recipiente hecho de plastico, papel, tela, cuero o cualquier material flexible, de diferentes formas y tamanhos y a veces provisto de asas, que se usa para guardar y transportar objetos diversos 
+108-brasil-s. m. botanica arbol cesalpiniaceo que crece en brasil y paraguay, cuya madera se conoce como palo brasil. 
+109-brazo-s. m. anatomia parte de la extremidad superior del cuerpo humano que va desde el hombro hasta el codo y, por extension, toda ella. 
+110-breve-adj. de corta extension o duracion 
+111-buena-adj. que reune las condiciones propias de su genero 
+112-buenas-adj. que reune las condiciones propias de su genero 
+113-bueno-adj. que reune las condiciones propias de su genero 
+114-buenos-adj. que reune las condiciones propias de su genero 
+115-busca-s. f. accion que se realiza al buscar. busqueda 
+116-buscar-v. tr. intentar encontrar, conseguir o descubrir a una persona o cosa 
+117-caballo-s. m. zoologia mamifero perisodactilo de gran alzada y alimentacion herbivora, que tiene las patas terminadas en un unico dedo, y el cuello y la cola poblados con crines largas; es domesticado y usado por el hombre para diversas tareas. 
+118-cabe-prep. literario junto a o muy cerca 
+119-cabeza-s. f. anatomia parte superior del cuerpo humano y superior o anterior del de muchos animales, donde residen los principales centros nerviosos y los organos de los sentidos. 
+120-cabo-s. m. cualquiera de los extremos de las cosas. 
+121-cadena-s. f. serie de eslabones u otras piezas, generalmente metalicas, enlazadas entre si formando un conjunto articulado 
+122-caer-v. intr. y prnl. moverse un cuerpo de arriba abajo por la accion de su propio peso 
+123-caja-s. f. recipiente de diferentes formas, tamanhos y materiales, cubierto con una tapa, donde se guardan o transportan objetos diversos 
+124-calidad-s. f. conjunto de caracteristicas y propiedades de una persona o cosa que permiten definirla, calificarla y compararla con otras de su especie 
+125-calle-s. f. via publica, espacio entre dos filas de casas o fincas por el que transitan personas y vehiculos 
+126-calles-s. f. via publica, espacio entre dos filas de casas o fincas por el que transitan personas y vehiculos 
+127-calor-s. m. sensacion producida por un aumento de la temperatura corporal o ambiental 
+128-cama-s. f. mueble formado por un armazon que sostiene el colchon y la ropa utilizada para abrigarse, donde las personas se acuestan para dormir o descansar. camastro, catre, lecho 
+129-camara-f. camera. an open space or cavity such as the ventricle; 
+130-cambiar-v. tr. y prnl. reemplazar una cosa por otra 
+131-cambio-s. m. accion y resultado de cambiar. permuta, trueque 
+132-cambios-s. m. accion y resultado de cambiar. permuta, trueque 
+133-camino-s. m. terreno compactado o preparado para transitar 
+134-campaña-conjunto de actividades o de trabajos que se realizan en un periodo de tiempo determinado y estan encaminados a conseguir un fin.
+135-campo-s. m. geografia terreno extenso fuera de una poblacion. 
+136-canal-s. m. y f. cauce artificial para conducir agua 
+137-cantidad-s. f. propiedad de las cosas o conjuntos de cosas por la que se pueden medir, contar y comparar si es mayor o menor que otras. 
+138-capacidad-s. f. espacio disponible en una cosa capaz para contener otra 
+139-capaz-adj. que tiene capacidad o aptitud suficiente para hacer una cosa 
+140-capital-adj. de la cabeza. 
+141-capitan-s. m. militar caudillo militar. 
+142-cara-s. f. anatomia parte delantera de la cabeza de las personas y de ciertos animales 
+143-carga-s. f. accion de poner cosas sobre un animal, a hombros de una persona o sobre un vehiculo para transportarlas 
+144-cargo-s. m. funcion desempenhada habitualmente por una persona en una empresa o en una institucion a cambio de un salario 
+145-carne-s. f. anatomia parte blanda, formada principalmente por los musculos del cuerpo del hombre y de los animales 
+146-carrera-s. f. accion de ir de un sitio a otro corriendo 
+147-carretera-s. f. via o camino pavimentado que comunica distintas localidades y permite la circulacion de vehiculos. calzada, pista 
+148-carta-s. f. escrito que una persona dirige a otra para comunicarse con ella 
+149-casa-s. f. arquitectura, construccion edificio o parte de el destinado a vivienda 
+150-casi-adv. poco mas o menos, aproximadamente, por poco, cerca de 
+151-caso-s. m. hecho o situacion que sucede o puede suceder 
+152-casos-s. m. hecho o situacion que sucede o puede suceder 
+153-castro-s. m. historia antiguo asentamiento humano fortificado 
+154-cataluña-comunidad autonoma espanhola, considerada nacionalidad historica, situada en el nordeste de la peninsula iberica.
+155-causa-s. f. hecho, fenomeno, situacion o actitud que produce o provoca una accion 
+156-causas-v. tr. producir una causa su efecto 
+157-centro-s. m. geometria punto equidistante de los demas de una circunferencia o esfera, y de interseccion de las diagonales en los poligonos, poliedros, lineas y superficies curvas. 
+158-centros-s. m. geometria punto equidistante de los demas de una circunferencia o esfera, y de interseccion de las diagonales en los poligonos, poliedros, lineas y superficies curvas. 
+159-chile-s. m. botanica aji, pimiento o pimenton 
+160-cielo-s. m. astronomia espacio que rodea la tierra 
+161-cien-adj. num. que resulta de la multiplicacion de diez por diez 
+162-ciencia-s. f. conjunto de conocimientos sobre las cosas, hechos o fenomenos, obtenidos mediante el estudio y la observacion de sus principios y causas. 
+163-ciento-adj. num. que resulta de la multiplicacion de diez por diez. 
+164-cierta-adj. indef. alguno, uno determinado pero desconocido o poco preciso 
+165-ciertas-adj. indef. alguno, uno determinado pero desconocido o poco preciso 
+166-cierto-adj. indef. alguno, uno determinado pero desconocido o poco preciso 
+167-ciertos-adj. indef. alguno, uno determinado pero desconocido o poco preciso 
+168-cifra-s. f. numero, cantidad 
+169-cinco-adj. num. que resulta de la suma de cuatro y uno 
+170-cincuenta-adj. num. que resulta de la multiplicacion de cinco y diez 
+171-cine-s. m. cine local publico donde se proyectan peliculas cinematograficas 
+172-circunstancias-s. f. conjunto de todas las acciones, hechos y situaciones que rodean a una persona, influyendo en sus acciones y forma de ser 
+173-ciudad-s. f. aglomeracion urbana, por lo general grande y de poblacion densa, donde predominan las actividades industriales y de servicios. urbe 
+174-ciudades-s. f. aglomeracion urbana, por lo general grande y de poblacion densa, donde predominan las actividades industriales y de servicios. urbe 
+175-civil-adj. de la ciudad o de los ciudadanos 
+176-clara-s. f. zoologia parte transparente, blanquecina y liquida, de naturaleza albuminoidea, que rodea la yema del huevo de las aves 
+177-claro-adj. que tiene luz o mucha luz 
+178-clase-s. f. sociologia conjunto de personas que, por sus caracteristicas o intereses comunes, constituyen una unidad homogenea dentro de una poblacion 
+179-clases-s. f. sociologia conjunto de personas que, por sus caracteristicas o intereses comunes, constituyen una unidad homogenea dentro de una poblacion 
+180-clave-s. f. codigo con el que se cifran mensajes 
+181-club-s. m. asociacion cuyos miembros tienen afinidades politicas, profesionales, culturales, deportivas o de otro tipo 
+182-coche-s. m. automovil, vehiculo movido por un motor de explosion 
+183-cocina-s. f. cocina habitacion de la vivienda donde se preparan y guisan las comidas 
+184-colaboracion-s. f. accion y resultado de colaborar o cooperar en algo. cooperacion 
+185-colegio-s. m. ensenhanza centro de ensenhanza primaria o secundaria 
+186-color-s. m. fisica sensacion que producen en la retina los rayos de luz reflejados en un objeto. 
+187-colores- combinacion de colores que una nacion adopta como simbolo de su identidad 
+188-comer-v. tr., intr. y prnl. tomar un alimento por la boca 
+189-comercial-adj. comercio del comercio 
+190-comercio-s. m. comercio, economia compra, venta e intercambio de mercancias o productos con fines lucrativos 
+191-comida-s. f. alimento, conjunto de sustancias que sirven para nutrirse 
+192-comienza-v. tr. iniciar, dar principio a una cosa 
+193-comienzo-s. m. principio u origen 
+194-comite-s. m. grupo reducido de personas delegadas por una asamblea o por una autoridad, que constituye un organo colegial de gestion, de consulta o de decision 
+195-como-adv. de la manera que se expresa 
+196-como-adv. de la manera que se expresa 
+197-compañeros-persona que comparte con otra u otras la estancia en un lugar, los estudios, un trabajo o la practica de un deporte u otra actividad.
+198-compañia-cercania de las personas, animales o cosas que estan juntas en un lugar al mismo tiempo.
+199-competencia-s. f. rivalidad entre personas, empresas, instituciones o estados por lograr alguna cosa 
+200-completo-adj. que tiene todos los elementos o partes que normalmente lo componen 
+201-comprender-v. tr. percibir, entender una persona el significado de una cosa 
+202-compromiso-s. m. obligacion contraida por una persona mediante una promesa, un contrato u otro acuerdo 
+203-comunidad-s. f. sociologia agrupacion de personas que tienen ciertos intereses en comun 
+204-comunidades-s. f. sociologia agrupacion de personas que tienen ciertos intereses en comun 
+205-con-prep. indica el modo, manera como se realiza una accion o el instrumento con que se ejecuta 
+206-concepto-s. m. filosofia representacion mental de un objeto o pensamiento 
+207-conciencia-s. f. sicologia conocimiento que una persona tiene de si misma y del mundo que la rodea. yo, alma, personalidad, nocion, idea, juicio 
+208-conde-s. titulo nobiliario superior al de vizconde e inferior al de marques. 
+209-conducta-s. f. sicologia manera de comportarse 
+210-conferencia-s. f. disertacion en publico sobre un asunto cientifico, literario o cualquier otro de interes general 
+211-confianza-s. f. esperanza de que una persona o cosa funcione o se comporte segun esta previsto 
+212-conflicto-s. m. situacion de lucha, desacuerdo, rivalidad u oposicion entre personas o cosas 
+213-congreso-s. m. reunion o asamblea de personas pertenecientes a una misma profesion, actividad o grupo, o de cualquier colectivo humano para tratar asuntos de interes comun 
+214-conjunto-adj. que esta unido a otra cosa 
+215-conoce-v. tr. tener idea o nocion de una persona, animal o cosa por haberla visto, oido o tratado 
+216-conocer-v. tr. tener idea o nocion de una persona, animal o cosa por haberla visto, oido o tratado 
+217-conocido-adj. que es sabido por muchos 
+218-conocimiento-s. m. accion y resultado de conocer. 
+219-consecuencia-s. f. hecho que resulta o se sigue de otro 
+220-consejo-s. m. parecer o juicio que se da o solicita para hacer o no hacer una cosa 
+221-considera-v. tr. pensar una cosa atenta y reflexivamente 
+222-considerar-v. tr. pensar una cosa atenta y reflexivamente 
+223-consiste-v. intr. tener una cosa su causa o explicacion en otra 
+224-constante-adj. que tiene constancia 
+225-constitucional-adj. politica de la constitucion de un estado. 
+226-constituye-v. tr. formar dos o mas cosas o personas las partes o los elementos que configuran un todo 
+227-consumo-s. m. accion y resultado de consumir o gastar 
+228-contacto-s. m. accion y resultado de tocarse dos cosas. 
+229-contar-v. tr. dar un numero a cada componente de un conjunto para saber cuantos hay 
+230-contenido-adj. que se comporta con contencion o templanza 
+231-contra-prep. indica oposicion, contrariedad o pugna entre personas o cosas 
+232-contrario-adj./ s. que es opuesto o totalmente diferente a otra cosa 
+233-contrato-s. m. derecho acuerdo establecido con ciertas formalidades entre dos o mas personas, por el cual se obligan reciprocamente a ciertas cosas 
+234-control-s. m. accion o resultado de comprobar o examinar una cosa 
+235-copa-s. f. recipiente semejante a un vaso, de materiales y formas diversas, con un pie, que se usa para beber 
+236-corresponde-v. intr. y tr. hacer o decir una cosa a cambio de otra que se ha recibido con anterioridad 
+237-corriente-adj. se refiere al agua u otro liquido que corre. 
+238-corte-s. m. accion y resultado de cortar o cortarse. 
+239-corto-adj. que no tiene la extension que le corresponde, de poca longitud 
+240-cosa-s. f. palabra que se utiliza para referirse a algo concreto, abstracto, real o mental, cuyo significado se precisa por el contexto que la precede o la sigue. 
+241-costa-s. f. cantidad que se da o se paga por una cosa. 
+242-crear-v. tr. sacar o producir una cosa de la nada 
+243-crecimiento-s. m. accion y resultado de crecer 
+244-cree-v. tr. y prnl. considerar o aceptar una cosa como cierta sin tener pruebas irrefutables de ella 
+245-creo-v. tr. y prnl. considerar o aceptar una cosa como cierta sin tener pruebas irrefutables de ella 
+246-crisis-s. f. cambio considerable, para mejorar o para empeorar, en el curso de una enfermedad, o en el desarrollo de otros procesos 
+247-criterios-s. m. norma para conocer la verdad o la adecuacion de una cosa a lo requerido en una materia o una disciplina 
+248-cruz-s. f. figura formada por dos lineas que se cortan perpendicularmente 
+249-cuadro-s. m. arte, pintura pintura, dibujo o grabado enmarcado que sirve para adornar una pared 
+250-cual-pron. relat. precedido del articulo el, la, los, las, equivale al relativo que en oraciones adjetivas explicativas 
+251-cual-pron. relat. precedido del articulo el, la, los, las, equivale al relativo que en oraciones adjetivas explicativas 
+252-cualquiera-pron. indef. persona o cosa indeterminada 
+253-cuando-adv. en el momento en que, en la epoca en que 
+254-cuanto-pron. relat. todo lo que 
+255-cuarenta-adj.num./ s.m. que resulta de la multiplicacion de cuatro por diez. 
+256-cuarto-adj.num./ s. que ocupa el lugar numero cuatro en una serie 
+257-cuatro-adj.num./ s.m. se aplica al numero que equivale a tres mas uno 
+258-cuba-s. f. recipiente de madera o de metal con forma de barril, usado para contener liquidos 
+259-cuello-s. m. anatomia parte del cuerpo que une la cabeza al tronco 
+260-cuenta-s. f. matematicas operacion aritmetica de sumar, restar, multiplicar o dividir 
+261-cuerpo-s. m. cualquier materia solida, liquida o gaseosa. masa 
+262-cuerpos-s. m. cualquier materia solida, liquida o gaseosa. masa 
+263-cuidado-s. m. interes y atencion que se pone en hacer una cosa 
+264-culpa-s. f. responsabilidad de la persona que ha causado un danho a otra voluntaria o involuntariamente 
+265-cultura-s. f. antropologia conjunto de conocimientos y actividades cientificas, industriales y artisticas de un pueblo, pais o una epoca, considerados globalmente o en cada una de las materias 
+266-cumplir-v. tr. hacer una cosa obligada o prometida 
+267-curso-s. m. direccion, carrera o camino que sigue una cosa 
+268-daba-v. tr. entregar una cosa a una persona temporalmente o bien para que esta sea el nuevo propietario 
+269-dado-s. m. juegos cubo con las caras numeradas del uno al seis que se usa en algunos juegos. 
+270-dando-v. tr. entregar una cosa a una persona temporalmente o bien para que esta sea el nuevo propietario 
+271-dar-v. tr. entregar una cosa a una persona temporalmente o bien para que esta sea el nuevo propietario 
+272-de-prep. indica propiedad, posesion o pertenencia 
+273-debajo-adv. en lugar inferior, respecto de otro superior 
+274-debate-s. m. discusion sobre un determinado tema entre dos o mas personas que se reunen publicamente para este fin 
+275-debe-s. m. economia parte de una cuenta corriente donde se situan las cantidades que se cargan al titular de la misma. 
+276-debemos-s. m. obligacion de hacer una cosa por cualquier razon personal, profesional, civil o religiosa 
+277-debido-adj. que es conveniente, justo, razonable o necesario 
+278-decada-s. f. espacio de tiempo formado por diez anhos o dias 
+279-decidido-adj. que se comporta con audacia y decision 
+280-decir-s. m. dicho, palabra o refran. 
+281-decisiones-s. f. acuerdo o determinacion adoptada en una situacion de duda 
+282-declaraciones-s. f. accion y resultado de declarar o declararse. 
+283-declaro-v. tr. decir una cosa relativa a un asunto reservado a otras personas 
+284-defensa-s. f. accion y resultado de defender o defenderse 
+285-definitiva-adj. que ya no admite cambios 
+286-dejado-adj. que se comporta con negligencia y descuido de su persona o de sus cosas 
+287-dejar-v. tr. soltar una cosa que se tiene cogida y ponerla en algun sitio 
+288-dejo-s. f. modo particular de pronunciacion y de inflexion de la voz que acusa un estado de animo del hablante 
+289-delante-adv. en primer termino, en lugar anterior 
+290-demanda-s. f. peticion, accion de solicitar o reclamar una cosa 
+291-demasiado-adj. en exceso, en demasia, en mayor numero, cantidad, proporcion, etc., de lo necesario 
+292-democracia-s. f. politica regimen politico en el que el pueblo participa en el gobierno de un pais, mediante la eleccion de sus representantes. 
+293-dentro-adv. en interior, en la parte interna 
+294-departamento-s. m. cada una de las partes en que se divide un espacio cualquiera, como un edificio, un territorio, una caja, un almacen, una oficina 
+295-depende-v. intr. hallarse sujeto a una autoridad o jurisdiccion 
+296-derecha-s. f. mano o pierna del cuerpo humano situada en el lado opuesto al corazon 
+297-derecho-adj. recto, igual, que sigue siempre la misma direccion sin torcerse a un lado o a otro 
+298-desarrollo-s. m. accion y resultado de desarrollar o desarrollarse 
+299-desde-prep. indica el tiempo o el lugar a partir del cual se realiza una accion o se cuenta una distancia 
+300-deseo-s. m. movimiento intenso de la voluntad hacia la consecucion de una cosa. afan, anhelo, apetito, aspiracion 
+301-destino-s. m. futuro ya trazado e irreversible 
+302-detras-adv. en ultimo termino, en lugar posterior 
+303-deuda-s. f. obligacion que alguien tiene de pagar, devolver o dar una cantidad de dinero u otra cosa a otra persona 
+304-dialogo-s. m. conversacion entre dos o mas personas 
+305-diario-adj. que se hace o sucede cada dia 
+306-dice-s. m. dicho, palabra o refran. 
+307-dicen-s. m. dicho, palabra o refran. 
+308-dicha-s. f. felicidad, estado de animo favorable 
+309-dicho-adj. sustituye a un adjetivo demostrativo 
+310-diego-s. m. botanica dondiego, planta herbacea. 
+311-diez-adj.num./ s.m. que resulta de la suma de nueve y uno 
+312-diferencia-s. f. circunstancia de ser distintas dos cosas o dos personas y rasgo, caracteristica o cualidad que las distingue 
+313-diferente-adj. que no es igual a otra cosa o persona con que se compara o tiene diferencias 
+314-digo-s. m. dicho, palabra o refran. 
+315-dije-s. m. indumentaria y moda joya, adorno o relicario que se lleva colgando de una cadena, de una pulsera o de un imperdible. 
+316-dijo-s. m. dicho, palabra o refran. 
+317-dinero-s. m. economia monedas y billetes corrientes que se utilizan como medio de pago. capital, cuartos, guita, parne, pasta, perras, plata 
+318-dios-s. m. religion cada uno de los seres sobrenaturales a los cuales el hombre rinde culto o venera, en las religiones politeistas 
+319-diputados-v. tr. designar a una persona para una comision. 
+320-directa-s. f. mecanica la mayor de las velocidades que permite el cambio de marchas de un vehiculo automovil. 
+321-director-adj./ s. que dirige o guia. 
+322-dirigentes-adj./ s. m. y f. que dirige 
+323-discurso-s. m. exposicion de cierta extension sobre un tema pronunciado en publico 
+324-diseño-actividad creativa que tiene por fin proyectar objetos que sean utiles y esteticos.
+325-dispuesto-adj. que esta preparado 
+326-distancia-s. f. espacio o tiempo que media entre dos cosas o sucesos 
+327-distintas-adj. que es diferente o diverso, que no se parece a otra cosa 
+328-distintos-adj. que es diferente o diverso, que no se parece a otra cosa 
+329-diversas-adj. que es diferente, que no se parecen 
+330-doble-adj./ s. m. cantidad que es dos veces la que se expresa 
+331-doce-adj.num./ s.m. se refiere al numero que equivale a diez mas dos. 
+332-doctor-s. ensenhanza persona que ha obtenido el grado superior que concede una universidad, despues de haber defendido la tesis doctoral 
+333-documento-s. m. escrito que sirve para justificar o acreditar una cosa o un hecho historico o legal 
+334-dolor-s. m. medicina sensacion de danho, sufrimiento o padecimiento de alguna parte del cuerpo 
+335-domingo-s. m. dia de la semana, entre sabado y lunes. 
+336-don-s. m. disposicion innata o habilidad para alguna actividad. 
+337-donde-adv. en el lugar en que 
+338-donde-adv. en el lugar en que 
+339-dormir-v. intr., tr. y prnl. estar, entrar en el estado del suenho 
+340-dos-adj.num./ s.m. que resulta de la suma de uno y uno. 
+341-doña-tratamiento de respeto que se antepone al nombre de pila.
+342-duda-s. f. estado de quien no esta seguro de una cosa o no se decide entre dos juicios u opciones 
+343-duro-adj. que ofrece resistencia a ser rayado, deformado o comprimido 
+344-edad-s. f. tiempo transcurrido desde el nacimiento de un ser vivo hasta un momento concreto 
+345-edicion-s. f. artes graficas impresion de una obra o escrito para su publicacion 
+346-edificio-s. m. construccion construccion de cierta altura y extension, hecha con materiales resistentes, cuyo interior esta dividido en pisos o dependencias 
+347-efecto-s. m. resultado de una causa 
+348-ejecutivo-adj. que debe ejecutarse de inmediato. 
+349-ejemplo-s. m. cosa o caso que se cita como muestra clara de los de su misma clase, usado para explicar, comprobar una cosa o darle autoridad 
+350-ejercicio-s. m. trabajo practico que se hace para la adquisicion, desarrollo o conservacion de una facultad, de una aptitud o de una habilidad 
+351-ejercito-s. m. militar conjunto de todas las fuerzas militares de un estado 
+352-elecciones- mecanismos mediante los cuales los miembros de una comunidad eligen representantes 
+353-electoral-adj. politica, sociologia que tiene relacion con las elecciones o con los electores 
+354-elemento-s. m. cada uno de los componentes de un conjunto o de una cosa 
+355-elementos- fuerzas naturales, en especial las atmosfericas 
+356-ello-pron. pers. indica las acciones, ideas o conjuntos de cosas a las que se refiere la persona que habla 
+357-ellos-pron. pers. indica las personas, animales o cosas a las que se refiere la persona que habla 
+358-embargo-s. m. derecho retencion o secuestro de bienes por mandamiento judicial. 
+359-empleo-s. m. accion y resultado de usar una cosa 
+360-empresa-s. f. accion o cometido arduo y dificultoso, e intento de llevarlo a cabo 
+361-empresarios-s. economia propietario o directivo de una industria, negocio o empresa. 
+362-empresas-s. f. accion o cometido arduo y dificultoso, e intento de llevarlo a cabo 
+363-en-prep. indica el lugar dentro del cual esta u ocurre algo 
+364-encima-adv. en lugar superior, ya sea inmediato o no 
+365-encontraba-v. tr. y prnl. dar de manera casual con la persona o cosa que se busca 
+366-encontrar-v. tr. y prnl. dar de manera casual con la persona o cosa que se busca 
+367-encuentra-v. tr. y prnl. dar de manera casual con la persona o cosa que se busca 
+368-encuentran-v. tr. y prnl. dar de manera casual con la persona o cosa que se busca 
+369-encuentro-s. m. cruce o choque en un punto de dos o mas cosas 
+370-enfermedad-s. f. medicina alteracion del funcionamiento normal del cuerpo de los animales o de los organismos de los vegetales 
+371-enfermedades-s. f. medicina alteracion del funcionamiento normal del cuerpo de los animales o de los organismos de los vegetales 
+372-enorme-adj. que es muy grande o mayor de lo habitual 
+373-enseñanza-transmision de conocimientos, ideas, experiencias, habilidades o habitos a una persona que no los tiene.
+374-entender-v. tr. y prnl. captar el sentido o significado de una cosa 
+375-entidad-s. f. circunstancia de ser o de existir. esencia, ser 
+376-entonces-adv. en aquel tiempo, momento u ocasion 
+377-entorno-s. m. conjunto de personas, cosas y circunstancias que rodean a alguien o algo e influyen en su desarrollo. ambiente 
+378-entrada-s. f. accion y resultado de entrar en un sitio. salida  
+379-entrar-v. intr. pasar adentro o al interior de un lugar 
+380-entre-prep. indica el tiempo o el espacio situado en medio de dos acciones, estados, personas o cosas 
+381-entrega-s. f. accion y resultado de entregar. adjudicacion, entregamiento 
+382-equilibrio-s. m. fisica situacion de estabilidad de un cuerpo sometido a fuerzas opuestas. 
+383-equipo-s. m. accion y resultado de equipar o equiparse. 
+384-equipos-s. m. accion y resultado de equipar o equiparse. 
+385-era-s. f. momento concreto en el tiempo que se calcula a partir de un hecho o fecha determinada. epoca 
+386-eran-s. m. cualquier cosa, animada o inanimada, material o inmaterial 
+387-error-s. m. concepto, idea, opinion o juicio falso o equivocado. desacierto, falsedad verdad  
+388-esa-pron. dem. f. equivale a un sustantivo cuyo sentido indica ocasion o situacion 
+389-escena-s. f. espectaculos, teatro parte del teatro donde se representa la obra o espectaculo teatral 
+390-escenario-s. m. espectaculos, teatro parte del teatro donde se representa la obra teatral o cualquier otro espectaculo 
+391-escribir-v. tr., intr. y prnl. representar graficamente una lengua mediante un alfabeto u otro tipo de signos convencionales 
+392-escrito-adj. se aplica a lo que tiene manchas o rayas que parecen letras. 
+393-escritor-s. literatura, oficios y profesiones persona que escribe obras de creacion, especialmente literaria 
+394-escuela-s. f. ensenhanza centro docente de caracter publico o privado donde se imparte la ensenhanza primaria o cualquier otro tipo de ensenhanza 
+395-ese-s. f. denominacion de la letra s del alfabeto espanhol. 
+396-esfuerzo-s. m. empleo energico de la fuerza fisica, la inteligencia, la voluntad o cualquier facultad espiritual, para la consecucion de un fin 
+397-esfuerzos-s. m. empleo energico de la fuerza fisica, la inteligencia, la voluntad o cualquier facultad espiritual, para la consecucion de un fin 
+398-eso-pron. dem. indica aquello que esta cerca, en el espacio o en el tiempo, de la persona que escucha 
+399-espacio-s. m. extension o superficie en que esta contenida la materia. 
+400-espacios-s. m. extension o superficie en que esta contenida la materia. 
+401-españa-tambien denominado reino de espanha, es un pais transcontinental, miembro de la union europea.
+402-español-relativo a espanha, pais de europa occidental, o a sus habitantes.
+403-española-relativo a espanha, pais de europa occidental, o a sus habitantes.
+404-españoles-relativo a espanha, pais de europa occidental, o a sus habitantes.
+405-especial-adj. que se diferencia de lo comun o acostumbrado 
+406-especiales-adj. que se diferencia de lo comun o acostumbrado 
+407-especialmente-adv. en especial 
+408-especie-s. f. conjunto de individuos o cosas que tienen ciertos caracteres comunes. clase, grupo 
+409-espectaculo-s. m. funcion o diversion publica 
+410-espera-s. f. accion y resultado de esperar 
+411-esperanza-s. f. confianza en lograr una cosa o en que ocurra algo deseado 
+412-esperar-v. tr. permanecer en un lugar al que se cree o se sabe que ha de llegar una persona o ha de ocurrir una cosa 
+413-estaba-v. intr. y prnl. encontrarse una persona o una cosa en un lugar, una situacion o una condicion 
+414-estaban-v. intr. y prnl. encontrarse una persona o una cosa en un lugar, una situacion o una condicion 
+415-establece-v. tr. crear o fundar una cosa 
+416-establecer-v. tr. crear o fundar una cosa 
+417-estado-s. m. situacion en la que se encuentra una persona o cosa 
+418-estados-v. intr. y prnl. encontrarse una persona o una cosa en un lugar, una situacion o una condicion 
+419-estamos-v. intr. y prnl. encontrarse una persona o una cosa en un lugar, una situacion o una condicion 
+420-estar-v. intr. y prnl. encontrarse una persona o una cosa en un lugar, una situacion o una condicion 
+421-este-s. m. punto cardinal por donde sale el sol 
+422-estilo-s. m. conjunto de rasgos caracteristicos de un artista, una obra, epoca, moda o cualquier actividad 
+423-esto-pron. dem. alude a una situacion o a un objeto expresados con anterioridad en el discurso. 
+424-estrategia-s. f. militar tecnica y arte de concebir, preparar y dirigir las operaciones militares. 
+425-estructura-s. f. modo de estar distribuidas las partes de un todo y relacion que puede establecerse entre ellas 
+426-estudio-s. m. esfuerzo intelectual destinado a la adquisicion de conocimientos 
+427-estuvo-v. intr. y prnl. encontrarse una persona o una cosa en un lugar, una situacion o una condicion 
+428-etapa-s. f. trayecto recorrido entre dos paradas 
+429-europeos-adj. de europa. 
+430-evidente-adj. que es tan claro que no admite duda 
+431-evitar-v. tr. impedir que suceda una cosa desagradable 
+432-existe-v. intr. tener una persona o una cosa realidad fuera de la mente 
+433-existen-v. intr. tener una persona o una cosa realidad fuera de la mente 
+434-existencia-s. f. circunstancia de existir o ser 
+435-experiencia-s. f. conocimiento de las cosas adquirido con la practica 
+436-explica-v. tr. y prnl. expresar una persona lo que piensa o siente 
+437-explicar-v. tr. y prnl. expresar una persona lo que piensa o siente 
+438-explico-v. tr. y prnl. expresar una persona lo que piensa o siente 
+439-exterior-adj. que esta en la parte de fuera de una cosa 
+440-extremo-adj. que esta al final 
+441-factor-s. comercio apoderado de un comerciante para obrar por cuenta de el en las compras y ventas. representante 
+442-factores-s. comercio apoderado de un comerciante para obrar por cuenta de el en las compras y ventas. representante 
+443-falta-s. f. ausencia o carencia de una cosa necesaria 
+444-familia-s. f. sociologia grupo de personas emparentadas entre si 
+445-familiar-adj. de la familia 
+446-familias-s. f. sociologia grupo de personas emparentadas entre si 
+447-fase-s. f. cada uno de los diversos estados, cambios o aspectos sucesivos de un fenomeno natural, de una idea o una cosa 
+448-favor-s. m. ayuda o servicio que se solicita o se presta gratuitamente a una persona 
+449-fe-s. f. teologia virtud teologal que consiste en creer en dios y lo que la iglesia catolica ensenha sin poderlo garantizar empiricamente ni con procedimientos racionales. 
+450-fecha-s. f. indicacion escrita del dia y el lugar en que se hace u ocurre una cosa 
+451-federal-adj. de la federacion 
+452-feliz-adj. que tiene o siente felicidad 
+453-fiesta-s. f. reunion de gente con intencion de divertirse o celebrar alguna cosa 
+454-figura-s. f. forma o aspecto externo de un cuerpo material 
+455-figuras-v. tr. trazar la figura de una persona o una cosa. delinear 
+456-filosofia-s. f. filosofia conjunto de razonamientos y reflexiones encaminados a explicar las causas, relaciones y finalidades ultimas del hombre y el universo. 
+457-fin-s. m. punto o momento en que termina una cosa 
+458-final-adj. que pone fin o es la ultima parte 
+459-fines-v. intr. culto morir una persona. fenecer 
+460-firma-s. f. nombre y apellido de una persona, que esta pone al pie de un escrito para darle autenticidad o para comprometerse a cumplir lo que en el se expresa 
+461-fiscal-adj. economia del fisco o hacienda publica 
+462-fondo-s. m. parte inferior de un objeto hueco 
+463-forma-s. f. aspecto externo de los cuerpos 
+464-franco-adj. que es sincero y leal 
+465-frase-s. f. lingüistica unidad lingüistica, formada por una o mas palabras, que presenta un enunciado completo, que se basta asi mismo. clausula 
+466-frecuencia-s. f. repeticion mas o menos periodica de una cosa 
+467-frente-s. f. anatomia parte superior de la cara, comprendida entre una y otra sien y entre las cejas y el borde del cuero cabelludo 
+468-fuego-s. m. combustion de una materia que produce desprendimiento de luz y calor. 
+469-fuente-s. f. lugar donde brota agua procedente de una corriente subterranea. manantial 
+470-fuentes-s. f. lugar donde brota agua procedente de una corriente subterranea. manantial 
+471-fuera-adv. en o a la parte exterior de cualquier espacio, real o imaginario. dentro  
+472-fueron-s. m. cualquier cosa, animada o inanimada, material o inmaterial 
+473-fuerte-adj. que no se rompe o no se desgasta con facilidad 
+474-fuertes-adj. que no se rompe o no se desgasta con facilidad 
+475-fuerza-s. f. vigor y capacidad para mover una cosa que tenga peso o haga resistencia 
+476-fundacion-s. f. accion y resultado de fundar 
+477-fundamental-adj. que sirve de fundamento o es lo mas importante de una cosa o un asunto 
+478-futuro-adj. que esta por suceder o por venir 
+479-ganar-v. tr. conseguir dinero u otro beneficio 
+480-general-adj. que es comun a todos los elementos o individuos que componen un todo 
+481-generales-adj. que es comun a todos los elementos o individuos que componen un todo 
+482-generalmente- haciendo referencia al conjunto de una cosa, y no a excepciones o casos particulares 
+483-gente-s. f. conjunto de personas 
+484-gestion-s. f. cualquier accion que se realiza para conseguir una cosa 
+485-gesto-s. m. movimiento de las facciones de la cara o de las manos que ayuda en la expresion, o que expresa por si mismo un estado de animo o una accion 
+486-gobernador-adj./ s. que gobierna. dirigente 
+487-gobierno-s. m. accion y resultado de gobernar, administrar o dirigir segun unas normas a una familia, colectividad o estado 
+488-golpe-s. m. accion y resultado de golpear 
+489-grado-s. m. situacion, valor, calidad o medida de una cosa 
+490-gran-adj. grande, usado en singular y antepuesto al sustantivo 
+491-grande-adj. que ocupa mucho espacio o mucha superficie 
+492-grandes-adj. que ocupa mucho espacio o mucha superficie 
+493-grave-adj. que es peligroso o puede tener malas consecuencias 
+494-graves-adj. que es peligroso o puede tener malas consecuencias 
+495-grupo-s. m. conjunto de personas, animales o cosas que forman un todo 
+496-grupos-s. m. conjunto de personas, animales o cosas que forman un todo 
+497-guardia-s. f. accion de guardar o vigilar 
+498-guerra-s. f. lucha armada entre naciones o sociedades 
+499-gusta-v. tr. e intr. ser del agrado de una persona 
+500-gusto-s. m. sentido con que se percibe el sabor de las cosas. 
+501-haber-s. m. economia conjunto de bienes y derechos de una persona o entidad 
+502-habitantes-adj./ s. m. que habita o reside en un lugar determinado 
+503-habitual-adj. que se hace con frecuencia o por costumbre 
+504-habla-s. f. facultad de hablar 
+505-hablando-v. intr. emitir una persona sonidos que forman palabras 
+506-hablar-v. intr. emitir una persona sonidos que forman palabras 
+507-hacen-v. tr. producir de la nada 
+508-hacer-v. tr. producir de la nada 
+509-hacerse- transformarse una cosa en algo distinto 
+510-hacia-prep. indica la direccion del movimiento en relacion a su termino 
+511-hacienda-s. f. agricultura, ganaderia finca de gran extension, dedicada a la agricultura o a la ganaderia. finca, heredad, propiedad 
+512-haciendo-v. tr. producir de la nada 
+513-hasta-prep. indica el espacio de tiempo, termino de una cosa o accion, asi como el limite de una medida o cantidad 
+514-haya-s. f. botanica arbol de la familia de las fagaceas, de tronco grueso, liso, corteza gris, copa redonda y espesa y hojas pecioladas, que crece en los bosques templados. 
+515-hayan-s. m. economia conjunto de bienes y derechos de una persona o entidad 
+516-he-adv. particula que sirve para senhalar o mostrar una persona o cosa 
+517-hecho-adj. que ha alcanzado la madurez o desarrollo completo 
+518-hechos-adj. que ha alcanzado la madurez o desarrollo completo 
+519-hermano-s. persona que tiene los mismos padres con respecto a otro, o por lo menos uno de ellos 
+520-hicieron-v. tr. producir de la nada 
+521-hijo-s. persona o animal respecto de su padre o de su madre 
+522-historia-s. f. historia ciencia que estudia los acontecimientos del pasado relativos a la humanidad y a sus diferentes sociedades. 
+523-historico-adj. historia de la historia 
+524-hombre-s. m. zoologia, antropologia denominacion generica y arbitraria, sin distincion de sexo, de cada uno de los individuos de la especie humana, clasificados como mamiferos primates.
+525-hombres-s. m. zoologia, antropologia denominacion generica y arbitraria, sin distincion de sexo, de cada uno de los individuos de la especie humana, clasificados como mamiferos primates.
+526-hora-s. f. cada una de las veinticuatro partes en que se divide el dia solar. 
+527-horas-s. f. cada una de las veinticuatro partes en que se divide el dia solar. 
+528-hospital-s. m. medicina establecimiento donde se asiste a los enfermos 
+529-hotel-s. m. establecimiento donde se alojan personas que, generalmente, estan de paso. parador, hospedaje, hosteria, residencia 
+530-hoy-adv. en este dia, en el dia presente 
+531-hubiera-s. m. economia conjunto de bienes y derechos de una persona o entidad 
+532-hubiese-s. m. economia conjunto de bienes y derechos de una persona o entidad 
+533-hubo-s. m. economia conjunto de bienes y derechos de una persona o entidad 
+534-huelga-s. f. suspension colectiva del trabajo, acordada por los trabajadores de una empresa o un sector, como medida de presion para conseguir determinados objetivos. paro, plante 
+535-humana-adj. que tiene relacion con la persona o con la humanidad 
+536-humano-adj. que tiene relacion con la persona o con la humanidad 
+537-humanos-adj. que tiene relacion con la persona o con la humanidad 
+538-iban-v. intr. y prnl. moverse en el espacio hacia el lugar que se expresa 
+539-idea-s. f. filosofia representacion mental sobre alguien o algo real o imaginario 
+540-identidad-s. f. circunstancia de ser una cosa o persona muy parecida o igual a otra con la que se compara. equivalencia, igualdad, paralelismo, semejanza 
+541-ido-adj. que esta distraido 
+542-iglesia-s. f. religion conjunto de las personas que profesan el catolicismo 
+543-igual-adj. que tiene la misma naturaleza, forma, calidad o aspecto que otra cosa 
+544-igualmente-adv. tambien, de la misma manera 
+545-imagen-s. f. filosofia idea o representacion mental de lo que se percibe por los sentidos 
+546-importa-v. intr. tener una cosa o persona interes para otra 
+547-importancia-s. f. valor o interes que para una persona presenta una situacion, una cosa u otra persona 
+548-importante-adj. que tiene importancia, que es de interes o valor 
+549-importantes-adj. que tiene importancia, que es de interes o valor 
+550-imposible-adj. que no puede ser, suceder o realizarse 
+551-impresion-f. surface track; 
+552-incluso-adj. que esta incluido en otra cosa 
+553-incluye-v. tr. poner una cosa dentro de otra 
+554-incremento-s. m. accion y resultado de incrementar o incrementarse. crecimiento 
+555-independencia-s. f. falta de dependencia 
+556-indica-v. tr. dar a entender una cosa con indicios y senhales 
+557-individuo-s. despectivo persona cuyo nombre y condicion se ignoran o no se quieren decir 
+558-industria-s. f. economia, industria conjunto de las actividades economicas desarrolladas para la obtencion de un producto a partir de materias primas. produccion 
+559-industrial-adj. industria de la industria 
+560-influencia-s. f. accion y resultado de influir 
+561-informe-s. m. accion y resultado de informar. informacion 
+562-informo-v. tr. dar noticias o datos de una cosa a una persona 
+563-iniciativa-s. f. idea o accion a la que despues se suman otras ajenas, favorables o contrarias, para decidir o hacer una cosa. proposicion, sugerencia 
+564-inmediatamente-adv. sin demora, al instante 
+565-inmediato-adj. se aplica al lugar que es contiguo o muy cercano a otro 
+566-instante-s. m. porcion muy breve de tiempo 
+567-instituciones-s. f. accion y resultado de instituir 
+568-instituto-s. m. corporacion cientifica, literaria o artistica. 
+569-inteligencia-s. f. facultad para comprender o entender las cosas. intelecto 
+570-intento-s. m. accion y resultado de intentar 
+571-interesante-adj./ s. m. y f. que interesa o es digno de interes 
+572-intereses- conjunto de bienes y propiedades de una persona 
+573-interior-adj. que esta, ocurre, se hace o se lleva dentro 
+574-internacional-adj. que tiene relacion con varias naciones o con el conjunto de todas ellas 
+575-internacionales-adj. que tiene relacion con varias naciones o con el conjunto de todas ellas 
+576-investigaciones-s. f. accion y resultado de investigar 
+577-ir-v. intr. y prnl. moverse en el espacio hacia el lugar que se expresa 
+578-isla-s. f. geografia porcion de tierra rodeada de agua por todas partes 
+579-izquierda-s. f. anatomia extremidad del cuerpo situada en el lado del corazon 
+580-jefe-s. persona que ocupa el cargo superior de un cuerpo u oficio 
+581-jornada-s. f. duracion del trabajo diario 
+582-joven-adj./ s. m. y f. se aplica a la persona que esta en la juventud 
+583-juan-s. m. coloquial en la expresion don juan, se usa para designar al hombre audaz y mujeriego. tenorio 
+584-juego-s. m. accion y resultado de jugar. 
+585-juegos-s. m. accion y resultado de jugar. 
+586-jueves-s. m. dia de la semana, entre el miercoles y el viernes. 
+587-juez-s. derecho persona que tiene autoridad y potestad para juzgar y sentenciar en los tribunales de justicia 
+588-jugador-adj./ s. juegos que participa en un juego 
+589-jugadores-adj./ s. juegos que participa en un juego 
+590-jugar-v. intr. juegos, deportes hacer una persona cosas con la finalidad de divertirse o entretenerse 
+591-juicio-s. m. facultad para distinguir lo verdadero de lo falso y el bien del mal 
+592-junta-s. f. reunion de personas para tratar un asunto de su incumbencia, sobre el que tienen capacidad de decision o que afecta a la entidad u organismo al que pertenecen 
+593-junto-adj. que esta reunido 
+594-justicia-s. f. virtud que consiste en actuar de manera justa, dando a cada persona lo que le pertenece o corresponde. equidad 
+595-justo-adj. que actua con justicia, siguiendo la ley o la moral 
+596-juventud-s. f. edad o etapa de la vida entre la pubertad y la madurez 
+597-la-art. gramatica indica el genero femenino y el numero singular de la palabra a la que acompanha 
+598-labios-s. m. anatomia cada uno de los dos bordes carnosos que forman la abertura de la boca 
+599-labor-s. f. accion y resultado de trabajar 
+600-lado-s. m. parte de un todo que se contrapone a la otra 
+601-larga-s. f. pedazo de suela o fieltro que ponen los zapateros en la parte posterior de la horma para que salga mas largo el zapato. 
+602-largo-adj. que tiene mucha longitud 
+603-leche-s. f. fisiologia liquido blanco producido y segregado por los pechos de las hembras de los mamiferos para alimentar a sus crias, que se emplea tambien como alimento corriente. 
+604-lectura-s. f. accion y resultado de leer 
+605-leer-v. tr. e intr. dar una interpretacion a los caracteres de un texto escrito, pronunciandose o no las palabras representadas por estos caracteres 
+606-legal-adj. que esta regulado por la ley y se realiza conforme a ella 
+607-lejos-adv. en lugar distante 
+608-lengua-s. f. anatomia organo muscular movible situado en la cavidad de la boca y que sirve para percibir los sabores, deglutir y articular sonidos 
+609-lenguaje-s. m. lingüistica conjunto de sonidos articulados con que el hombre manifiesta lo que piensa o siente. 
+610-ley-s. f. fisica regla natural, constante e invariable a la que estan sometidos los fenomenos de la naturaleza 
+611-libertad-s. f. facultad humana de obrar y expresarse segun la propia voluntad y bajo la responsabilidad de uno mismo 
+612-libre-adj. que puede decidir lo que hace y el modo de hacerlo 
+613-libro-s. m. artes graficas conjunto de hojas escritas unidas o cosidas por uno de sus lados y cubiertas por tapas de carton u otro material. volumen 
+614-libros-s. m. artes graficas conjunto de hojas escritas unidas o cosidas por uno de sus lados y cubiertas por tapas de carton u otro material. volumen 
+615-lider-s. m. y f. persona que dirige, en especial un partido politico o una asociacion 
+616-liga-s. f. indumentaria y moda tira de tela elastica usada para sujetar las medias o los calcetines. 
+617-limites-v. tr. senhalar los limites de una cosa 
+618-lineas-adj. botanica, zoologia se aplica al organismo vegetal o animal con forma larga y estrecha 
+619-lista-s. f. trozo largo, estrecho y delgado de cualquier material 
+620-literatura-s. f. literatura arte que utiliza la palabra como medio de expresion, ajustandose a codigos esteticos que varian en los distintos periodos historicos, movimientos artisticos o autores individuales 
+621-llama-s. f. fisica masa gaseosa en combustion que despide luz y calor y se manifiesta sobre un cuerpo que arde 
+622-llamada-s. f. accion y resultado de llamar 
+623-llamar-v. tr. decir el nombre de una persona en voz alta para que venga o para advertirle de alguna cosa 
+624-llega-v. intr. alcanzar un lugar al que se va desde otro 
+625-llegada-s. f. accion y resultado de llegar 
+626-llegar-v. intr. alcanzar un lugar al que se va desde otro 
+627-llegaron-v. intr. alcanzar un lugar al que se va desde otro 
+628-llego-v. intr. alcanzar un lugar al que se va desde otro 
+629-llevaba-v. tr. tomar una persona una cosa consigo y hacerla llegar a un destino 
+630-llevado-v. tr. tomar una persona una cosa consigo y hacerla llegar a un destino 
+631-llevar-v. tr. tomar una persona una cosa consigo y hacerla llegar a un destino 
+632-llevo-v. tr. tomar una persona una cosa consigo y hacerla llegar a un destino 
+633-lo-art. indica el genero neutro de la palabra que acompanha 
+634-lograr-v. tr. obtener aquello que se busca o desea 
+635-logro-s. m. consecucion o cumplimiento de un objetivo 
+636-lucha-s. f. deportes pelea cuerpo a cuerpo entre dos o mas personas en la que cada uno forcejea con su adversario e intenta derribarlo 
+637-luego-adv. despues de este tiempo o momento 
+638-lugar-s. m. porcion de espacio que puede ocupar o que ocupa un cuerpo 
+639-lugares-s. m. porcion de espacio que puede ocupar o que ocupa un cuerpo 
+640-luna-s. f. astronomia satelite de la tierra visible por la noche debido a la luz que recibe del sol. 
+641-lunes-s. m. dia de la semana, entre el domingo y el martes. 
+642-luz-s. f. fisica radiacion que emitida por un cuerpo incide en la retina provocando la sensacion de vision. 
+643-madera-s. f. botanica parte solida de los arboles situada debajo de la corteza 
+644-madre-s. f. mujer o hembra que ha parido 
+645-maestro-adj. que tiene mucho merito o valor entre los de su clase 
+646-mal-adj. se usa solo ante sustantivo masculino 
+647-mama-s. f. familiar denominacion que se le da a la madre 
+648-manera-s. f. modo en que se hace o sucede una cosa 
+649-mano-s. f. anatomia parte del cuerpo humano que va desde la munheca hasta la punta de los dedos 
+650-manos- propiedad que se tiene sobre una cosa 
+651-mantener-v. tr. y prnl. cubrir las necesidades economicas de una persona, en especial las alimenticias 
+652-mantiene-v. tr. y prnl. cubrir las necesidades economicas de una persona, en especial las alimenticias 
+653-mar-s. m. o f. geografia masa de agua salada que cubre la mayor parte del planeta terrestre. pielago 
+654-marca-s. f. historia circunscripcion territorial y administrativa situada en las fronteras del imperio carolingio y que desempenhaba el papel de defensa militar 
+655-marcha-s. f. accion de marchar o marcharse. partida 
+656-marco-s. m. economia unidad monetaria de alemania y finlandia, sustituida en 2002 por el euro. 
+657-margen-s. m. o f. orilla de una cosa, en especial de un rio o de un camino 
+658-martes-s. m. dia de la semana, entre el lunes y el miercoles. 
+659-mas-conj. advers. pero, aunque 
+660-masa-s. f. mezcla espesa, blanda y consistente formada al deshacer en un liquido una sustancia solida o pulverizada 
+661-materia-s. f. fisica realidad fisica constituyente de los cuerpos, susceptible de tomar una forma determinada y constituida por moleculas que, a su vez, estan formadas por grupos de atomos 
+662-material-adj. de la materia 
+663-materiales-adj. de la materia 
+664-matrimonio-s. m. union entre dos personas realizada por medio de determinados ritos o formalidades legales 
+665-mayo-s. m. quinto mes del anho, entre abril y junio, en el calendario occidental, de treinta y un dias. 
+666-mayor-adj. que tiene mas tamanho o cantidad que otra cosa 
+667-mañana-parte del dia que transcurre desde el amanecer hasta el mediodia.
+668-media-s. f. mitad de algunas cosas, en especial de unidades de medida 
+669-medicina-s. f. medicina ciencia que estudia la prevencion, diagnostico y tratamiento de enfermedades del ser humano. 
+670-medida-s. f. accion y resultado de medir 
+671-medio-adj. que es igual a la mitad de un todo o de un entero 
+672-mejor-adj. que es superior o mas bueno 
+673-mejorar-v. tr. hacer que una cosa sea mejor de lo que era 
+674-mejores-v. tr. hacer que una cosa sea mejor de lo que era 
+675-memoria-s. f. sicologia capacidad para evocar hechos o experiencias del pasado 
+676-menor-adj. que tiene menos tamanho o cantidad que otra cosa 
+677-menores-adj. que tiene menos tamanho o cantidad que otra cosa 
+678-menos-adv. indica menor cantidad numerica o menor intensidad 
+679-mensaje-s. m. noticia o comunicacion de palabra, por escrito o por otro medio, que se hace llegar a una persona 
+680-mente-s. f. conjunto de las facultades y capacidades intelectuales del hombre. intelecto 
+681-mercado-s. m. comercio reunion o asistencia de gente a un lugar determinado, y en dias senhalados, para comprar y vender mercancias 
+682-mes-s. m. cada una de las doce partes en que se divide el anho 
+683-mesa-s. f. mueble formado por un tablero horizontal y uno o mas pies, destinado a usos domesticos, profesionales o de recreo 
+684-miedo-s. m. perturbacion angustiosa del animo debido a un peligro o un riesgo real o imaginario 
+685-miembro-s. m. anatomia cada una de las extremidades del cuerpo humano o animal. extremidad 
+686-miembros-s. m. anatomia cada una de las extremidades del cuerpo humano o animal. extremidad 
+687-mientras-conj. durante el tiempo en que, en el transcurso de 
+688-miercoles-s. m. dia de la semana, entre el martes y el jueves. 
+689-mil-adj.num./ s.m. que resulta de la multiplicacion de diez y cien. 
+690-militar-adj. militar de la milicia o de la guerra 
+691-militares-adj. militar de la milicia o de la guerra 
+692-millones-s. m. mil millares 
+693-ministerio-s. m. politica gobierno de un estado, considerado en el conjunto de departamentos en que se divide. gabinete 
+694-ministro-s. politica jefe de cada uno de los departamentos o ministerios en que se divide la gobernacion del estado 
+695-ministros-s. politica jefe de cada uno de los departamentos o ministerios en que se divide la gobernacion del estado 
+696-minutos-s. m. geometria parte que resulta de dividir un grado de circulo en sesenta partes iguales 
+697-mio-adj./ pron. pos. que pertenece a la persona que habla 
+698-mira-s. f. tecnologia pieza de algunos instrumentos que sirve para dirigir la vista 
+699-mirada-s. f. accion y resultado de mirar 
+700-miro-v. tr., intr. y prnl. fijar o dirigir la vista con atencion 
+701-mismas-adj. que es una sola persona o cosa en distintos casos 
+702-mismo-adj. que es una sola persona o cosa en distintos casos 
+703-mismos-adj. que es una sola persona o cosa en distintos casos 
+704-mitad-s. f. cada una de las dos partes iguales en que se divide un todo 
+705-modelo-s. m. cosa que ha de servir de objeto de imitacion 
+706-modo-s. m. forma de ser, de hacer o de manifestarse una cosa 
+707-momento-s. m. espacio breve de tiempo 
+708-momentos-s. m. espacio breve de tiempo 
+709-moral-adj. de las costumbres o de las reglas de conducta humanas 
+710-morir-v. intr. y prnl. dejar de vivir o perder la vida una persona o un animal 
+711-motivo-adj. que mueve o sirve para mover. 
+712-movimiento-s. m. accion y resultado de mover, moverse o ser movido 
+713-movimientos-s. m. accion y resultado de mover, moverse o ser movido 
+714-mucha-adj. indef. que es abundante o sobrepasa la medida de lo normal o lo ordinario 
+715-mucho-adj. indef. que es abundante o sobrepasa la medida de lo normal o lo ordinario 
+716-muerte-s. f. finalizacion de la vida 
+717-muerto-adj./ s. se refiere a la persona que ha dejado de vivir 
+718-muertos-adj./ s. se refiere a la persona que ha dejado de vivir 
+719-muestra-s. f. pedazo o porcion de un producto que da a conocer las cualidades del mismo. ejemplar 
+720-mujer-s. f. persona del sexo femenino 
+721-mujeres-s. f. persona del sexo femenino 
+722-mundial-adj. que afecta al mundo 
+723-mundo-s. m. conjunto de todo lo que existe 
+724-municipal-adj. administracion que tiene relacion con los municipios en general o uno determinado 
+725-museo-s. m. arte edificio o local donde se guardan y exponen obras de arte o colecciones de objetos de interes 
+726-musica-adj. de la musica. musical 
+727-muy-adv. en gran medida, mucho 
+728-nacion-s. f. politica conjunto de habitantes de un pais regido por el mismo gobierno. pueblo 
+729-nacional-adj. de la nacion 
+730-nacionales-adj. de la nacion 
+731-naciones-s. f. politica conjunto de habitantes de un pais regido por el mismo gobierno. pueblo 
+732-nada-pron. indef. ninguna cosa, ninguna cantidad ni medida 
+733-nadie-pron. indef. ninguna persona 
+734-natural-adj. de la naturaleza o que ha sido producido por ella 
+735-naturales-adj. de la naturaleza o que ha sido producido por ella 
+736-naturaleza-s. f. conjunto de la realidad material existente, entendida como unidad o sistema dotado de leyes propias, al margen de la intervencion humana. 
+737-necesario-adj. que es indispensable para que suceda una cosa o para un fin 
+738-necesidad-s. f. cualquier cosa que resulta indispensable para que algo suceda, exista o para un fin 
+739-necesita-v. tr. e intr. tener una persona un animal o una cosa necesidad de lo que se expresa 
+740-negocio-s. m. comercio operacion o transaccion comercial con la que se espera obtener un beneficio 
+741-negro-adj./ s. m. se aplica al color acromatico que se atribuye a objetos opacos absorbentes, que resulta de la ausencia de los colores del espectro solar 
+742-ni-conj. cop. indica union o agrupacion de palabras u oraciones negativas 
+743-ninguno-adj. indef. ni uno 
+744-nivel-s. m. tecnologia instrumento que se usa para comprobar la horizontalidad o la verticalidad de un plano y para determinar la diferencia de altura entre dos puntos 
+745-niveles-v. tr. comprobar la horizontalidad de una cosa con el nivel 
+746-niña-persona que esta en el periodo de la ninhez.
+747-niño-persona que esta en el periodo de la ninhez.
+748-niños-persona que esta en el periodo de la ninhez.
+749-no-adv. se usa respondiendo a una pregunta negandola 
+750-noche-s. f. tiempo en el que falta la luz solar, comprendido entre la puesta y la salida del sol 
+751-noches-s. f. tiempo en el que falta la luz solar, comprendido entre la puesta y la salida del sol 
+752-nombre-s. m. palabra que designa los objetos fisicos, siquicos o ideales 
+753-nombres-s. m. palabra que designa los objetos fisicos, siquicos o ideales 
+754-normal-adj. que no se sale de lo que es habitual 
+755-normas-s. f. regla, criterio o manera para hacer una cosa o para comportarse de una forma determinada 
+756-norte-s. m. punto cardinal del horizonte, situado frente a un observador a cuya derecha esta el este 
+757-norteamericano-adj. de america del norte. 
+758-nos-pron. pers. a nosotros, para nosotros 
+759-nosotros-pron. pers. forma del pronombre personal de primera persona del plural 
+760-nota-s. f. escrito breve hecho para recordar una cosa o como resumen para un desarrollo posterior 
+761-noticia-s. f. comunicacion de un acontecimiento, por lo general reciente 
+762-novela-s. f. literatura obra literaria en prosa, en general extensa, en la que se narra una historia, por completo o en parte ficticia, y se describen los sucesos y vicisitudes que rodean a unos personajes. 
+763-nuestra-adj./ pron. pos. de nosotros 
+764-nuestras-adj./ pron. pos. de nosotros 
+765-nuestro-adj./ pron. pos. de nosotros 
+766-nueva-s. f. noticia o informacion que no se conocia antes 
+767-nueve-adj.num./ s.m. que resulta de la suma de ocho mas uno. 
+768-nuevo-adj. que se acaba de hacer, producir o conocer 
+769-nuevos-adj. que se acaba de hacer, producir o conocer 
+770-nunca-adv. en ningun tiempo, momento u ocasion 
+771-objetivo-adj. que expresa la realidad de manera imparcial 
+772-objetivos-adj. que expresa la realidad de manera imparcial 
+773-objeto-s. m. cosa material y concreta, por lo general de dimensiones reducidas 
+774-objetos-s. m. cosa material y concreta, por lo general de dimensiones reducidas 
+775-obra-s. f. cosa hecha o producida por una persona 
+776-obstante-loc. conj. indica sin embargo en la expresion no obstante 
+777-obtener-v. tr. conseguir una cosa que se merece o solicita 
+778-ocasiones-v. tr. ser causa o motivo de una cosa 
+779-ocho-adj.num./ s.m. que resulta de la suma de siete mas uno 
+780-ocurre-v. intr. producirse un hecho 
+781-oferta-s. f. comercio situacion ocasional en la que se ofrece un producto en unas condiciones ventajosas o a un precio inferior al habitual 
+782-oficial-adj. del gobierno o que proviene de el 
+783-oficiales-adj. del gobierno o que proviene de el 
+784-oficina-s. f. lugar donde se realizan trabajos de administracion y gestion 
+785-ofrece-v. tr. y prnl. presentar y dar de forma voluntaria una cosa a una persona 
+786-ojo-s. m. anatomia organo de la vista en los hombres y los animales, que permite captar la luz y las formas de las imagenes. 
+787-operaciones-s. f. accion y resultado de operar. 
+788-oportunidad-s. f. caracter de aquello que es oportuno. 
+789-oposicion-s. f. accion y resultado de oponer u oponerse. 
+790-orden-s. m. colocacion cuidadosa de un conjunto de cosas, asignando a cada una un lugar o posicion determinada 
+791-organismo-s. m. biologia conjunto de organos y funciones del cuerpo animal o vegetal 
+792-organismos-s. m. biologia conjunto de organos y funciones del cuerpo animal o vegetal 
+793-organizaciones-s. f. accion y resultado de organizar u organizarse. 
+794-origen-s. m. causa o motivo que esta en el principio de una cosa 
+795-original-adj. del origen. 
+796-oro-s. m. mineralogia, quimica metal precioso, amarillo, ductil y maleable, muy pesado, que se usa en joyeria y en la fabricacion de monedas 
+797-os-pron. pers. a vosotros, para vosotros 
+798-otra-adj. se aplica a la persona o cosa distinta de la que se habla 
+799-otras-adj. se aplica a la persona o cosa distinta de la que se habla 
+800-otro-adj. se aplica a la persona o cosa distinta de la que se habla 
+801-paciente-adj. que tiene paciencia 
+802-pacientes-adj. que tiene paciencia 
+803-padre-s. m. hombre o animal que ha tenido descendencia 
+804-pagar-v. tr. comercio dar a una persona dinero u otra cosa que se le debe 
+805-pago-s. m. comercio entrega de dinero u otra cosa equivalente que se debe por haber recibido con antelacion algun servicio, trabajo, objeto o por cualquier otra causa 
+806-pais-s. m. administracion, geografia, politica territorio limitado de forma natural o artificial, que constituye una unidad geografica, politica o historica 
+807-palabra-s. f. lingüistica sonido o conjunto de sonidos que forman una unidad de significado o expresan una idea. 
+808-palacio-s. m. casa grande y lujosa, propia de monarcas y nobles. 
+809-pan-s. m. cocina masa de harina, si no se especifica otro grano, de trigo, levadura y agua, cocida al horno despues de fermentar, que sirve de alimento 
+810-papel-s. m. hoja delgada y flexible hecha con fibra de madera, trapos o paja que se blanquea, seca y endurece y que sirve para escribir o envolver, entre otros muchos usos 
+811-par-adj. igual o semejante a otro en cantidad, calidad u otra caracteristica 
+812-para-prep. indica el termino justo de una accion 
+813-parece-s. m. opinion o idea que una persona se forma sobre un asunto o sobre otra persona 
+814-parecen-s. m. opinion o idea que una persona se forma sobre un asunto o sobre otra persona 
+815-parecer-s. m. opinion o idea que una persona se forma sobre un asunto o sobre otra persona 
+816-pareja-s. f. conjunto de dos personas o animales, en especial el formado por macho y hembra 
+817-parlamento-s. m. politica institucion politica constituida por una asamblea encargada de aprobar las leyes y controlar la actividad del gobierno 
+818-parque-s. m. lugar de recreo publico o privado, con arbolado y plantas ornamentales 
+819-parte-s. f. porcion indeterminada de un todo 
+820-partes-v. tr. dividir una cosa en dos o mas partes 
+821-particular-adj. que pertenece a una determinada persona 
+822-partido-adj. que reparte con otros lo que tiene 
+823-partidos-v. tr. dividir una cosa en dos o mas partes 
+824-partir-v. tr. dividir una cosa en dos o mas partes 
+825-pasa-s. f. cocina uva seca elaborada por diferentes procedimientos, que se consume como golosina o para acompanhar o condimentar algunos guisos o postres 
+826-pasada-s. f. cada capa de una sustancia que se aplica a una superficie 
+827-pasado-adj. que pertenece a un tiempo anterior al presente 
+828-pasar-v. tr. llevar una cosa de un lugar a otro 
+829-paso-adj. se aplica a la fruta desecada al sol 
+830-paso-adj. se aplica a la fruta desecada al sol 
+831-pasos-adj. se aplica a la fruta desecada al sol 
+832-paz-s. f. estado de calma y tranquilidad, sin molestias, disputas u otras circunstancias que causen malestar 
+833-pelicula-f. film, movie; 
+834-peligro-s. m. riesgo de que suceda algun mal de forma inminente 
+835-pelo-s. m. anatomia filamento de naturaleza cornea que nace y crece entre los poros de la piel de los mamiferos. 
+836-pena-s. f. tristeza o aflicrecion profunda 
+837-pensamiento-s. m. facultad de pensar 
+838-pensar-v. tr. e intr. representarse en la mente la imagen de una cosa 
+839-peor-adj. que es de mala condicion o de inferior calidad respecto de otra cosa con que se compara 
+840-pequeña-que tiene un tamanho menor de lo normal.
+841-pequeñas-que tiene un tamanho menor de lo normal.
+842-pequeño-que tiene un tamanho menor de lo normal.
+843-pequeños-que tiene un tamanho menor de lo normal.
+844-perder-v. tr. dejar de tener una persona una cosa 
+845-perdido-adj. que no tiene o no lleva destino determinado 
+846-periodo-s. m. espacio de tiempo 
+847-permanente-adj. que permanece 
+848-permite-v. tr. y prnl. dejar que una persona haga una cosa o no oponerse a que la haga 
+849-pero-s. m. botanica variedad de manzano de fruto alargado. 
+850-persona-s. f. individuo de la especie humana 
+851-personaje-s. m. persona importante o destacada 
+852-personajes-s. m. persona importante o destacada 
+853-personal-adj. de la persona o propio de ella. 
+854-personalidad-s. f. modo de ser o de comportarse una persona que se distingue de las demas y que constituyen su individualidad 
+855-perspectiva-s. f. arte tecnica de representar en un plano los objetos tal como aparecen a la vista dando sensacion de profundidad. 
+856-pesar-s. m. sentimiento de dolor que abate el animo 
+857-pesetas-s. f. economia unidad monetaria de espanha y de andorra, sustituida en 2002 por el euro. 
+858-peso-s. m. fisica fuerza que resulta de la accion de la gravedad sobre un cuerpo. 
+859-pesos-s. m. fisica fuerza que resulta de la accion de la gravedad sobre un cuerpo. 
+860-pie-s. m. anatomia parte inferior articulada del extremo de la pierna del hombre que se apoya en el suelo y le permite caminar y mantenerse derecho 
+861-piedra-s. f. geologia mineral duro y compacto, que no tiene aspecto terroso ni metalico. 
+862-piel-s. f. anatomia capa de tejido resistente y flexible que recubre el cuerpo de los hombres y de los animales 
+863-piensa-v. tr. e intr. representarse en la mente la imagen de una cosa 
+864-piezas-s. f. pedazo o parte de una cosa, en especial las diferentes partes que componen una maquina o un conjunto 
+865-pintura-s. f. pintura arte de plasmar imagenes por medio del color y el dibujo segun diferentes tecnicas. 
+866-piso-s. m. superficie natural o artificial de un terreno 
+867-plan-s. m. conjunto de actividades con el que se lleva o se pretende llevar a cabo alguna accion 
+868-planes-s. m. conjunto de actividades con el que se lleva o se pretende llevar a cabo alguna accion 
+869-plano-s. m. representacion grafica de la superficie de un terreno, de un edificio o de una maquina 
+870-planta-s. f. anatomia parte inferior del pie, con que se pisa y sobre la que se sostiene el cuerpo. 
+871-plata-s. f. quimica metal precioso, blanco, brillante, ductil y maleable, usado en orfebreria y joyeria. 
+872-plaza-s. f. espacio amplio de una poblacion en el que suelen confluir varias calles 
+873-plazo-s. m. tiempo senhalado para que en el se realice una cosa 
+874-pleno-adj. que es total o completo 
+875-pobre-adj./ s. m. y f. que no tiene lo necesario para vivir 
+876-pobres-adj./ s. m. y f. que no tiene lo necesario para vivir 
+877-pocas-adj. indef. que es escaso en cantidad o numero 
+878-poco-adj. indef. que es escaso en cantidad o numero 
+879-podemos-s. m. facultad o capacidad para hacer una cosa 
+880-poder-s. m. facultad o capacidad para hacer una cosa 
+881-podido-s. m. facultad o capacidad para hacer una cosa 
+882-podra-v. tr. y prnl. hacer una cosa que una sustancia organica se altere o se descomponga 
+883-poesia-s. f. literatura, poesia arte de expresar la belleza o los sentimientos por medio de la palabra, por lo general en verso, siguiendo procedimientos como el ritmo, la cadencia, la medida y figuras literarias. 
+884-poeta-s. m. y f. literatura, poesia persona que compone obras poeticas 
+885-policia-s. f. administracion fuerza publica encargada de velar por el orden publico y la seguridad ciudadana y conjunto de los agentes que la integran 
+886-politica-s. f. politica actividad o arte de gobernar un estado u otra comunidad. 
+887-politico-adj. politica de la politica 
+888-poner-v. tr. y prnl. colocar en un lugar a una persona o una cosa 
+889-por-prep. indica causa, finalidad u objetivo, asi como el agente en las oraciones pasivas 
+890-porque-conj. indica causa, fundamento o motivo 
+891-portavoz-s. m. y f. persona que por tener autoridad en una escuela, secta u otro grupo, lo representa y habla en nombre del mismo 
+892-posibilidad-s. f. circunstancia de ser una cosa posible, que puede existir, ocurrir o que se puede realizar 
+893-posible-adj. que puede suceder 
+894-practicamente-adv. casi, en realidad 
+895-precio-s. m. cantidad de dinero en que se estima una cosa 
+896-precios-s. m. cantidad de dinero en que se estima una cosa 
+897-precisamente-adv. con exactitud o precision 
+898-preciso-adj. que se necesita para un fin 
+899-pregunta-s. f. expresion con que se pide a otro que diga lo que sabe o piensa sobre una cosa 
+900-preguntas-v. tr. pedir una persona a otra que le resuelva una duda o le diga lo que sabe sobre un asunto 
+901-premio-s. m. recompensa, galardon o remuneracion que se concede a una persona por algun merito o servicio 
+902-prensa-s. f. tecnologia maquina de forma variable segun su uso, capaz de ejercer una fuerte presion sobre lo que se coloca entre sus piezas para comprimirlo, exprimirlo o estampar o imprimir una cosa. 
+903-presencia-s. f. asistencia o estado de la persona o cosa que se halla delante de otra u otras o en el mismo sitio que ellas 
+904-presenta-v. tr. y prnl. poner una cosa en presencia de una o varias personas 
+905-presentan-v. tr. y prnl. poner una cosa en presencia de una o varias personas 
+906-presentar-v. tr. y prnl. poner una cosa en presencia de una o varias personas 
+907-presente-adj. que esta en el mismo sitio del que habla o del que se habla 
+908-presento-v. tr. y prnl. poner una cosa en presencia de una o varias personas 
+909-presidencia-s. f. dignidad, empleo o cargo de presidente o presidenta 
+910-presidente-adj./ s. que preside 
+911-presupuesto-s. m. computo anticipado del coste de una obra o de los gastos de una institucion 
+912-pretende-v. tr. desear hacer o conseguir una cosa 
+913-primera-s. f. juegos juego de naipes en que las cartas tienen otros valores que no son los suyos, se reparten cuatro a cada jugador y se gana con el flux. 
+914-primeras-adj.num./ s. que precede en orden a todos los demas 
+915-primero-adj.num./ s. que precede en orden a todos los demas 
+916-primeros-adj.num./ s. que precede en orden a todos los demas 
+917-principal-adj. que ocupa el primer lugar en estimacion o importancia y destaca sobre el resto 
+918-principales-adj. que ocupa el primer lugar en estimacion o importancia y destaca sobre el resto 
+919-principio-s. m. primer instante del ser de una persona o cosa 
+920-principios-s. m. primer instante del ser de una persona o cosa 
+921-privada-s. f. retrete o excusado donde se efectuan las necesidades fisiologicas. 
+922-privado-adj. que carece de alguna cosa 
+923-problema-s. m. cuestion que se trata de aclarar o resolver 
+924-procedimiento-s. m. accion de proceder 
+925-proceso-s. m. desarrollo o curso que sigue una cosa en su realizacion 
+926-produce-v. tr. biologia generar un ser vivo otro a partir de si mismo. 
+927-producir-v. tr. biologia generar un ser vivo otro a partir de si mismo. 
+928-producto-s. m. cosa o conjunto de cosas producidas 
+929-produjo-v. tr. biologia generar un ser vivo otro a partir de si mismo. 
+930-profesional-adj. oficios y profesiones de la profesion 
+931-profesionales-adj. oficios y profesiones de la profesion 
+932-profesor-s. ensenhanza, oficios y profesiones persona que ejerce o ensenha una ciencia o arte 
+933-programa-s. m. exposicion ordenada de las partes de que se compone una actividad 
+934-programas-v. tr. exponer las partes que componen una actividad 
+935-pronto-adj. que es rapido o veloz 
+936-propia-adj. que es propiedad de una persona 
+937-propias-adj. que es propiedad de una persona 
+938-propiedad-s. f. derecho de poseer una cosa y poder disponer de ella segun la legalidad y la propia voluntad. posesion 
+939-propio-adj. que es propiedad de una persona 
+940-propios-adj. que es propiedad de una persona 
+941-propuesta-s. f. idea que se propone a otros para que sea puesta en practica si se considera acertada 
+942-provincia-s. f. administracion, politica cada una de las grandes divisiones de un territorio o estado, sujeta por lo comun a una autoridad administrativa. departamento 
+943-proxima-adj. que esta cerca, respecto al punto espacial o temporal, desde donde se considera 
+944-proyecto-adj. geometria que esta representado en perspectiva. 
+945-proyectos-adj. geometria que esta representado en perspectiva. 
+946-prueba-s. f. accion y resultado de probar 
+947-pruebas-s. f. accion y resultado de probar 
+948-publica-adj. que es conocido por todos 
+949-publicas-v. tr. hacer una cosa publica 
+950-publicidad-s. f. circunstancia de ser una cosa publica, conocida por todos o casi todos, u ofrecida al conocimiento de la gente 
+951-pudiera-s. m. facultad o capacidad para hacer una cosa 
+952-pueblo-s. m. administracion poblacion pequenha 
+953-pueda-s. m. facultad o capacidad para hacer una cosa 
+954-puedan-s. m. facultad o capacidad para hacer una cosa 
+955-pueden-s. m. facultad o capacidad para hacer una cosa 
+956-puerta-s. f. construccion abertura en una pared, valla o en otro lugar para pasar de un lado a otro de ella 
+957-puerto-s. m. nautica lugar en la costa protegido de los vientos y preparado para que los barcos amarren, carguen y descarguen sus mercancias 
+958-pues-conj. indica causa, motivo o razon 
+959-puesto-adj. que esta vestido o arreglado de determinada manera 
+960-puestos-adj. que esta vestido o arreglado de determinada manera 
+961-punto-s. m. senhal o dibujo redondeado y pequenho, perceptible en una superficie 
+962-puntos-s. m. senhal o dibujo redondeado y pequenho, perceptible en una superficie 
+963-puso-v. tr. y prnl. colocar en un lugar a una persona o una cosa 
+964-que-pron. relat. el cual, lo cual, los cuales, las cuales 
+965-queda-s. f. hora establecida de la tarde o de la noche para que los habitantes de una poblacion se retiren a sus casas, como se hace en tiempos de guerra o de situaciones anormales 
+966-quedan-v. intr. y prnl. permanecer en un lugar de modo forzoso o voluntario 
+967-quedo-adj. silencioso, sin hacer ruido 
+968-querido-s. persona que mantiene relaciones amorosas con otra cuando una o ambas hacen vida de pareja con otra persona. amado, amante, querendon 
+969-quien-pron. relat. la persona que 
+970-quien-pron. relat. la persona que 
+971-quiere-s. m. carinho, amor que se siente hacia una persona. 
+972-quieren-s. m. carinho, amor que se siente hacia una persona. 
+973-quieres-s. m. carinho, amor que se siente hacia una persona. 
+974-quiero-s. m. carinho, amor que se siente hacia una persona. 
+975-quince-adj.num./ s.m. se aplica al numero que resulta de la suma de diez mas cinco. 
+976-quiso-s. m. carinho, amor que se siente hacia una persona. 
+977-radio-s. m. geometria distancia o linea recta que une un punto de una circunferencia o de la superficie de una esfera con su centro. 
+978-real-adj. del rey, de la reina o de la realeza 
+979-realidad-s. f. existencia real y objetiva de las cosas. 
+980-realiza-v. tr. y prnl. hacer o llevar a cabo una cosa 
+981-realizacion-s. f. accion y resultado de realizar una cosa. 
+982-realizar-v. tr. y prnl. hacer o llevar a cabo una cosa 
+983-realizo-v. tr. y prnl. hacer o llevar a cabo una cosa 
+984-recibido-adj. amer. ensenhanza que ha terminado un ciclo de estudios. 
+985-recibir-v. tr. llegar a una persona una cosa que le dan o envian 
+986-reciente-adj. que ha sucedido hace poco tiempo 
+987-reconocimiento-s. m. accion y resultado de reconocer 
+988-recordar-v. tr. e intr. tener en la memoria o retener una cosa en la mente 
+989-recuerda-v. tr. e intr. tener en la memoria o retener una cosa en la mente 
+990-recuerdo-s. m. accion y resultado de recordar. 
+991-recursos-escasez riquezas o bienes 
+992-red-s. f. caza, pesca especie de tejido hecho con hilo, cuerda o alambres entrelazados, usado para pescar, cazar, envolver u otras cosas 
+993-referencia-s. f. accion y resultado de referir o referirse 
+994-refiere-v. tr. dar a conocer de palabra o por escrito un hecho 
+995-reforma-s. f. accion y resultado de reformar o reformarse. 
+996-regiones-s. f. geografia territorio determinado por unas mismas condiciones fisicas o humanas 
+997-reina-s. f. historia, politica, sociologia mujer que ejerce la potestad real por derecho propio 
+998-reino-s. m. historia, politica, sociologia territorio o estado bajo la autoridad de un rey o de una reina. 
+999-representa-v. tr. y prnl. hacer ver o conocer una cosa a una persona con palabras o gestos 
+1000-representacion-s. f. accion y resultado de representar o representarse. 
+1001-representantes-adj. que representa. 
+1002-republica-s. f. historia, politica, sociologia forma de gobierno en la que los poderes del jefe del estado o presidente provienen de la voluntad popular expresada a traves de su eleccion 
+1003-requiere-v. tr. derecho pedir una cosa la autoridad 
+1004-resistencia-s. f. accion y resultado de resistir o resistirse. aguante 
+1005-resolver-v. tr. encontrar la solucion a una duda o un problema 
+1006-respecto-s. m. relacion o proporcion de una cosa en relacion a otra. 
+1007-respeto-s. m. actitud considerada hacia las personas o las cosas 
+1008-responsabilidad-s. f. circunstancia de ser una persona responsable de otra o de alguna cosa 
+1009-responsable-adj./ s. m. y f. que tiene a su cargo a una persona o una cosa 
+1010-responsables-adj./ s. m. y f. que tiene a su cargo a una persona o una cosa 
+1011-respuesta-s. f. accion y resultado de responder 
+1012-resto-s. m. parte que queda de un todo 
+1013-resulta-s. f. resultado de una accion o un suceso. consecuencia 
+1014-resultado-s. m. efecto y consecuencia de una cosa 
+1015-revista-s. f. periodismo publicacion periodica con articulos que tratan o informan de una o varias materias 
+1016-revolucion-s. f. accion y resultado de revolver o revolverse. 
+1017-rey-s. m. monarca o principe soberano de un reino o estado 
+1018-reyes-s. m. monarca o principe soberano de un reino o estado 
+1019-rico-adj./ s. que tiene dinero o riquezas 
+1020-riesgo-s. m. posibilidad de un danho, perjuicio o inconveniente 
+1021-rio-s. m. geografia corriente continua de agua que va a desembocar a otra, a un lago o al mar 
+1022-ritmo-s. m. musica manera mas o menos armoniosa de combinarse los tiempos entre un movimiento y otro, en musica. compas 
+1023-rojo-adj. del color de la sangre o del tomate maduro. 
+1024-ropa-s. f. indumentaria y moda prenda de vestir o conjunto de ellas 
+1025-rosa-s. f. botanica flor del rosal con muchos petalos y aromatica 
+1026-rostro-s. m. parte anterior de la cabeza de una persona 
+1027-sabado-s. m. dia de la semana entre el viernes y el domingo. 
+1028-sabe-s. m. conocimiento profundo de una o mas materias 
+1029-sabemos-s. m. conocimiento profundo de una o mas materias 
+1030-saben-s. m. conocimiento profundo de una o mas materias 
+1031-saber-s. m. conocimiento profundo de una o mas materias 
+1032-sabes-s. m. conocimiento profundo de una o mas materias 
+1033-sabia-adj./ s. se aplica a la persona que tiene conocimientos extensos y profundos 
+1034-sacar-v. tr. poner una cosa fuera del lugar donde estaba metida u oculta 
+1035-sal-s. f. cocina sustancia blanca, cristalina y de sabor caracteristico, compuesta de cloro y sodio, usada como condimento 
+1036-sala-s. f. habitacion principal de una vivienda, donde se reciben las visitas 
+1037-salida-s. f. accion y resultado de salir o salirse. 
+1038-salio-adj. historia de un antiguo pueblo franco que habitaba en las tierras germanicas inferiores, antes de la unificacion. 
+1039-salir-v. intr. y prnl. pasar de dentro a fuera 
+1040-salon-s. m. sala grande para celebrar fiestas, reuniones publicas o actos institucionales 
+1041-salud-s. f. estado en que se encuentra el organismo de un ser vivo en relacion al cumplimiento de sus funciones vitales 
+1042-salvador-adj./ s. que salva 
+1043-salvo-adj. que ha salido ileso de un peligro 
+1044-san-adj. religion se aplica a la persona que ha sido canonizada por la iglesia, antepuesto a nombres propios de varon a excepcion de tomas, tome, domingo y toribio. 
+1045-sangre-s. f. fisiologia liquido de color rojo que circula por las venas, arterias, capilares y corazon de los animales vertebrados y que transporta oxigeno y elementos nutritivos a los tejidos y los residuos de las celulas del organismo. 
+1046-santo-adj. que es perfecto y libre de toda culpa 
+1047-se-pron. pers. a o para el mismo 
+1048-sean-s. m. cualquier cosa, animada o inanimada, material o inmaterial 
+1049-secretario-s. oficios y profesiones persona que se ocupa de realizar tareas administrativas en una empresa, organismo o para una sola persona 
+1050-secreto-adj. que se oculta para que solo lo conozcan o sepan pocas personas 
+1051-sector-s. m. administracion parte de una ciudad, local grande u otro lugar 
+1052-sectores-s. m. administracion parte de una ciudad, local grande u otro lugar 
+1053-sede-s. f. administracion domicilio principal de un organismo publico o privado 
+1054-seguir-v. tr. e intr. ir una persona o una cosa despues o detras de otra 
+1055-segunda-s. f. vuelta doble que se da en las cerraduras. 
+1056-segundo-adj.num./ s. que ocupa el lugar numero dos en una serie 
+1057-seguridad-s. f. cualidad de seguro. 
+1058-seguro-adj. que no corre ningun peligro o riesgo 
+1059-seis-adj.num./ s.m. que resulta de la suma de cinco y uno. 
+1060-semana-s. f. serie de siete dias naturales consecutivos, empezando por el domingo y acabando por el sabado 
+1061-semanas-s. f. serie de siete dias naturales consecutivos, empezando por el domingo y acabando por el sabado 
+1062-sentido-adj. que incluye o demuestra un sentimiento sincero 
+1063-sentir-s. m. opinion o parecer de alguien. 
+1064-ser-s. m. cualquier cosa, animada o inanimada, material o inmaterial 
+1065-seres-s. m. cualquier cosa, animada o inanimada, material o inmaterial 
+1066-seria-adj. se refiere a la persona que es poco propensa a reirse y a manifestar alegria. alegre  
+1067-serie-s. f. conjunto de cosas relacionadas entre si y que se suceden unas a otras 
+1068-serio-adj. se refiere a la persona que es poco propensa a reirse y a manifestar alegria. alegre  
+1069-servicio-s. m. accion y resultado de servir 
+1070-sexo-s. m. biologia condicion organica que distingue al macho de la hembra dentro de una misma especie. 
+1071-sexual-adj. biologia del sexo 
+1072-señala-indicar, mostrar o llamar la atencion sobre una cosa o una persona, especialmente dirigiendo el dedo, la mano o un puntero hacia ella.
+1073-señalo-indicar, mostrar o llamar la atencion sobre una cosa o una persona, especialmente dirigiendo el dedo, la mano o un puntero hacia ella.
+1074-señor-persona adulta.
+1075-señora-persona adulta.
+1076-si-conj. cond. indica condicion o suposicion 
+1077-sido-s. m. cualquier cosa, animada o inanimada, material o inmaterial 
+1078-siempre-adv. en todo tiempo 
+1079-siendo-s. m. cualquier cosa, animada o inanimada, material o inmaterial 
+1080-siente-s. m. opinion o parecer de alguien. 
+1081-siete-adj.num./ s.m. que resulta de la suma de seis y uno. 
+1082-siglo-s. m. periodo de cien anhos 
+1083-significa-v. tr. ser una cosa signo o referencia de otra 
+1084-sigue-v. tr. e intr. ir una persona o una cosa despues o detras de otra 
+1085-siguen-v. tr. e intr. ir una persona o una cosa despues o detras de otra 
+1086-siguiente-adj./ s. m. y f. que sigue en orden, espacio o tiempo 
+1087-siguientes-adj./ s. m. y f. que sigue en orden, espacio o tiempo 
+1088-silencio-s. m. abstencion de hablar 
+1089-simple-adj. que es sencillo o poco complicado 
+1090-simplemente-adv. con simpleza o sencillez 
+1091-sin-prep. indica privacion o carencia 
+1092-siquiera-conj. conces. aunque 
+1093-sirve-v. intr. y tr. trabajar una persona para otra que le manda o paga 
+1094-sistema-s. m. conjunto ordenado de normas o procedimientos que contribuyen a un fin o con que funciona o se hace funcionar una cosa 
+1095-sistemas-s. m. conjunto ordenado de normas o procedimientos que contribuyen a un fin o con que funciona o se hace funcionar una cosa 
+1096-sitio-s. m. espacio que es ocupado o puede serlo por una persona, un animal o una cosa 
+1097-situaciones-s. f. accion y resultado de situar o situarse. 
+1098-social-adj. sociologia de la sociedad humana y de las relaciones entre sus miembros 
+1099-sociales-adj. sociologia de la sociedad humana y de las relaciones entre sus miembros 
+1100-socialista-adj./ s. m. y f. politica que es partidario del socialismo. 
+1101-socialistas-adj./ s. m. y f. politica que es partidario del socialismo. 
+1102-sociedad-s. f. sociologia el conjunto de seres humanos como individuos que conviven y se relacionan unos con otros. humanidad 
+1103-sol-s. m. astronomia estrella que ilumina y da calor al planeta tierra, situada en el centro del sistema planetario en el que esta se encuentra. 
+1104-sola-adj. que es unico en su especie. 
+1105-solamente-adv. solo, con exclusion de otras situaciones, personas o cosas 
+1106-soldados-v. tr. y prnl. unir dos cosas o partes de una cosa de forma solida con alguna sustancia igual o parecida a ellas 
+1107-solo-adj. que es unico en su especie. 
+1108-sombra-s. f. falta de claridad debida a la intercepcion de los rayos de luz por un cuerpo opaco 
+1109-son-s. m. sonido agradable al oido, en especial el que se hace con arte. 
+1110-sonido-s. m. sensacion producida en el oido por el movimiento vibratorio de los cuerpos en el aire. ruido 
+1111-sorpresa-s. f. efecto producido por algo inesperado en el animo de una persona 
+1112-suelo-s. m. geologia parte superficial de la corteza terrestre sometida a la accion de la erosion y de los seres vivos 
+1113-suerte-s. m. casualidad, relacion desconocida que se supone que hay entre los sucesos y las circunstancias, no intencionada ni previsible 
+1114-sueño-estado de reposo en que se encuentra la persona o el animal que esta durmiendo.
+1115-suficiente-adj. que basta para un fin determinado 
+1116-sujeto-adj. que ha sido bien sujetado o atado 
+1117-suma-s. f. accion y resultado de sumar 
+1118-superficie-s. f. limite exterior de un cuerpo, que delimita el espacio que ocupa y lo separa y distingue del espacio circundante 
+1119-superior-adj. que esta situado en la parte mas alta de una cosa 
+1120-supone-v. tr. accion y resultado de considerar cierta o posible una cosa 
+1121-supuesto-adj. que es admitido por hipotesis o se supone 
+1122-sur-s. m. punto cardinal del horizonte, diametralmente opuesto al norte 
+1123-suyo-adj./ pron. pos. de el, de ella, de ellos, de ellas, de ello 
+1124-tal-adj./ pron. dem. igual, semejante 
+1125-tales-adj./ pron. dem. igual, semejante 
+1126-tamaño-conjunto de las dimensiones fisicas de una cosa material, por las cuales tiene mayor o menor volumen.
+1127-tantas-adj./ pron. indef. indica cantidad o numero indeterminado 
+1128-tanto-adj./ pron. indef. indica cantidad o numero indeterminado 
+1129-tantos-adj./ pron. indef. indica cantidad o numero indeterminado 
+1130-tarde-s. f. parte del dia comprendida entre el mediodia y el anochecer 
+1131-tarea-s. f. cualquier trabajo o actividad 
+1132-te-s. f. lingüistica nombre de la letra t. 
+1133-teatro-s. m. arquitectura, teatro edificio o lugar destinado a la representacion de obras dramaticas y otro tipo de espectaculos 
+1134-tema-s. m. asunto o materia que se trata en una conversacion, discurso o escrito 
+1135-temas-v. tr. e intr. tener miedo o temor de una persona o una cosa 
+1136-temperatura-s. f. fisica magnitud fisica que mide de forma objetiva la sensacion subjetiva de frio o calor que produce el contacto con un cuerpo. 
+1137-temporada-s. f. conjunto de dias, meses o anhos que se considera unidad de tiempo 
+1138-tendencia-s. f. inclinacion de las personas o las cosas hacia una cosa o un fin 
+1139-tenemos-v. tr. ser propietario de una cosa 
+1140-tener-v. tr. ser propietario de una cosa 
+1141-tengo-v. tr. ser propietario de una cosa 
+1142-tenido-v. tr. ser propietario de una cosa 
+1143-tercera-s. f. musica cuerda de algunos instrumentos musicales que ocupa el tercer lugar a partir de la primera. 
+1144-terminar-v. tr. poner fin o termino a una cosa 
+1145-terminos- punto de vista desde el que se plantea un asunto 
+1146-terreno-adj. de la tierra 
+1147-territorio-s. m. extension de tierra sometida a una misma jurisdiccion o que tiene unos limites geograficos 
+1148-texto-s. m. conjunto de palabras que componen un escrito 
+1149-tiempo-s. m. sucesion de instantes en los que se desarrollan los cambios de las cosas 
+1150-tiene-v. tr. ser propietario de una cosa 
+1151-tienen-v. tr. ser propietario de una cosa 
+1152-tierra-s. f. astronomia planeta del sistema solar habitado por las personas y los seres vivos. 
+1153-tipo-s. cualquier persona sin especificar 
+1154-tipos-s. cualquier persona sin especificar 
+1155-titular-adj./ s. m. y f. que tiene el titulo correspondiente al cargo que desempenha 
+1156-todas-adj./ pron. indef. que se toma entero, sin excluir nada 
+1157-todo-adj./ pron. indef. que se toma entero, sin excluir nada 
+1158-toma-s. f. accion de tomar o recibir una cosa. 
+1159-tomar-v. tr. coger una persona con cuidado a otra o a una cosa ayudada de las manos, una parte del cuerpo o un instrumento 
+1160-tomo-s. m. cada una de las partes con paginacion y encuadernacion independiente en que se divide una publicacion muy extensa 
+1161-tono-s. m. intensidad o grado de mayor o menor elevacion de un sonido o de la voz humana. 
+1162-torno-s. m. mecanica maquina provista de un cilindro que, al girar, va enrollando una cuerda a cuyo extremo se encuentra la carga o resistencia. 
+1163-total-adj. que abarca una cosa en todos sus aspectos o elementos 
+1164-trabajadores-adj. oficios y profesiones que trabaja. trabajante 
+1165-trabajar-v. intr. realizar un esfuerzo fisico o mental en una actividad 
+1166-trabajo-s. m. accion y resultado de trabajar. 
+1167-trabajos-s. m. accion y resultado de trabajar. 
+1168-tradicional-adj. de la tradicion. 
+1169-trafico-s. m. comercio accion de traficar o comerciar 
+1170-transporte-s. m. accion y resultado de transportar 
+1171-tras-prep. indica posterioridad en el tiempo o en el espacio 
+1172-trata-s. f. comercio trafico o comercio con seres humanos 
+1173-trataba-v. tr., intr. y prnl. tener una persona relacion con otra 
+1174-tratado-s. m. politica acuerdo o convenio, en especial entre gobiernos 
+1175-tratamiento-s. m. manera de relacionarse o comportarse con otras personas 
+1176-tratar-v. tr., intr. y prnl. tener una persona relacion con otra 
+1177-traves-s. m. inclinacion de una cosa con respecto a otra. torcimiento 
+1178-treinta-adj.num./ s.m. que resulta de la multiplicacion de tres por diez. 
+1179-tres-adj.num./ s.m. que resulta de la suma de dos y uno 
+1180-tribunal-s. m. derecho organo del estado formado por uno o mas magistrados que juzgan conjuntamente 
+1181-triunfo-s. m. accion y resultado de quedar una persona o un grupo de ellas victoriosas 
+1182-tus-s. m. voz que, repetida, se usa para llamar a los perros. 
+1183-tuvieron-v. tr. ser propietario de una cosa 
+1184-tuvo-v. tr. ser propietario de una cosa 
+1185-ultima-adj. que no tiene otro despues en una serie 
+1186-ultimas-v. tr. concluir una cosa, darla por finalizada 
+1187-unica-adj. solo y sin otro de su especie 
+1188-unidad-s. f. propiedad de lo que no puede dividirse 
+1189-unidades-s. f. propiedad de lo que no puede dividirse 
+1190-unidos-v. tr. juntar dos o mas cosas para formar un todo 
+1191-universal-adj. astronomia del universo o espacio celeste 
+1192-universidad-s. f. ensenhanza institucion dedicada a la ensenhanza superior y a la investigacion 
+1193-uno-adj. que no esta dividido en si mismo. 
+1194-uso-s. m. accion y resultado de usar. 
+1195-valencia-s. f. quimica valor de combinacion o reaccion de un elemento, representado por el numero de atomos de hidrogeno que cada atomo de dicho elemento puede retener. 
+1196-valor-s. m. caracteristica o conjunto de caracteristicas que hacen apreciable a una persona o cosa 
+1197-vasco-adj./ s. del pais vasco o de su lengua. 
+1198-vecinos-adj./ s. que vive en la misma calle o en el mismo edificio que otra u otras personas 
+1199-veinte-adj.num./ s.m. que resulta de la multiplicacion de dos y diez. 
+1200-velocidad-s. f. ligereza o prontitud con que se realiza una accion 
+1201-venia-s. f. permiso o licencia dada por una autoridad 
+1202-venido-v. intr. moverse una persona o una cosa hacia el lugar donde esta la que habla 
+1203-venta-s. f. accion y resultado de vender. 
+1204-ventana-s. f. construccion abertura que se deja en la pared de un edificio para dar luz y ventilacion. 
+1205-ver-v. tr. e intr. percibir una persona o un animal una cosa por la vista 
+1206-verano-s. m. epoca mas calurosa del anho que, en el hemisferio septentrional, corresponde a los meses de junio, julio y agosto, y en el austral a diciembre, enero y febrero. estio 
+1207-verdad-s. f. correspondencia o adecuacion de la realidad con lo que se dice, piensa o siente de ella 
+1208-verdadera-adj. que es conforme a la verdad 
+1209-verdadero-adj. que es conforme a la verdad 
+1210-verde-adj. del color de la hierba fresca o de la esmeralda. 
+1211-vez-s. f. cada realizacion de un suceso o de una accion en momentos y circunstancias diferentes 
+1212-vi-v. tr. e intr. percibir una persona o un animal una cosa por la vista 
+1213-viaje-s. m. accion y resultado de viajar. 
+1214-victoria-s. f. superioridad o ventaja que obtienen una o varias personas sobre otra u otras a las que se oponen en una lucha o en una competicion 
+1215-vida-s. f. facultad y actividad de vivir que caracteriza a los seres organicos 
+1216-vieja-s. f. zoologia pez gregario escarido de carne muy apreciada, que vive en bancos y frecuenta escollos y arrecifes. 
+1217-viejo-adj./ s. se refiere a la persona que tiene mucha edad 
+1218-viento-s. m. corriente de aire producida por causas naturales en la atmosfera 
+1219-viernes-s. m. dia de la semana, entre el jueves y el sabado. 
+1220-vino-s. m. enologia bebida alcoholica hecha con zumo de uva fermentado. caldo 
+1221-vio-v. tr. e intr. percibir una persona o un animal una cosa por la vista 
+1222-violencia-s. f. cualidad de violento 
+1223-visita-s. f. accion y resultado de visitar 
+1224-vista-s. f. sentido corporal localizado en los ojos que permite percibir los objetos mediante la accion de la luz 
+1225-visto-adj. que es conocido o sabido por todos 
+1226-vive-s. m. conjunto de los medios o recursos necesarios para la vida 
+1227-vivir-s. m. conjunto de los medios o recursos necesarios para la vida 
+1228-vivo-adj./ s. que tiene vida 
+1229-volumen-s. m. espacio fisico que ocupa un cuerpo 
+1230-voluntad-s. f. sicologia facultad humana para elegir o rechazar las cosas, tomar decisiones o actuar de determinada manera 
+1231-volver-v. intr. y prnl. andar una persona en sentido inverso por un camino que se acaba de recorrer 
+1232-votos-s. m. manifestacion de la voluntad o el parecer de cada uno acerca de determinado punto o tema que se somete a consulta o eleccion 
+1233-voz-s. f. sonido producido al vibrar las cuerdas vocales cuando se expulsa al aire de los pulmones y produce resonancia en determinada cavidad, en el hombre y en algunos animales. 
+1234-vuelta-s. f. accion y resultado de regresar o volver al lugar de donde se ha salido 
+1235-vuelto-adj. artes graficas se aplica al lado de una hoja que no esta escrito ni numerado. 
+1236-vuelve-v. intr. y prnl. andar una persona en sentido inverso por un camino que se acaba de recorrer 
+1237-ya-adv. antes, en el pasado 
+1238-yo-pron. pers. indica la persona que habla cuando esta se refiere a si misma 
+1239-zona-s. f. parte o extension de un terreno o superficie, limitada de forma mas o menos precisa 
+1240-zonas-s. f. parte o extension de un terreno o superficie, limitada de forma mas o menos precisa 

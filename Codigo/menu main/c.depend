@@ -1,0 +1,928 @@
+# depslib dependency file v1.0
+1539978973 source:c:\users\stefa\desktop\codeblocks\c\main.c
+	<SDL.h>
+	<stdio.h>
+	"structdatos.h"
+	"rend.h"
+
+1519925905 c:\dev\sdl2_mingw_64bit\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925905 c:\dev\sdl2_mingw_64bit\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925905 c:\dev\sdl2_mingw_64bit\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1519925905 c:\dev\sdl2_mingw_64bit\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1519925905 c:\dev\sdl2_mingw_64bit\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519925905 c:\dev\sdl2_mingw_64bit\include\sdl2\begin_code.h
+
+1519925905 c:\dev\sdl2_mingw_64bit\include\sdl2\close_code.h
+
+1519925905 c:\dev\sdl2_mingw_64bit\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1519925905 c:\dev\sdl2_mingw_64bit\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1519925905 c:\dev\sdl2_mingw_64bit\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925905 c:\dev\sdl2_mingw_64bit\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925905 c:\dev\sdl2_mingw_64bit\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519925905 c:\dev\sdl2_mingw_64bit\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925905 c:\dev\sdl2_mingw_64bit\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1519925905 c:\dev\sdl2_mingw_64bit\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925905 c:\dev\sdl2_mingw_64bit\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925905 c:\dev\sdl2_mingw_64bit\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519925905 c:\dev\sdl2_mingw_64bit\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925905 c:\dev\sdl2_mingw_64bit\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925905 c:\dev\sdl2_mingw_64bit\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925905 c:\dev\sdl2_mingw_64bit\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925905 c:\dev\sdl2_mingw_64bit\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925905 c:\dev\sdl2_mingw_64bit\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1519925905 c:\dev\sdl2_mingw_64bit\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925905 c:\dev\sdl2_mingw_64bit\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1519925905 c:\dev\sdl2_mingw_64bit\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1519925905 c:\dev\sdl2_mingw_64bit\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925905 c:\dev\sdl2_mingw_64bit\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925905 c:\dev\sdl2_mingw_64bit\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925905 c:\dev\sdl2_mingw_64bit\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1519925905 c:\dev\sdl2_mingw_64bit\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925905 c:\dev\sdl2_mingw_64bit\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925905 c:\dev\sdl2_mingw_64bit\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925905 c:\dev\sdl2_mingw_64bit\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925905 c:\dev\sdl2_mingw_64bit\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925905 c:\dev\sdl2_mingw_64bit\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925905 c:\dev\sdl2_mingw_64bit\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925905 c:\dev\sdl2_mingw_64bit\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925905 c:\dev\sdl2_mingw_64bit\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925905 c:\dev\sdl2_mingw_64bit\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925905 c:\dev\sdl2_mingw_64bit\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925905 c:\dev\sdl2_mingw_64bit\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925905 c:\dev\sdl2_mingw_64bit\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925905 c:\dev\sdl2_mingw_64bit\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1539978891 c:\users\stefa\desktop\codeblocks\c\structdatos.h
+
+1539969551 c:\users\stefa\desktop\codeblocks\c\renderizado.h
+
+1539979670 c:\users\stefa\desktop\codeblocks\c\rend.h
+
+1540437902 source:c:\users\stefa\desktop\proshecto\snake\main.c
+	<SDL.h>
+	<stdio.h>
+	"structdatos.h"
+	"rend.h"
+
+1539978891 c:\users\stefa\desktop\proshecto\snake\structdatos.h
+
+1539979670 c:\users\stefa\desktop\proshecto\snake\rend.h
+
+1541117426 source:c:\users\stefa\desktop\proshecto\sdl\snake\main.c
+	<SDL.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	"structdatos.h"
+	"rend.h"
+	"logica.h"
+	"snake.h"
+
+1541102784 c:\users\stefa\desktop\proshecto\sdl\snake\structdatos.h
+
+1541117607 c:\users\stefa\desktop\proshecto\sdl\snake\rend.h
+
+1541110215 c:\users\stefa\desktop\proshecto\sdl\snake\logica.h
+
+1540682247 c:\dev\sdl2_mingw_64bit\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1541117786 c:\users\stefa\desktop\proshecto\sdl\snake\snake.h
+
+1541171942 source:d:\proyecto\blockqwgs\menu + s\menu main\main.c
+	<SDL.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	"../snake/snake.h"
+	"renderMenu.h"
+
+1541172972 d:\proyecto\blockqwgs\menu + s\snake\structdatos.h
+
+1541177202 d:\proyecto\blockqwgs\menu + s\snake\rend.h
+	<string.h>
+
+1541177556 d:\proyecto\blockqwgs\menu + s\snake\logica.h
+	"rend.h"
+	<math.h>
+
+1541177556 d:\proyecto\blockqwgs\menu + s\snake\snake.h
+	"structdatos.h"
+	"logica.h"
+
+1541132182 d:\proyecto\blockqwgs\menu + s\menu main\rendermenu.h
+
+1541171942 source:d:\proyecto\blockqwgs\sdl s\menu main\main.c
+	<SDL.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	"../snake/snake.h"
+	"renderMenu.h"
+
+1541177556 d:\proyecto\blockqwgs\sdl s\snake\snake.h
+	"structdatos.h"
+	"logica.h"
+
+1541172972 d:\proyecto\blockqwgs\sdl s\snake\structdatos.h
+
+1541177556 d:\proyecto\blockqwgs\sdl s\snake\logica.h
+	"rend.h"
+	<math.h>
+
+1541177202 d:\proyecto\blockqwgs\sdl s\snake\rend.h
+	<string.h>
+
+1541132182 d:\proyecto\blockqwgs\sdl s\menu main\rendermenu.h
+
+1541530349 source:c:\users\stefa\desktop\proshecto\pv1\sdl s\menu main\main.c
+	<SDL.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	"../snake/snake.h"
+	"renderMenu.h"
+	"../sopadeletras/sopadeletras.h"
+
+1541210858 c:\users\stefa\desktop\proshecto\pv1\sdl s\snake\snake.h
+	"structdatos.h"
+	"logica.h"
+
+1541472636 c:\users\stefa\desktop\proshecto\pv1\sdl s\snake\structdatos.h
+
+1541531534 c:\users\stefa\desktop\proshecto\pv1\sdl s\snake\logica.h
+	"rend.h"
+	<math.h>
+
+1541530184 c:\users\stefa\desktop\proshecto\pv1\sdl s\snake\rend.h
+	<string.h>
+
+1541439689 c:\users\stefa\desktop\proshecto\pv1\sdl s\menu main\rendermenu.h
+
+1541600569 c:\users\stefa\desktop\proshecto\pv1\sdl s\sopadeletras\sopadeletras.h
+	"structSopa.h"
+	"logicaSopa.h"
+	"renderSopa.h"
+
+1541548513 c:\users\stefa\desktop\proshecto\pv1\sdl s\sopadeletras\logicasopa.h
+	<string.h>
+	<locale.h>
+	<time.h>
+	"utilSopa.h"
+
+1541530493 c:\users\stefa\desktop\proshecto\pv1\sdl s\sopadeletras\rendersopa.h
+	<locale.h>
+
+1541538559 c:\users\stefa\desktop\proshecto\pv1\sdl s\sopadeletras\structsopa.h
+
+1541277701 source:c:\users\stefa\desktop\proshecto\pv1\sdl s\sopadeletras\structsopa.c
+
+1541540637 c:\users\stefa\desktop\proshecto\pv1\sdl s\sopadeletras\utilsopa.h
+
+1541277702 source:e:\menu\sdl s\sopadeletras\structsopa.c
+
+1541630984 source:e:\menu\sdl s\menu main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	"renderMenu.h"
+	"../sopadeletras/sopadeletras.h"
+
+1519925906 c:\users\fpuna\desktop\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\fpuna\desktop\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\fpuna\desktop\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1519925906 c:\users\fpuna\desktop\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1519925906 c:\users\fpuna\desktop\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\fpuna\desktop\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\begin_code.h
+
+1519925906 c:\users\fpuna\desktop\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\close_code.h
+
+1519925906 c:\users\fpuna\desktop\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1519925906 c:\users\fpuna\desktop\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1519925906 c:\users\fpuna\desktop\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\fpuna\desktop\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\fpuna\desktop\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\fpuna\desktop\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\fpuna\desktop\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1519925906 c:\users\fpuna\desktop\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\fpuna\desktop\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\fpuna\desktop\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\fpuna\desktop\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\fpuna\desktop\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\fpuna\desktop\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\fpuna\desktop\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\fpuna\desktop\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\fpuna\desktop\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\fpuna\desktop\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\fpuna\desktop\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1519925906 c:\users\fpuna\desktop\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1519925906 c:\users\fpuna\desktop\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\fpuna\desktop\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\fpuna\desktop\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\fpuna\desktop\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1519925906 c:\users\fpuna\desktop\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\fpuna\desktop\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\fpuna\desktop\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\fpuna\desktop\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\fpuna\desktop\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\fpuna\desktop\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\fpuna\desktop\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\fpuna\desktop\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\fpuna\desktop\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\fpuna\desktop\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\fpuna\desktop\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\fpuna\desktop\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\fpuna\desktop\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519925906 c:\users\fpuna\desktop\sdl2-devel-2.0.8-mingw\sdl2-2.0.8\x86_64-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454366548 c:\users\fpuna\desktop\sdl2_ttf-devel-2.0.14-mingw\sdl2_ttf-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1541439690 e:\menu\sdl s\menu main\rendermenu.h
+
+1541630718 e:\menu\sdl s\sopadeletras\sopadeletras.h
+	"structSopa.h"
+	"logicaSopa.h"
+	"renderSopa.h"
+
+1541538560 e:\menu\sdl s\sopadeletras\structsopa.h
+
+1541630850 e:\menu\sdl s\sopadeletras\logicasopa.h
+	<string.h>
+	<locale.h>
+	<time.h>
+	"utilSopa.h"
+
+1541630988 e:\menu\sdl s\sopadeletras\utilsopa.h
+	<math.h>
+
+1541630764 e:\menu\sdl s\sopadeletras\rendersopa.h
+	<locale.h>
+
+1541277702 source:d:\menu\sdl s\sopadeletras\structsopa.c
+
+1541630984 source:d:\menu\sdl s\menu main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	"renderMenu.h"
+	"../sopadeletras/sopadeletras.h"
+
+1541691142 d:\menu\sdl s\menu main\rendermenu.h
+
+1541630718 d:\menu\sdl s\sopadeletras\sopadeletras.h
+	"structSopa.h"
+	"logicaSopa.h"
+	"renderSopa.h"
+
+1541538560 d:\menu\sdl s\sopadeletras\structsopa.h
+
+1541630850 d:\menu\sdl s\sopadeletras\logicasopa.h
+	<string.h>
+	<locale.h>
+	<time.h>
+	"utilSopa.h"
+
+1541630988 d:\menu\sdl s\sopadeletras\utilsopa.h
+	<math.h>
+
+1541630764 d:\menu\sdl s\sopadeletras\rendersopa.h
+	<locale.h>
+
+1541931795 source:c:\users\stefa\desktop\new folder (2)\menu2\menu\sdl s\menu main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	"renderMenu.h"
+	"../sopadeletras/sopadeletras.h"
+	"../crucigrama/crucigrama.h"
+	"../snake/snake.h"
+
+1541930089 c:\users\stefa\desktop\new folder (2)\menu2\menu\sdl s\menu main\rendermenu.h
+
+1541785450 c:\users\stefa\desktop\new folder (2)\menu2\menu\sdl s\sopadeletras\sopadeletras.h
+	"structSopa.h"
+	"logicaSopa.h"
+	"renderSopa.h"
+
+1541957944 c:\users\stefa\desktop\new folder (2)\menu2\menu\sdl s\sopadeletras\structsopa.h
+
+1541958133 c:\users\stefa\desktop\new folder (2)\menu2\menu\sdl s\sopadeletras\logicasopa.h
+	"utilSopa.h"
+
+1541928616 c:\users\stefa\desktop\new folder (2)\menu2\menu\sdl s\sopadeletras\utilsopa.h
+
+1541928316 c:\users\stefa\desktop\new folder (2)\menu2\menu\sdl s\sopadeletras\rendersopa.h
+
+1541962069 c:\users\stefa\desktop\new folder (2)\menu2\menu\sdl s\crucigrama\crucigrama.h
+	"logicaCruci.h"
+	"renderCruci.h"
+
+1541917092 c:\users\stefa\desktop\new folder (2)\menu2\menu\sdl s\crucigrama\structcruci.h
+
+1541962063 c:\users\stefa\desktop\new folder (2)\menu2\menu\sdl s\crucigrama\logicacruci.h
+	<string.h>
+	<locale.h>
+	<time.h>
+	"utilCruci.h"
+
+1541960606 c:\users\stefa\desktop\new folder (2)\menu2\menu\sdl s\crucigrama\utilcruci.h
+
+1541962488 c:\users\stefa\desktop\new folder (2)\menu2\menu\sdl s\crucigrama\rendercruci.h
+
+1541931795 c:\users\stefa\desktop\new folder (2)\menu2\menu\sdl s\snake\snake.h
+	"structdatos.h"
+	"logica.h"
+
+1541930600 c:\users\stefa\desktop\new folder (2)\menu2\menu\sdl s\snake\structdatos.h
+
+1541930678 c:\users\stefa\desktop\new folder (2)\menu2\menu\sdl s\snake\logica.h
+	"rend.h"
+	<math.h>
+
+1541930792 c:\users\stefa\desktop\new folder (2)\menu2\menu\sdl s\snake\rend.h
+	<string.h>
+

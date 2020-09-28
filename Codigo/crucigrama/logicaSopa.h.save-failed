@@ -1,0 +1,193 @@
+#include <string.h>
+#include <locale.h>
+#include <time.h>
+#include "utilSopa.h"
+
+void generarSopa(Palabra matriz[][15]);
+void BuscarMatriz(Palabra matriz[][N]);
+int logicoSopa(Palabra matriz[][N], const Uint8 *state, Uint32 tempo, int* pausa, Estado *estado);
+void checkeo(const Snk *snk, const Cola *cola, int matcomp[][18]);
+int processSopa(SDL_Window *window, Uint32 tempo, SDL_Rect pos[], SDL_Rect posc[][N], int *pausa, const Palabra matriz[][N], Estado* estado);
+
+int processSopa(SDL_Window *window, Uint32 tempo, SDL_Rect pos[], SDL_Rect posc[][N], int *pausa, const Palabra matriz[][N], Estado* estado)
+{
+	SDL_Event event;
+	int eleccion = 0, x, y, numBOT = 3, send = 0;
+	int longitud = 0;
+
+	while(SDL_PollEvent(&event))
+	{
+		switch(event.type)
+		{
+			case SDL_WINDOWEVENT_CLOSE:
+			{
+				if(window)
+				{
+				SDL_DestroyWindow(window);
+				window = NULL;
+				return -1;
+				}
+				break;
+			}
+			case SDL_KEYDOWN:
+			{
+				switch(event.key.keysym.sym)
+				{
+					case SDLK_ESCAPE:
+					return -1;
+					break;
+					case SDLK_p:
+					*pausa=1;
+					break;
+					case SDLK_SPACE:
+						{
+							if(*pausa == 0)
+								*pausa=1;
+							else if(!estado->win)
+								*pausa=0;
+						}
+						break;
+					case SDLK_r:
+						{
+							iniciarSopa(matriz, estado);//reinicia el juego
+							*pausa=1;
+						}
+						break;
+					case SDLK_RETURN:
+						{
+							if(!(*pausa)) // si no esta pausado puede mandar la palabra
+								send = 1;
+						}
+						break;
+				}
+				break;
+			}
+
+			case SDL_QUIT:
+			//sale del juego
+			return -1;
+			break;
+			case SDL_MOUSEBUTTONDOWN:
+			{
+				x = event.button.x;
+				y = event.button.y;
+				if(*pausa)
+					numBOT = 5;
+				else
+					numBOT = 3;
+				for(int i = 0; i < numBOT; i++)
+				{
+					if(x>=pos[i].x && x<=pos[i].x+pos[i].w && y>=pos[i].y && y<=pos[i].y+pos[i].h)
+					{
+						return (i+1);
+					}
+				}
+
+				if (longitud <= 15 && !(*pausa)) //sie esta pausado, no deberia poder aceptar input
+				{
+					for(int i = 0; i < 12; i++)
+					{
+						for(int j = 0; j < 15; j++)
+						{
+							if(x >= posc[i][j].x && x <= posc[i][j].x + posc[i][j].w && y >= posc[i][j].y && y <= posc[i][j].y + posc[i][j].h)
+							{
+								if(estado->matbin[i][j] == 0)
+								{
+									estado->matbin[i][j] = 1;
+									longitud++;
+								}
+								else
+								{
+									estado->matbin[i][j] = 0;
+									longitud--;
+								}
+
+							}
+						}
+					}
+				}
+				break;
+			}
+		}
+	}
+	if(!(*pausa) && !estado->win && send)
+	{
+		send = 0;
+		const Uint8 *state = SDL_GetKeyboardState(NULL); //lee es estado y pasa el estado al logico
+		eleccion = logicoSopa(matriz, state, tempo, pausa, estado);//si logico verifica si supero los limites
+	}
+	return eleccion;
+}
+
+
+int logicoSopa(Palabra matriz[][N], const Uint8 *state, Uint32 tempo, int* pausa, Estado *estado)
+{
+	static int total = 0;
+	int done = 0, largo = 0;
+	Palabra seleccion[TAM];
+
+	for(int i = 0; i < 12; i++)
+	{
+		for(int j = 0; j < 15; j++)
+		{
+			if(estado->matbin[i][j])
+			{
+				seleccion[largo] = matriz[i][j];
+				largo++;
+			}
+		}
+	}
+	seleccion[largo].posx = -1; // determina que es el ultimo caracter
+
+	if( estaEncontrado(seleccion) ) // si esta entre las palabras "encontradas" en la sopa de letras
+	{
+		for(int i = 0; i < largo; i++)
+		{
+			if(seleccion[i].posy>12 || seleccion[i].posx>15)
+				printf("\n\n\n\nke paso aki\n\n\n\n\n");
+			matriz[seleccion[i].posy][seleccion[i].posx].high = 1;
+		}
+		total++;
+	}
+	if(total > 10)
+	{
+		estado->win = 1;
+		total = 0;
+		*pausa = 1;
+	}
+	//cera la matriz binaria ya que ya no es necesaria
+	for(int i = 0; i < M; i++)
+	{
+		for(int j = 0; j < N; j++)
+		{
+			estado->matbin[i][j] = 0;
+		}
+	}
+
+	return done;
+}
+
+#if 1
+void iniciarSopa(Palabra matriz[][N], Estado *estado)
+{
+    estado->win = 0;
+    estado->puntos = 0;
+    estado->tiempo = 0;
+    for(int i = 0; i < M; i++)
+	{
+		for(int j = 0; j < N; j++)
+		{
+			estado->matbin[i][j] = 0;
+			matriz[i][j].high = 0;
+		}
+	}
+
+	for (int i=0; i<cantENC; i++)
+	{
+		encontrados[i][0].posx = -1;
+	}
+	cantENC = 0;
+	generarSopa(matriz);
+}
+#endif
+

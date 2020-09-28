@@ -1,0 +1,194 @@
+#if 1
+//#include <string.h>
+#include <locale.h>
+
+void renderSopa(SDL_Renderer *renderer, TTF_Font *font, SDL_Rect pos[], SDL_Rect posc[][N], int pausa, const Palabra matriz[][N]);
+
+void renderSopa(SDL_Renderer *renderer, TTF_Font *font, SDL_Rect pos[], SDL_Rect posc[][N], int pausa, const Palabra matriz[][N])
+{
+		setlocale(LC_ALL, "spanish");// para usar la Ñ
+		//set the drawing color to blue
+		SDL_SetRenderDrawColor(renderer, 127, 127, 127, 255);
+
+		//Clear the screen (to blue)
+		SDL_RenderClear(renderer);
+
+		//hace un cuadro verde
+		SDL_SetRenderDrawColor(renderer, 127, 0, 0, 255);
+		SDL_Rect rect2 = { 0, 0, 660, 520 };
+		SDL_RenderFillRect(renderer, &rect2);
+
+		//hace un cuadro verde
+		SDL_SetRenderDrawColor(renderer, 255, 0, 0, 255);
+
+		SDL_Rect rect3 = { 10, 10, 620, 500 };
+		SDL_RenderFillRect(renderer, &rect3);
+
+		//imprime la cuadricula
+		SDL_Rect cuadroTex;
+		SDL_Rect mrec, mrec2;
+		SDL_Surface* cuadroMat[12][15];
+		SDL_Color texto = { 240,240,240,255};
+		SDL_Texture *texture;
+		char let;
+		//SDL_Texture cuadro[15*15];
+		printf("\n");
+		for (int i=0; i<12; i++)
+		{
+			for (int j=0; j<15; j++)
+			{
+				if((i+j)%2==0)
+					SDL_SetRenderDrawColor(renderer, 127, 127, 127, 255);
+				else
+					SDL_SetRenderDrawColor(renderer, 0, 0, 0, 255);
+
+				SDL_SetRenderDrawColor(renderer, 127, 127, 127, 255);
+
+				mrec.h=40;
+				mrec.w=40;
+				mrec.x=20+j*40;
+				mrec.y=20+i*40;
+				SDL_SetRenderDrawColor(renderer, 0, 0, 0, 255);
+				SDL_RenderFillRect(renderer, &mrec);
+
+				mrec2.h=38;
+				mrec2.w=38;
+				mrec2.x=21 + j*40;
+				mrec2.y=21 + i*40;
+				SDL_SetRenderDrawColor(renderer, 127, 127, 127, 255);
+				SDL_RenderFillRect(renderer, &mrec2);
+
+				let = matriz[i][j].car;
+				printf("%c ", let);
+				const char h = 'h';
+				//let = tolower(let);
+				cuadroMat[i][j] = TTF_RenderText_Solid(font, h, texto);
+				printf("holi\n");
+				texture = SDL_CreateTextureFromSurface(renderer, cuadroMat[i][j]);
+
+				posc[i][j].x = mrec.x + 20 - cuadroMat[i][j]->clip_rect.w/2;// 640 = tamanho del juego , 160 = el tamanho del menu /2, menus[0]->clip_rect.w/2 = ancho de la palabra/2
+				posc[i][j].y = mrec.y; // + cuadroMat[i]->clip_rect.h/2;
+				posc[i][j].h = cuadroMat[i][j]->clip_rect.h;// pone los anchos y largos de las texturas
+				posc[i][j].w = cuadroMat[i][j]->clip_rect.w;
+
+				SDL_RenderCopy(renderer, texture, NULL, &posc[i][j]);
+			}
+			printf("\n");
+		}
+
+
+	//dibuja el menu
+	SDL_SetRenderDrawColor(renderer, 127, 127, 127, 0);
+
+    SDL_Rect rect1 = { 640, 0, 320, 640 };
+    SDL_RenderFillRect(renderer, &rect1);
+
+	const char* labels[] = {"Volver al menu", "Pausa (p)", "Salir"};
+	SDL_Surface* menus[3];
+	SDL_Color color[2] = {{174,0,1,255},{255, 0, 0, 255}};
+	SDL_Color colorletra[2] = {{ 10,10,10,255},{255, 255, 255, 255}};
+	SDL_Rect cuadroTexFondo;
+
+	//SDL_SetRenderDrawColor(renderer, 174,0,1,255);
+
+	for(int i=0; i < 3; i++)
+	{
+		menus[i] = TTF_RenderText_Solid(font, labels[i], colorletra[0]);
+		texture = SDL_CreateTextureFromSurface(renderer, menus[i]);
+
+		pos[i].x = 100 + (menus[0]->clip_rect.w/2 + 120) * i - menus[i]->clip_rect.w/2; // 640 = tamanho del juego , 160 = el tamanho del menu /2, menus[0]->clip_rect.w/2 = ancho de la palabra/2
+		pos[i].y = 540  + menus[i]->clip_rect.h/2;
+		pos[i].h = menus[i]->clip_rect.h; // pone los anchos y largos de las texturas
+		pos[i].w = menus[i]->clip_rect.w;
+
+		cuadroTex.w = 10 + pos[0].w;
+		cuadroTex.x = 100 + (menus[0]->clip_rect.w/2 + 120) * i - cuadroTex.w/2;
+		cuadroTex.y = 540 + menus[0]->clip_rect.h/2;
+		cuadroTex.h = menus[0]->clip_rect.h + 10;
+
+		cuadroTexFondo.w = cuadroTex.w + 2;
+		cuadroTexFondo.x = cuadroTex.x - 4;
+		cuadroTexFondo.y = cuadroTex.y - 2;
+		cuadroTexFondo.h = cuadroTex.h - 4;
+
+		SDL_SetRenderDrawColor(renderer, 0, 0, 0,0);
+		SDL_RenderFillRect(renderer, &cuadroTexFondo);
+
+		SDL_SetRenderDrawColor(renderer, 5,50,229,255);
+		SDL_RenderFillRect(renderer, &cuadroTex);// dibuja el fondo del boton
+
+		SDL_RenderCopy(renderer, texture, NULL, &pos[i]);
+	}
+
+	for (int i = 0; i < 3; ++i)
+	{
+		pos[i].w = pos[0].w + 50;
+		pos[i].h = pos[0].h + 10;
+		pos[i].x = cuadroTex.x;
+	}
+	//dibuja el puntaje
+	/*
+	char text[10], score[]= "Puntaje: ";
+	sprintf(text,"%d", snk->puntos);
+	strcat(score, text);
+	SDL_Surface* scoreSurf = TTF_RenderText_Solid(font, score, colorletra[0]);
+	texture = SDL_CreateTextureFromSurface(renderer, scoreSurf);
+	cuadroTex.y += 200;
+	cuadroTex.w = scoreSurf->clip_rect.w;
+	cuadroTex.x = 640 + 160  - cuadroTex.w/2;
+	SDL_RenderCopy(renderer, texture, NULL, &cuadroTex);
+
+
+	if (pausa)
+	{
+		const char* labelsPausa[] = {"Reiniciar (r)", "Resumir (espacio)"};
+		for(int i=0; i < 2 - snk->win; i++)
+		{
+			SDL_Surface* pausado = TTF_RenderText_Solid(font, labelsPausa[i], colorletra[1]);
+			texture = SDL_CreateTextureFromSurface(renderer, pausado);
+
+			pos[3 + i].x = 320 - pausado->clip_rect.w/2;// 640 = tamanho del juego , 160 = el tamanho del menu /2, menus[0]->clip_rect.w/2 = ancho de la palabra/2
+			pos[3 + i].y = 320 - pausado->clip_rect.h/2 + 60 * i + 3;
+			pos[3 + i].h = pausado->clip_rect.h;// pone los anchos y largos de las texturas
+			pos[3 + i].w = pausado->clip_rect.w;
+
+			SDL_Rect medio = {pos[3 + i].x - 80, pos[3 + i].y - 40, pos[3 + i].w + 160, pos[3 + i].h + 150};
+			SDL_SetRenderDrawColor(renderer, 224, 229, 229, 255);
+			if(i==0)
+				SDL_RenderFillRect(renderer, &medio);
+
+			medio.w = 50 + pos[0].w - 50;
+			medio.x = 320 - medio.w/2;
+			medio.y = 320 - pausado->clip_rect.h/2 + 60 * i;
+			medio.h = pausado->clip_rect.h + 10;
+
+			SDL_SetRenderDrawColor(renderer, 123, 123, 123, 255);
+
+			SDL_RenderFillRect(renderer, &medio);
+			SDL_RenderCopy(renderer, texture, NULL, &pos[3 + i]);
+			pos[3 + i].w = medio.w;
+			pos[3 + i].h = medio.h;
+			pos[3 + i].x = medio.x;
+			pos[3 + i].y = medio.y;
+		}
+	}
+	if(snk->win)
+	{
+		const char ganar[] = "GANASTE!";
+		SDL_Color colorGanar = {10, 255, 10, 255};
+		scoreSurf = TTF_RenderText_Solid(font, ganar, colorGanar);
+		texture = SDL_CreateTextureFromSurface(renderer, scoreSurf);
+		rect1.h = scoreSurf->clip_rect.h * 4;
+		rect1.w = scoreSurf->clip_rect.w * 4;
+		rect1.x = 320 - rect1.w/2;
+		rect1.y = 320 - rect1.h/2 - 100;
+
+		SDL_RenderCopy(renderer, texture, NULL, &rect1);
+	}*/
+
+    //Presenta el dibujo
+    SDL_RenderPresent(renderer);
+}
+
+
+#endif
